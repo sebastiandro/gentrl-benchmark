@@ -1,0 +1,6 @@
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+GENTRL/
+__pycache__

@@ -1,0 +1,11950 @@
+Epoch 1 :
+loss: 3.374;
+rec: -3.574;
+kl: -68.66;
+log_p_y_by_z: 1.315;
+log_p_z_by_y: -74.57;
+
+loss: 2.199;
+rec: -2.397;
+kl: -64.08;
+log_p_y_by_z: 1.339;
+log_p_z_by_y: -65.28;
+
+loss: 1.562;
+rec: -1.742;
+kl: -44.29;
+log_p_y_by_z: 1.35;
+log_p_z_by_y: -46.58;
+
+loss: 1.335;
+rec: -1.505;
+kl: -36.53;
+log_p_y_by_z: 1.336;
+log_p_z_by_y: -41.26;
+
+loss: 1.195;
+rec: -1.366;
+kl: -34.57;
+log_p_y_by_z: 1.36;
+log_p_z_by_y: -40.43;
+
+loss: 1.121;
+rec: -1.291;
+kl: -33.86;
+log_p_y_by_z: 1.361;
+log_p_z_by_y: -40.57;
+
+loss: 1.058;
+rec: -1.23;
+kl: -33.54;
+log_p_y_by_z: 1.39;
+log_p_z_by_y: -40.77;
+
+loss: 0.9728;
+rec: -1.193;
+kl: -31.23;
+log_p_y_by_z: 1.89;
+log_p_z_by_y: -39.16;
+
+loss: 0.8564;
+rec: -1.155;
+kl: -29.01;
+log_p_y_by_z: 2.696;
+log_p_z_by_y: -38.79;
+
+loss: 0.7903;
+rec: -1.127;
+kl: -28.59;
+log_p_y_by_z: 3.086;
+log_p_z_by_y: -39.13;
+
+loss: 0.7606;
+rec: -1.109;
+kl: -27.98;
+log_p_y_by_z: 3.201;
+log_p_z_by_y: -39.23;
+
+loss: 0.7251;
+rec: -1.086;
+kl: -27.33;
+log_p_y_by_z: 3.338;
+log_p_z_by_y: -39.5;
+
+loss: 0.6989;
+rec: -1.067;
+kl: -27.15;
+log_p_y_by_z: 3.409;
+log_p_z_by_y: -39.62;
+
+loss: 0.6865;
+rec: -1.055;
+kl: -26.68;
+log_p_y_by_z: 3.423;
+log_p_z_by_y: -39.89;
+
+loss: 0.6702;
+rec: -1.038;
+kl: -26.4;
+log_p_y_by_z: 3.419;
+log_p_z_by_y: -39.95;
+
+loss: 0.6525;
+rec: -1.028;
+kl: -25.7;
+log_p_y_by_z: 3.494;
+log_p_z_by_y: -39.73;
+
+loss: 0.6315;
+rec: -1.01;
+kl: -25.6;
+log_p_y_by_z: 3.532;
+log_p_z_by_y: -40.1;
+
+loss: 0.6264;
+rec: -1.005;
+kl: -25.52;
+log_p_y_by_z: 3.533;
+log_p_z_by_y: -40.39;
+
+loss: 0.613;
+rec: -0.9933;
+kl: -25.1;
+log_p_y_by_z: 3.552;
+log_p_z_by_y: -40.32;
+
+loss: 0.6082;
+rec: -0.9838;
+kl: -25.23;
+log_p_y_by_z: 3.504;
+log_p_z_by_y: -40.87;
+
+loss: 0.5946;
+rec: -0.9728;
+kl: -25.41;
+log_p_y_by_z: 3.528;
+log_p_z_by_y: -41.13;
+
+loss: 0.5912;
+rec: -0.9706;
+kl: -25.4;
+log_p_y_by_z: 3.54;
+log_p_z_by_y: -41.59;
+
+loss: 0.5791;
+rec: -0.9611;
+kl: -25.32;
+log_p_y_by_z: 3.567;
+log_p_z_by_y: -41.98;
+
+loss: 0.5692;
+rec: -0.9523;
+kl: -25.09;
+log_p_y_by_z: 3.58;
+log_p_z_by_y: -42.01;
+
+loss: 0.5602;
+rec: -0.9424;
+kl: -25.21;
+log_p_y_by_z: 3.569;
+log_p_z_by_y: -42.36;
+
+loss: 0.5553;
+rec: -0.9367;
+kl: -24.96;
+log_p_y_by_z: 3.564;
+log_p_z_by_y: -42.59;
+
+loss: 0.5403;
+rec: -0.9273;
+kl: -25.43;
+log_p_y_by_z: 3.615;
+log_p_z_by_y: -43.02;
+
+loss: 0.541;
+rec: -0.9294;
+kl: -25.75;
+log_p_y_by_z: 3.627;
+log_p_z_by_y: -43.51;
+
+loss: 0.5333;
+rec: -0.9182;
+kl: -25.97;
+log_p_y_by_z: 3.59;
+log_p_z_by_y: -44.03;
+
+loss: 0.5274;
+rec: -0.9141;
+kl: -25.77;
+log_p_y_by_z: 3.61;
+log_p_z_by_y: -44.36;
+
+loss: 0.5121;
+rec: -0.9037;
+kl: -26.43;
+log_p_y_by_z: 3.652;
+log_p_z_by_y: -44.95;
+
+loss: 0.5202;
+rec: -0.9105;
+kl: -26.99;
+log_p_y_by_z: 3.633;
+log_p_z_by_y: -45.46;
+
+loss: 0.5058;
+rec: -0.8975;
+kl: -26.9;
+log_p_y_by_z: 3.648;
+log_p_z_by_y: -45.83;
+
+loss: 0.5045;
+rec: -0.8979;
+kl: -27.58;
+log_p_y_by_z: 3.658;
+log_p_z_by_y: -46.11;
+
+loss: 0.4992;
+rec: -0.8885;
+kl: -27.46;
+log_p_y_by_z: 3.618;
+log_p_z_by_y: -46.63;
+
+loss: 0.4988;
+rec: -0.8929;
+kl: -27.82;
+log_p_y_by_z: 3.663;
+log_p_z_by_y: -47.08;
+
+loss: 0.4923;
+rec: -0.8878;
+kl: -28.41;
+log_p_y_by_z: 3.671;
+log_p_z_by_y: -47.42;
+
+loss: 0.4941;
+rec: -0.8893;
+kl: -28.39;
+log_p_y_by_z: 3.668;
+log_p_z_by_y: -47.73;
+
+loss: 0.4819;
+rec: -0.8759;
+kl: -28.67;
+log_p_y_by_z: 3.653;
+log_p_z_by_y: -48.12;
+
+loss: 0.4749;
+rec: -0.8741;
+kl: -29.44;
+log_p_y_by_z: 3.697;
+log_p_z_by_y: -48.72;
+
+loss: 0.4699;
+rec: -0.8673;
+kl: -29.16;
+log_p_y_by_z: 3.682;
+log_p_z_by_y: -49.01;
+
+loss: 0.4599;
+rec: -0.8604;
+kl: -29.17;
+log_p_y_by_z: 3.713;
+log_p_z_by_y: -49.34;
+
+loss: 0.4585;
+rec: -0.8581;
+kl: -29.69;
+log_p_y_by_z: 3.699;
+log_p_z_by_y: -49.85;
+
+loss: 0.4602;
+rec: -0.8605;
+kl: -29.75;
+log_p_y_by_z: 3.706;
+log_p_z_by_y: -50.09;
+
+loss: 0.4578;
+rec: -0.8574;
+kl: -29.32;
+log_p_y_by_z: 3.704;
+log_p_z_by_y: -50.21;
+
+loss: 0.4503;
+rec: -0.8519;
+kl: -29.57;
+log_p_y_by_z: 3.721;
+log_p_z_by_y: -50.66;
+
+loss: 0.4495;
+rec: -0.8527;
+kl: -29.34;
+log_p_y_by_z: 3.739;
+log_p_z_by_y: -50.96;
+
+loss: 0.4347;
+rec: -0.841;
+kl: -29.43;
+log_p_y_by_z: 3.768;
+log_p_z_by_y: -51.18;
+
+loss: 0.4386;
+rec: -0.8412;
+kl: -29.84;
+log_p_y_by_z: 3.728;
+log_p_z_by_y: -51.67;
+
+loss: 0.4338;
+rec: -0.8366;
+kl: -30.06;
+log_p_y_by_z: 3.727;
+log_p_z_by_y: -52.3;
+
+loss: 0.4314;
+rec: -0.834;
+kl: -29.8;
+log_p_y_by_z: 3.728;
+log_p_z_by_y: -52.43;
+
+loss: 0.4241;
+rec: -0.8304;
+kl: -30.09;
+log_p_y_by_z: 3.762;
+log_p_z_by_y: -53.13;
+
+loss: 0.4218;
+rec: -0.8262;
+kl: -30.06;
+log_p_y_by_z: 3.744;
+log_p_z_by_y: -53.34;
+
+loss: 0.4209;
+rec: -0.8265;
+kl: -30.18;
+log_p_y_by_z: 3.754;
+log_p_z_by_y: -53.62;
+
+loss: 0.4126;
+rec: -0.8191;
+kl: -30.46;
+log_p_y_by_z: 3.761;
+log_p_z_by_y: -54.32;
+
+loss: 0.4089;
+rec: -0.8176;
+kl: -30.41;
+log_p_y_by_z: 3.783;
+log_p_z_by_y: -54.54;
+
+loss: 0.4121;
+rec: -0.8152;
+kl: -30.18;
+log_p_y_by_z: 3.73;
+log_p_z_by_y: -54.77;
+
+loss: 0.4155;
+rec: -0.8179;
+kl: -30.5;
+log_p_y_by_z: 3.718;
+log_p_z_by_y: -55.38;
+
+loss: 0.405;
+rec: -0.8157;
+kl: -30.71;
+log_p_y_by_z:  3.8;
+log_p_z_by_y: -55.5;
+
+loss: 0.4107;
+rec: -0.8056;
+kl: -31.03;
+log_p_y_by_z: 3.639;
+log_p_z_by_y: -56.13;
+
+loss: 0.397;
+rec: -0.8048;
+kl: -31.23;
+log_p_y_by_z: 3.766;
+log_p_z_by_y: -56.32;
+
+loss: 0.3909;
+rec: -0.8036;
+kl: -31.51;
+log_p_y_by_z: 3.812;
+log_p_z_by_y: -56.7;
+
+loss: 0.3864;
+rec: -0.7982;
+kl: -31.34;
+log_p_y_by_z: 3.804;
+log_p_z_by_y: -57.2;
+
+loss: 0.3848;
+rec: -0.7953;
+kl: -31.01;
+log_p_y_by_z: 3.795;
+log_p_z_by_y: -57.44;
+
+loss: 0.3809;
+rec: -0.7931;
+kl: -31.67;
+log_p_y_by_z: 3.805;
+log_p_z_by_y: -57.75;
+
+loss: 0.3811;
+rec: -0.7915;
+kl: -31.7;
+log_p_y_by_z: 3.787;
+log_p_z_by_y: -58.15;
+
+loss: 0.376;
+rec: -0.7883;
+kl: -31.42;
+log_p_y_by_z: 3.809;
+log_p_z_by_y: -58.45;
+
+loss: 0.3773;
+rec: -0.7911;
+kl: -31.79;
+log_p_y_by_z: 3.82;
+log_p_z_by_y: -58.41;
+
+loss: 0.3765;
+rec: -0.7884;
+kl: -32.35;
+log_p_y_by_z: 3.796;
+log_p_z_by_y: -58.98;
+
+loss: 0.3748;
+rec: -0.7863;
+kl: -31.98;
+log_p_y_by_z: 3.795;
+log_p_z_by_y: -59.19;
+
+loss: 0.3658;
+rec: -0.7778;
+kl: -32.35;
+log_p_y_by_z: 3.797;
+log_p_z_by_y: -59.29;
+
+loss: 0.365;
+rec: -0.7762;
+kl: -32.47;
+log_p_y_by_z: 3.787;
+log_p_z_by_y: -59.72;
+
+loss: 0.3667;
+rec: -0.779;
+kl: -32.39;
+log_p_y_by_z: 3.799;
+log_p_z_by_y: -59.78;
+
+loss: 0.3643;
+rec: -0.7761;
+kl: -32.68;
+log_p_y_by_z: 3.791;
+log_p_z_by_y: -60.22;
+
+loss: 0.3592;
+rec: -0.7728;
+kl: -32.78;
+log_p_y_by_z: 3.809;
+log_p_z_by_y: -60.61;
+
+loss: 0.356;
+rec: -0.7724;
+kl: -32.77;
+log_p_y_by_z: 3.836;
+log_p_z_by_y: -60.49;
+
+loss: 0.3528;
+rec: -0.7646;
+kl: -32.92;
+log_p_y_by_z: 3.789;
+log_p_z_by_y: -60.85;
+
+loss: 0.3536;
+rec: -0.7688;
+kl: -32.85;
+log_p_y_by_z: 3.824;
+log_p_z_by_y: -61.1;
+
+loss: 0.348;
+rec: -0.7632;
+kl: -33.09;
+log_p_y_by_z: 3.82;
+log_p_z_by_y: -61.31;
+
+loss: 0.3448;
+rec: -0.7612;
+kl: -33.54;
+log_p_y_by_z: 3.828;
+log_p_z_by_y: -61.73;
+
+loss: 0.3472;
+rec: -0.7622;
+kl: -33.14;
+log_p_y_by_z: 3.819;
+log_p_z_by_y: -61.91;
+
+loss: 0.3367;
+rec: -0.7551;
+kl: -33.78;
+log_p_y_by_z: 3.847;
+log_p_z_by_y: -62.37;
+
+loss: 0.3431;
+rec: -0.7529;
+kl: -33.28;
+log_p_y_by_z: 3.765;
+log_p_z_by_y: -62.38;
+
+loss: 0.3408;
+rec: -0.7533;
+kl: -33.3;
+log_p_y_by_z: 3.792;
+log_p_z_by_y: -62.69;
+
+loss: 0.3309;
+rec: -0.7491;
+kl: -33.39;
+log_p_y_by_z: 3.848;
+log_p_z_by_y: -62.9;
+
+loss: 0.3315;
+rec: -0.7476;
+kl: -33.08;
+log_p_y_by_z: 3.83;
+log_p_z_by_y: -62.95;
+
+loss: 0.3276;
+rec: -0.7404;
+kl: -32.63;
+log_p_y_by_z: 3.801;
+log_p_z_by_y: -63.47;
+
+loss: 0.3271;
+rec: -0.7423;
+kl: -32.87;
+log_p_y_by_z: 3.823;
+log_p_z_by_y: -63.73;
+
+loss: 0.3237;
+rec: -0.7393;
+kl: -33.17;
+log_p_y_by_z: 3.824;
+log_p_z_by_y: -64.17;
+
+loss: 0.3124;
+rec: -0.7305;
+kl: -33.3;
+log_p_y_by_z: 3.847;
+log_p_z_by_y: -64.3;
+
+loss: 0.3186;
+rec: -0.7379;
+kl: -33.25;
+log_p_y_by_z: 3.861;
+log_p_z_by_y: -64.7;
+
+loss: 0.3221;
+rec: -0.7366;
+kl: -32.88;
+log_p_y_by_z: 3.816;
+log_p_z_by_y: -64.83;
+
+loss: 0.3153;
+rec: -0.7321;
+kl: -32.9;
+log_p_y_by_z: 3.839;
+log_p_z_by_y: -65.18;
+
+loss: 0.3182;
+rec: -0.7356;
+kl: -32.72;
+log_p_y_by_z: 3.847;
+log_p_z_by_y: -65.32;
+
+loss: 0.3065;
+rec: -0.7269;
+kl: -33.41;
+log_p_y_by_z: 3.87;
+log_p_z_by_y: -65.65;
+
+loss: 0.3126;
+rec: -0.7291;
+kl: -32.71;
+log_p_y_by_z: 3.837;
+log_p_z_by_y: -65.75;
+
+loss: 0.3063;
+rec: -0.7258;
+kl: -33.27;
+log_p_y_by_z: 3.862;
+log_p_z_by_y: -66.05;
+
+loss: 0.303;
+rec: -0.7218;
+kl: -33.15;
+log_p_y_by_z: 3.857;
+log_p_z_by_y: -66.01;
+
+loss: 0.3098;
+rec: -0.7242;
+kl: -33.44;
+log_p_y_by_z: 3.809;
+log_p_z_by_y: -66.43;
+
+loss: 0.3018;
+rec: -0.7183;
+kl: -33.09;
+log_p_y_by_z: 3.834;
+log_p_z_by_y: -66.63;
+
+loss: 0.2973;
+rec: -0.7169;
+kl: -33.61;
+log_p_y_by_z: 3.861;
+log_p_z_by_y: -67.14;
+
+loss: 0.2973;
+rec: -0.7128;
+kl: -33.38;
+log_p_y_by_z: 3.821;
+log_p_z_by_y: -67.34;
+
+loss: 0.3031;
+rec: -0.7162;
+kl: -33.15;
+log_p_y_by_z:  3.8;
+log_p_z_by_y: -67.45;
+
+loss: 0.2903;
+rec: -0.7087;
+kl: -33.2;
+log_p_y_by_z: 3.852;
+log_p_z_by_y: -67.45;
+
+loss: 0.2921;
+rec: -0.712;
+kl: -33.24;
+log_p_y_by_z: 3.866;
+log_p_z_by_y: -67.82;
+
+loss: 0.2864;
+rec: -0.7061;
+kl: -33.65;
+log_p_y_by_z: 3.861;
+log_p_z_by_y: -68.02;
+
+loss: 0.2866;
+rec: -0.7063;
+kl: -33.19;
+log_p_y_by_z: 3.865;
+log_p_z_by_y: -68.34;
+
+loss: 0.2835;
+rec: -0.7025;
+kl: -33.02;
+log_p_y_by_z: 3.859;
+log_p_z_by_y: -68.64;
+
+loss: 0.2796;
+rec: -0.6974;
+kl: -33.4;
+log_p_y_by_z: 3.844;
+log_p_z_by_y: -68.97;
+
+loss: 0.2821;
+rec: -0.6994;
+kl: -33.34;
+log_p_y_by_z: 3.839;
+log_p_z_by_y: -69.01;
+
+loss: 0.2777;
+rec: -0.698;
+kl: -33.27;
+log_p_y_by_z: 3.87;
+log_p_z_by_y: -69.24;
+
+loss: 0.271;
+rec: -0.6919;
+kl: -33.16;
+log_p_y_by_z: 3.878;
+log_p_z_by_y: -69.36;
+
+loss: 0.2764;
+rec: -0.6938;
+kl: -33.37;
+log_p_y_by_z: 3.841;
+log_p_z_by_y: -69.55;
+
+loss: 0.2784;
+rec: -0.697;
+kl: -33.19;
+log_p_y_by_z: 3.855;
+log_p_z_by_y: -69.74;
+
+loss: 0.2707;
+rec: -0.6915;
+kl: -33.25;
+log_p_y_by_z: 3.876;
+log_p_z_by_y: -70.12;
+
+loss: 0.2722;
+rec: -0.6896;
+kl: -33.36;
+log_p_y_by_z: 3.84;
+log_p_z_by_y: -70.36;
+
+loss: 0.2632;
+rec: -0.6825;
+kl: -32.97;
+log_p_y_by_z: 3.864;
+log_p_z_by_y: -70.33;
+
+loss: 0.2674;
+rec: -0.687;
+kl: -33.65;
+log_p_y_by_z: 3.859;
+log_p_z_by_y: -70.49;
+
+loss: 0.2654;
+rec: -0.6861;
+kl: -33.58;
+log_p_y_by_z: 3.871;
+log_p_z_by_y: -70.95;
+
+loss: 0.2685;
+rec: -0.6865;
+kl: -33.58;
+log_p_y_by_z: 3.844;
+log_p_z_by_y: -71.16;
+
+loss: 0.2679;
+rec: -0.6866;
+kl: -33.44;
+log_p_y_by_z: 3.852;
+log_p_z_by_y: -71.23;
+
+loss: 0.2634;
+rec: -0.6832;
+kl: -33.92;
+log_p_y_by_z: 3.859;
+log_p_z_by_y: -71.61;
+
+loss: 0.2605;
+rec: -0.6755;
+kl: -33.59;
+log_p_y_by_z: 3.814;
+log_p_z_by_y: -71.87;
+
+loss: 0.256;
+rec: -0.6758;
+kl: -33.81;
+log_p_y_by_z: 3.86;
+log_p_z_by_y: -72.02;
+
+loss: 0.2535;
+rec: -0.6743;
+kl: -33.89;
+log_p_y_by_z: 3.869;
+log_p_z_by_y: -72.14;
+
+loss: 0.2466;
+rec: -0.6713;
+kl: -34.1;
+log_p_y_by_z: 3.906;
+log_p_z_by_y: -72.02;
+
+loss: 0.256;
+rec: -0.6759;
+kl: -33.99;
+log_p_y_by_z: 3.858;
+log_p_z_by_y: -72.7;
+
+loss: 0.2507;
+rec: -0.6715;
+kl: -34.18;
+log_p_y_by_z: 3.867;
+log_p_z_by_y: -72.61;
+
+loss: 0.2525;
+rec: -0.6686;
+kl: -34.03;
+log_p_y_by_z: 3.821;
+log_p_z_by_y: -72.97;
+
+loss: 0.2429;
+rec: -0.6665;
+kl: -34.15;
+log_p_y_by_z: 3.895;
+log_p_z_by_y: -73.03;
+
+loss: 0.2425;
+rec: -0.6642;
+kl: -34.2;
+log_p_y_by_z: 3.874;
+log_p_z_by_y: -73.38;
+
+loss: 0.2474;
+rec: -0.6715;
+kl: -34.31;
+log_p_y_by_z: 3.898;
+log_p_z_by_y: -73.44;
+
+loss: 0.2438;
+rec: -0.6671;
+kl: -34.29;
+log_p_y_by_z: 3.89;
+log_p_z_by_y: -73.59;
+
+loss: 0.2435;
+rec: -0.6653;
+kl: -34.36;
+log_p_y_by_z: 3.874;
+log_p_z_by_y: -73.68;
+
+loss: 0.2413;
+rec: -0.6644;
+kl: -34.41;
+log_p_y_by_z: 3.887;
+log_p_z_by_y: -73.95;
+
+loss: 0.2464;
+rec: -0.6646;
+kl: -33.93;
+log_p_y_by_z: 3.843;
+log_p_z_by_y: -73.96;
+
+loss: 0.2403;
+rec: -0.6613;
+kl: -34.73;
+log_p_y_by_z: 3.863;
+log_p_z_by_y: -74.28;
+
+loss: 0.2389;
+rec: -0.6579;
+kl: -34.62;
+log_p_y_by_z: 3.843;
+log_p_z_by_y: -74.77;
+
+loss: 0.2328;
+rec: -0.656;
+kl: -34.6;
+log_p_y_by_z: 3.886;
+log_p_z_by_y: -74.65;
+
+loss: 0.235;
+rec: -0.6567;
+kl: -34.55;
+log_p_y_by_z: 3.872;
+log_p_z_by_y: -74.69;
+
+loss: 0.239;
+rec: -0.6598;
+kl: -34.76;
+log_p_y_by_z: 3.86;
+log_p_z_by_y: -74.88;
+
+loss: 0.2318;
+rec: -0.6536;
+kl: -34.92;
+log_p_y_by_z: 3.87;
+log_p_z_by_y: -75.15;
+
+loss: 0.2288;
+rec: -0.6538;
+kl: -34.77;
+log_p_y_by_z: 3.902;
+log_p_z_by_y: -75.47;
+
+loss: 0.2258;
+rec: -0.6527;
+kl: -34.95;
+log_p_y_by_z: 3.919;
+log_p_z_by_y: -75.43;
+
+loss: 0.2297;
+rec: -0.6516;
+kl: -35.35;
+log_p_y_by_z: 3.866;
+log_p_z_by_y: -75.89;
+
+loss: 0.2332;
+rec: -0.652;
+kl: -35.61;
+log_p_y_by_z: 3.832;
+log_p_z_by_y: -75.98;
+
+loss: 0.2262;
+rec: -0.6483;
+kl: -35.17;
+log_p_y_by_z: 3.869;
+log_p_z_by_y: -76.38;
+
+loss: 0.2276;
+rec: -0.6532;
+kl: -34.92;
+log_p_y_by_z: 3.907;
+log_p_z_by_y: -76.04;
+
+loss: 0.2221;
+rec: -0.6489;
+kl: -35.5;
+log_p_y_by_z: 3.913;
+log_p_z_by_y: -76.17;
+
+loss: 0.2197;
+rec: -0.6467;
+kl: -35.77;
+log_p_y_by_z: 3.912;
+log_p_z_by_y: -76.37;
+
+loss: 0.2168;
+rec: -0.6423;
+kl: -35.8;
+log_p_y_by_z: 3.897;
+log_p_z_by_y: -76.81;
+
+loss: 0.2208;
+rec: -0.6468;
+kl: -35.82;
+log_p_y_by_z: 3.902;
+log_p_z_by_y: -76.82;
+
+loss: 0.2178;
+rec: -0.6431;
+kl: -35.75;
+log_p_y_by_z: 3.895;
+log_p_z_by_y: -77.02;
+
+loss: 0.2214;
+rec: -0.6433;
+kl: -35.72;
+log_p_y_by_z: 3.862;
+log_p_z_by_y: -77.13;
+
+loss: 0.2159;
+rec: -0.6404;
+kl: -36.15;
+log_p_y_by_z: 3.884;
+log_p_z_by_y: -77.55;
+
+loss: 0.2159;
+rec: -0.6383;
+kl: -35.91;
+log_p_y_by_z: 3.865;
+log_p_z_by_y: -77.76;
+
+loss: 0.2216;
+rec: -0.636;
+kl: -36.03;
+log_p_y_by_z: 3.784;
+log_p_z_by_y: -77.86;
+
+loss: 0.2095;
+rec: -0.6374;
+kl: -35.69;
+log_p_y_by_z: 3.922;
+log_p_z_by_y: -78.0;
+
+loss: 0.206;
+rec: -0.6337;
+kl: -36.13;
+log_p_y_by_z: 3.915;
+log_p_z_by_y: -78.19;
+
+loss: 0.2102;
+rec: -0.6319;
+kl: -36.5;
+log_p_y_by_z: 3.852;
+log_p_z_by_y: -78.35;
+
+loss: 0.2075;
+rec: -0.6329;
+kl: -36.15;
+log_p_y_by_z: 3.892;
+log_p_z_by_y: -78.42;
+
+loss: 0.2072;
+rec: -0.6353;
+kl: -36.04;
+log_p_y_by_z: 3.922;
+log_p_z_by_y: -78.67;
+
+loss: 0.2001;
+rec: -0.6293;
+kl: -36.3;
+log_p_y_by_z: 3.93;
+log_p_z_by_y: -78.67;
+
+loss: 0.2057;
+rec: -0.6326;
+kl: -36.07;
+log_p_y_by_z: 3.908;
+log_p_z_by_y: -79.23;
+
+loss: 0.1951;
+rec: -0.6245;
+kl: -36.48;
+log_p_y_by_z: 3.929;
+log_p_z_by_y: -79.08;
+
+loss: 0.2026;
+rec: -0.6297;
+kl: -36.58;
+log_p_y_by_z: 3.906;
+log_p_z_by_y: -79.34;
+
+loss: 0.1964;
+rec: -0.6273;
+kl: -36.53;
+log_p_y_by_z: 3.944;
+log_p_z_by_y: -79.45;
+
+loss: 0.2082;
+rec: -0.63;
+kl: -36.66;
+log_p_y_by_z: 3.852;
+log_p_z_by_y: -80.04;
+
+loss: 0.1951;
+rec: -0.6239;
+kl: -36.67;
+log_p_y_by_z: 3.922;
+log_p_z_by_y: -79.95;
+
+loss: 0.1946;
+rec: -0.6224;
+kl: -36.91;
+log_p_y_by_z: 3.909;
+log_p_z_by_y: -80.25;
+
+loss: 0.1974;
+rec: -0.6259;
+kl: -36.54;
+log_p_y_by_z: 3.919;
+log_p_z_by_y: -80.38;
+
+loss: 0.1977;
+rec: -0.6236;
+kl: -36.73;
+log_p_y_by_z: 3.891;
+log_p_z_by_y: -80.36;
+
+loss: 0.1898;
+rec: -0.6161;
+kl: -36.7;
+log_p_y_by_z: 3.897;
+log_p_z_by_y: -80.48;
+
+loss: 0.1946;
+rec: -0.6198;
+kl: -36.97;
+log_p_y_by_z: 3.882;
+log_p_z_by_y: -80.93;
+
+loss: 0.1939;
+rec: -0.6146;
+kl: -36.89;
+log_p_y_by_z: 3.837;
+log_p_z_by_y: -81.05;
+
+loss: 0.1913;
+rec: -0.6184;
+kl: -36.98;
+log_p_y_by_z: 3.901;
+log_p_z_by_y: -81.19;
+
+loss: 0.187;
+rec: -0.6177;
+kl: -37.19;
+log_p_y_by_z: 3.935;
+log_p_z_by_y: -81.42;
+
+loss: 0.1867;
+rec: -0.6154;
+kl: -37.11;
+log_p_y_by_z: 3.915;
+log_p_z_by_y: -81.69;
+
+loss: 0.1941;
+rec: -0.6179;
+kl: -37.15;
+log_p_y_by_z: 3.867;
+log_p_z_by_y: -82.02;
+
+loss: 0.1856;
+rec: -0.6158;
+kl: -37.52;
+log_p_y_by_z: 3.927;
+log_p_z_by_y: -81.99;
+
+loss: 0.1891;
+rec: -0.6165;
+kl: -37.26;
+log_p_y_by_z: 3.901;
+log_p_z_by_y: -82.13;
+
+loss: 0.1834;
+rec: -0.6126;
+kl: -37.26;
+log_p_y_by_z: 3.92;
+log_p_z_by_y: -82.26;
+
+loss: 0.184;
+rec: -0.6114;
+kl: -37.17;
+log_p_y_by_z: 3.903;
+log_p_z_by_y: -82.48;
+
+loss: 0.1912;
+rec: -0.6137;
+kl: -37.42;
+log_p_y_by_z: 3.851;
+log_p_z_by_y: -82.72;
+
+loss: 0.1825;
+rec: -0.6123;
+kl: -37.62;
+log_p_y_by_z: 3.922;
+log_p_z_by_y: -82.7;
+
+loss: 0.1764;
+rec: -0.6066;
+kl: -37.81;
+log_p_y_by_z: 3.924;
+log_p_z_by_y: -82.91;
+
+loss: 0.1848;
+rec: -0.6117;
+kl: -38.02;
+log_p_y_by_z: 3.888;
+log_p_z_by_y: -82.99;
+
+loss: 0.1813;
+rec: -0.6093;
+kl: -37.91;
+log_p_y_by_z: 3.901;
+log_p_z_by_y: -83.43;
+
+loss: 0.1808;
+rec: -0.6094;
+kl: -37.79;
+log_p_y_by_z: 3.908;
+log_p_z_by_y: -83.38;
+
+loss: 0.1706;
+rec: -0.6031;
+kl: -38.49;
+log_p_y_by_z: 3.94;
+log_p_z_by_y: -83.7;
+
+loss: 0.1742;
+rec: -0.606;
+kl: -37.8;
+log_p_y_by_z: 3.94;
+log_p_z_by_y: -83.84;
+
+loss: 0.1746;
+rec: -0.6042;
+kl: -37.78;
+log_p_y_by_z: 3.918;
+log_p_z_by_y: -83.75;
+
+loss: 0.178;
+rec: -0.6064;
+kl: -38.28;
+log_p_y_by_z: 3.901;
+log_p_z_by_y: -83.91;
+
+loss: 0.1748;
+rec: -0.6052;
+kl: -38.35;
+log_p_y_by_z: 3.921;
+log_p_z_by_y: -84.2;
+
+loss: 0.1747;
+rec: -0.6047;
+kl: -38.38;
+log_p_y_by_z: 3.917;
+log_p_z_by_y: -84.39;
+
+loss: 0.1768;
+rec: -0.608;
+kl: -38.24;
+log_p_y_by_z: 3.929;
+log_p_z_by_y: -84.61;
+
+loss: 0.1693;
+rec: -0.5994;
+kl: -38.67;
+log_p_y_by_z: 3.914;
+log_p_z_by_y: -84.76;
+
+loss: 0.1635;
+rec: -0.5964;
+kl: -38.54;
+log_p_y_by_z: 3.944;
+log_p_z_by_y: -84.7;
+
+loss: 0.1686;
+rec: -0.5977;
+kl: -38.61;
+log_p_y_by_z: 3.905;
+log_p_z_by_y: -85.06;
+
+Epoch 2 :
+loss: 0.4279;
+rec: -0.5938;
+kl: -28.47;
+log_p_y_by_z: 1.375;
+log_p_z_by_y: -97.3;
+
+loss: 0.2733;
+rec: -0.6017;
+kl: -40.35;
+log_p_y_by_z: 2.88;
+log_p_z_by_y: -97.83;
+
+loss: 0.2025;
+rec: -0.6032;
+kl: -43.75;
+log_p_y_by_z: 3.57;
+log_p_z_by_y: -99.32;
+
+loss: 0.1956;
+rec: -0.6046;
+kl: -44.86;
+log_p_y_by_z: 3.641;
+log_p_z_by_y: -100.3;
+
+loss: 0.1961;
+rec: -0.6068;
+kl: -45.47;
+log_p_y_by_z: 3.651;
+log_p_z_by_y: -100.0;
+
+loss: 0.1897;
+rec: -0.6012;
+kl: -46.14;
+log_p_y_by_z: 3.654;
+log_p_z_by_y: -100.3;
+
+loss: 0.1851;
+rec: -0.5996;
+kl: -46.13;
+log_p_y_by_z: 3.683;
+log_p_z_by_y: -100.0;
+
+loss: 0.1792;
+rec: -0.5957;
+kl: -46.36;
+log_p_y_by_z: 3.702;
+log_p_z_by_y: -100.1;
+
+loss: 0.186;
+rec: -0.6025;
+kl: -46.98;
+log_p_y_by_z: 3.695;
+log_p_z_by_y: -100.2;
+
+loss: 0.1787;
+rec: -0.5966;
+kl: -47.21;
+log_p_y_by_z: 3.706;
+log_p_z_by_y: -100.5;
+
+loss: 0.175;
+rec: -0.5931;
+kl: -47.91;
+log_p_y_by_z: 3.703;
+log_p_z_by_y: -100.7;
+
+loss: 0.172;
+rec: -0.591;
+kl: -47.78;
+log_p_y_by_z: 3.712;
+log_p_z_by_y: -100.8;
+
+loss: 0.1726;
+rec: -0.5912;
+kl: -47.86;
+log_p_y_by_z: 3.707;
+log_p_z_by_y: -100.8;
+
+loss: 0.1729;
+rec: -0.5912;
+kl: -48.1;
+log_p_y_by_z: 3.702;
+log_p_z_by_y: -101.1;
+
+loss: 0.1731;
+rec: -0.5925;
+kl: -48.23;
+log_p_y_by_z: 3.711;
+log_p_z_by_y: -101.4;
+
+loss: 0.1678;
+rec: -0.5873;
+kl: -48.61;
+log_p_y_by_z: 3.709;
+log_p_z_by_y: -101.8;
+
+loss: 0.1691;
+rec: -0.5884;
+kl: -48.56;
+log_p_y_by_z: 3.707;
+log_p_z_by_y: -101.7;
+
+loss: 0.171;
+rec: -0.5904;
+kl: -49.24;
+log_p_y_by_z: 3.702;
+log_p_z_by_y: -101.9;
+
+loss: 0.1658;
+rec: -0.5868;
+kl: -49.43;
+log_p_y_by_z: 3.716;
+log_p_z_by_y: -102.2;
+
+loss: 0.1686;
+rec: -0.5892;
+kl: -49.41;
+log_p_y_by_z: 3.712;
+log_p_z_by_y: -102.1;
+
+loss: 0.1631;
+rec: -0.5856;
+kl: -49.37;
+log_p_y_by_z: 3.732;
+log_p_z_by_y: -102.3;
+
+loss: 0.1671;
+rec: -0.5881;
+kl: -49.93;
+log_p_y_by_z: 3.71;
+log_p_z_by_y: -102.8;
+
+loss: 0.162;
+rec: -0.5831;
+kl: -49.86;
+log_p_y_by_z: 3.712;
+log_p_z_by_y: -102.8;
+
+loss: 0.1616;
+rec: -0.5837;
+kl: -49.87;
+log_p_y_by_z: 3.722;
+log_p_z_by_y: -103.0;
+
+loss: 0.1581;
+rec: -0.5814;
+kl: -50.16;
+log_p_y_by_z: 3.731;
+log_p_z_by_y: -103.2;
+
+loss: 0.1636;
+rec: -0.587;
+kl: -50.84;
+log_p_y_by_z: 3.725;
+log_p_z_by_y: -103.3;
+
+loss: 0.1586;
+rec: -0.5826;
+kl: -50.88;
+log_p_y_by_z: 3.731;
+log_p_z_by_y: -103.3;
+
+loss: 0.1562;
+rec: -0.58;
+kl: -50.61;
+log_p_y_by_z: 3.732;
+log_p_z_by_y: -103.2;
+
+loss: 0.1536;
+rec: -0.5792;
+kl: -50.81;
+log_p_y_by_z: 3.748;
+log_p_z_by_y: -103.6;
+
+loss: 0.1535;
+rec: -0.5784;
+kl: -50.93;
+log_p_y_by_z: 3.74;
+log_p_z_by_y: -103.7;
+
+loss: 0.1556;
+rec: -0.58;
+kl: -50.91;
+log_p_y_by_z: 3.735;
+log_p_z_by_y: -103.7;
+
+loss: 0.1504;
+rec: -0.5769;
+kl: -50.82;
+log_p_y_by_z: 3.757;
+log_p_z_by_y: -104.0;
+
+loss: 0.1529;
+rec: -0.579;
+kl: -50.99;
+log_p_y_by_z: 3.751;
+log_p_z_by_y: -104.1;
+
+loss: 0.1524;
+rec: -0.5756;
+kl: -50.66;
+log_p_y_by_z: 3.725;
+log_p_z_by_y: -104.3;
+
+loss: 0.1517;
+rec: -0.576;
+kl: -51.37;
+log_p_y_by_z: 3.73;
+log_p_z_by_y: -104.2;
+
+loss: 0.1481;
+rec: -0.5735;
+kl: -51.44;
+log_p_y_by_z: 3.74;
+log_p_z_by_y: -104.5;
+
+loss: 0.145;
+rec: -0.5723;
+kl: -51.58;
+log_p_y_by_z: 3.757;
+log_p_z_by_y: -104.6;
+
+loss: 0.1457;
+rec: -0.571;
+kl: -51.66;
+log_p_y_by_z: 3.737;
+log_p_z_by_y: -104.6;
+
+loss: 0.1442;
+rec: -0.5703;
+kl: -51.61;
+log_p_y_by_z: 3.745;
+log_p_z_by_y: -104.8;
+
+loss: 0.1397;
+rec: -0.5693;
+kl: -52.36;
+log_p_y_by_z: 3.772;
+log_p_z_by_y: -105.2;
+
+loss: 0.1362;
+rec: -0.5654;
+kl: -52.27;
+log_p_y_by_z: 3.77;
+log_p_z_by_y: -105.2;
+
+loss: 0.1376;
+rec: -0.5659;
+kl: -52.21;
+log_p_y_by_z: 3.761;
+log_p_z_by_y: -105.5;
+
+loss: 0.139;
+rec: -0.5658;
+kl: -52.46;
+log_p_y_by_z: 3.743;
+log_p_z_by_y: -105.5;
+
+loss: 0.137;
+rec: -0.5642;
+kl: -52.24;
+log_p_y_by_z: 3.749;
+log_p_z_by_y: -105.7;
+
+loss: 0.1363;
+rec: -0.5658;
+kl: -51.94;
+log_p_y_by_z: 3.776;
+log_p_z_by_y: -105.5;
+
+loss: 0.1395;
+rec: -0.5656;
+kl: -52.35;
+log_p_y_by_z: 3.737;
+log_p_z_by_y: -105.9;
+
+loss: 0.1394;
+rec: -0.5637;
+kl: -52.24;
+log_p_y_by_z: 3.72;
+log_p_z_by_y: -106.2;
+
+loss: 0.1391;
+rec: -0.5654;
+kl: -52.55;
+log_p_y_by_z: 3.738;
+log_p_z_by_y: -106.0;
+
+loss: 0.1388;
+rec: -0.5674;
+kl: -52.61;
+log_p_y_by_z: 3.76;
+log_p_z_by_y: -106.5;
+
+loss: 0.1359;
+rec: -0.5669;
+kl: -52.79;
+log_p_y_by_z: 3.783;
+log_p_z_by_y: -106.8;
+
+loss: 0.137;
+rec: -0.5653;
+kl: -52.39;
+log_p_y_by_z: 3.759;
+log_p_z_by_y: -106.8;
+
+loss: 0.1295;
+rec: -0.5576;
+kl: -52.53;
+log_p_y_by_z: 3.755;
+log_p_z_by_y: -106.5;
+
+loss: 0.129;
+rec: -0.557;
+kl: -53.08;
+log_p_y_by_z: 3.749;
+log_p_z_by_y: -106.7;
+
+loss: 0.1297;
+rec: -0.5583;
+kl: -53.11;
+log_p_y_by_z: 3.755;
+log_p_z_by_y: -106.9;
+
+loss: 0.1291;
+rec: -0.5585;
+kl: -52.95;
+log_p_y_by_z: 3.764;
+log_p_z_by_y: -106.8;
+
+loss: 0.1263;
+rec: -0.5587;
+kl: -52.73;
+log_p_y_by_z: 3.797;
+log_p_z_by_y: -106.7;
+
+loss: 0.1282;
+rec: -0.5541;
+kl: -52.79;
+log_p_y_by_z: 3.731;
+log_p_z_by_y: -107.1;
+
+loss: 0.1258;
+rec: -0.5558;
+kl: -52.79;
+log_p_y_by_z: 3.772;
+log_p_z_by_y: -107.0;
+
+loss: 0.1209;
+rec: -0.5536;
+kl: -53.06;
+log_p_y_by_z: 3.797;
+log_p_z_by_y: -107.0;
+
+loss: 0.1215;
+rec: -0.5519;
+kl: -53.15;
+log_p_y_by_z: 3.772;
+log_p_z_by_y: -107.2;
+
+loss: 0.13;
+rec: -0.5542;
+kl: -53.0;
+log_p_y_by_z: 3.712;
+log_p_z_by_y: -107.4;
+
+loss: 0.1142;
+rec: -0.5491;
+kl: -53.63;
+log_p_y_by_z: 3.813;
+log_p_z_by_y: -107.5;
+
+loss: 0.1178;
+rec: -0.5512;
+kl: -53.01;
+log_p_y_by_z: 3.804;
+log_p_z_by_y: -107.6;
+
+loss: 0.1212;
+rec: -0.5514;
+kl: -52.89;
+log_p_y_by_z: 3.773;
+log_p_z_by_y: -107.6;
+
+loss: 0.1206;
+rec: -0.5493;
+kl: -53.3;
+log_p_y_by_z: 3.754;
+log_p_z_by_y: -107.8;
+
+loss: 0.1122;
+rec: -0.5454;
+kl: -53.55;
+log_p_y_by_z: 3.796;
+log_p_z_by_y: -108.0;
+
+loss: 0.114;
+rec: -0.5467;
+kl: -52.93;
+log_p_y_by_z: 3.797;
+log_p_z_by_y: -108.2;
+
+loss: 0.1141;
+rec: -0.5474;
+kl: -53.2;
+log_p_y_by_z: 3.801;
+log_p_z_by_y: -108.2;
+
+loss: 0.1092;
+rec: -0.544;
+kl: -52.63;
+log_p_y_by_z: 3.821;
+log_p_z_by_y: -108.4;
+
+loss: 0.1126;
+rec: -0.5474;
+kl: -53.07;
+log_p_y_by_z: 3.817;
+log_p_z_by_y: -108.4;
+
+loss: 0.1108;
+rec: -0.5441;
+kl: -52.85;
+log_p_y_by_z: 3.805;
+log_p_z_by_y: -108.3;
+
+loss: 0.1074;
+rec: -0.542;
+kl: -52.76;
+log_p_y_by_z: 3.818;
+log_p_z_by_y: -108.4;
+
+loss: 0.1113;
+rec: -0.5461;
+kl: -52.59;
+log_p_y_by_z: 3.822;
+log_p_z_by_y: -108.4;
+
+loss: 0.1103;
+rec: -0.5448;
+kl: -52.8;
+log_p_y_by_z: 3.816;
+log_p_z_by_y: -108.8;
+
+loss: 0.1032;
+rec: -0.5404;
+kl: -53.2;
+log_p_y_by_z: 3.839;
+log_p_z_by_y: -108.7;
+
+loss: 0.1052;
+rec: -0.543;
+kl: -53.02;
+log_p_y_by_z: 3.848;
+log_p_z_by_y: -109.0;
+
+loss: 0.1056;
+rec: -0.5432;
+kl: -53.4;
+log_p_y_by_z: 3.842;
+log_p_z_by_y: -109.0;
+
+loss: 0.09361;
+rec: -0.5327;
+kl: -53.7;
+log_p_y_by_z: 3.854;
+log_p_z_by_y: -109.1;
+
+loss: 0.1008;
+rec: -0.5395;
+kl: -53.18;
+log_p_y_by_z: 3.855;
+log_p_z_by_y: -109.4;
+
+loss: 0.1014;
+rec: -0.5366;
+kl: -53.1;
+log_p_y_by_z: 3.821;
+log_p_z_by_y: -109.5;
+
+loss: 0.1069;
+rec: -0.5417;
+kl: -53.1;
+log_p_y_by_z: 3.817;
+log_p_z_by_y: -109.5;
+
+loss: 0.0985;
+rec: -0.5354;
+kl: -53.52;
+log_p_y_by_z: 3.834;
+log_p_z_by_y: -109.9;
+
+loss: 0.09604;
+rec: -0.536;
+kl: -53.27;
+log_p_y_by_z: 3.867;
+log_p_z_by_y: -109.6;
+
+loss: 0.0987;
+rec: -0.5394;
+kl: -53.08;
+log_p_y_by_z: 3.877;
+log_p_z_by_y: -109.7;
+
+loss: 0.09596;
+rec: -0.5365;
+kl: -53.86;
+log_p_y_by_z: 3.867;
+log_p_z_by_y: -109.7;
+
+loss: 0.09678;
+rec: -0.5372;
+kl: -53.42;
+log_p_y_by_z: 3.87;
+log_p_z_by_y: -110.0;
+
+loss: 0.09874;
+rec: -0.5367;
+kl: -53.55;
+log_p_y_by_z: 3.844;
+log_p_z_by_y: -109.9;
+
+loss: 0.09554;
+rec: -0.5343;
+kl: -53.58;
+log_p_y_by_z: 3.852;
+log_p_z_by_y: -110.4;
+
+loss: 0.0999;
+rec: -0.5406;
+kl: -53.59;
+log_p_y_by_z: 3.872;
+log_p_z_by_y: -110.4;
+
+loss: 0.0957;
+rec: -0.5338;
+kl: -53.87;
+log_p_y_by_z: 3.842;
+log_p_z_by_y: -110.5;
+
+loss: 0.09075;
+rec: -0.5293;
+kl: -53.85;
+log_p_y_by_z: 3.847;
+log_p_z_by_y: -110.4;
+
+loss: 0.09091;
+rec: -0.5322;
+kl: -53.88;
+log_p_y_by_z: 3.874;
+log_p_z_by_y: -110.9;
+
+loss: 0.09013;
+rec: -0.5312;
+kl: -53.97;
+log_p_y_by_z: 3.871;
+log_p_z_by_y: -110.8;
+
+loss: 0.08629;
+rec: -0.5295;
+kl: -54.23;
+log_p_y_by_z: 3.89;
+log_p_z_by_y: -110.9;
+
+loss: 0.088;
+rec: -0.5284;
+kl: -53.88;
+log_p_y_by_z: 3.865;
+log_p_z_by_y: -111.0;
+
+loss: 0.09417;
+rec: -0.5342;
+kl: -53.63;
+log_p_y_by_z: 3.864;
+log_p_z_by_y: -111.1;
+
+loss: 0.08514;
+rec: -0.5276;
+kl: -54.39;
+log_p_y_by_z: 3.881;
+log_p_z_by_y: -111.2;
+
+loss: 0.0885;
+rec: -0.5297;
+kl: -54.14;
+log_p_y_by_z: 3.871;
+log_p_z_by_y: -111.4;
+
+loss: 0.08818;
+rec: -0.5312;
+kl: -54.31;
+log_p_y_by_z: 3.887;
+log_p_z_by_y: -111.4;
+
+loss: 0.08198;
+rec: -0.5259;
+kl: -54.65;
+log_p_y_by_z: 3.892;
+log_p_z_by_y: -111.7;
+
+loss: 0.08649;
+rec: -0.5292;
+kl: -54.36;
+log_p_y_by_z: 3.884;
+log_p_z_by_y: -111.7;
+
+loss: 0.08799;
+rec: -0.5294;
+kl: -54.62;
+log_p_y_by_z: 3.868;
+log_p_z_by_y: -111.6;
+
+loss: 0.08595;
+rec: -0.5285;
+kl: -54.58;
+log_p_y_by_z: 3.88;
+log_p_z_by_y: -111.6;
+
+loss: 0.08149;
+rec: -0.5262;
+kl: -54.58;
+log_p_y_by_z: 3.902;
+log_p_z_by_y: -111.8;
+
+loss: 0.08038;
+rec: -0.5245;
+kl: -54.48;
+log_p_y_by_z: 3.896;
+log_p_z_by_y: -111.8;
+
+loss: 0.08327;
+rec: -0.523;
+kl: -54.49;
+log_p_y_by_z: 3.852;
+log_p_z_by_y: -112.2;
+
+loss: 0.08159;
+rec: -0.5228;
+kl: -55.16;
+log_p_y_by_z: 3.86;
+log_p_z_by_y: -112.1;
+
+loss: 0.08337;
+rec: -0.5247;
+kl: -54.75;
+log_p_y_by_z: 3.866;
+log_p_z_by_y: -112.4;
+
+loss: 0.07892;
+rec: -0.5237;
+kl: -54.69;
+log_p_y_by_z: 3.901;
+log_p_z_by_y: -112.5;
+
+loss: 0.08336;
+rec: -0.5211;
+kl: -55.27;
+log_p_y_by_z: 3.825;
+log_p_z_by_y: -112.7;
+
+loss: 0.07922;
+rec: -0.5196;
+kl: -54.92;
+log_p_y_by_z: 3.855;
+log_p_z_by_y: -112.8;
+
+loss: 0.07554;
+rec: -0.5183;
+kl: -55.08;
+log_p_y_by_z: 3.877;
+log_p_z_by_y: -112.7;
+
+loss: 0.07451;
+rec: -0.5202;
+kl: -55.52;
+log_p_y_by_z: 3.902;
+log_p_z_by_y: -112.7;
+
+loss: 0.07966;
+rec: -0.5229;
+kl: -55.26;
+log_p_y_by_z: 3.88;
+log_p_z_by_y: -113.2;
+
+loss: 0.07212;
+rec: -0.5184;
+kl: -55.25;
+log_p_y_by_z: 3.911;
+log_p_z_by_y: -113.2;
+
+loss: 0.07048;
+rec: -0.5173;
+kl: -55.09;
+log_p_y_by_z: 3.918;
+log_p_z_by_y: -113.0;
+
+loss: 0.07256;
+rec: -0.5174;
+kl: -55.42;
+log_p_y_by_z: 3.895;
+log_p_z_by_y: -113.3;
+
+loss: 0.06949;
+rec: -0.5161;
+kl: -55.91;
+log_p_y_by_z: 3.907;
+log_p_z_by_y: -113.2;
+
+loss: 0.07459;
+rec: -0.5203;
+kl: -55.58;
+log_p_y_by_z: 3.901;
+log_p_z_by_y: -113.2;
+
+loss: 0.07636;
+rec: -0.5184;
+kl: -55.58;
+log_p_y_by_z: 3.865;
+log_p_z_by_y: -113.4;
+
+loss: 0.0683;
+rec: -0.5149;
+kl: -55.87;
+log_p_y_by_z: 3.907;
+log_p_z_by_y: -113.6;
+
+loss: 0.0676;
+rec: -0.5153;
+kl: -56.0;
+log_p_y_by_z: 3.917;
+log_p_z_by_y: -113.7;
+
+loss: 0.06834;
+rec: -0.5134;
+kl: -55.63;
+log_p_y_by_z: 3.894;
+log_p_z_by_y: -113.9;
+
+loss: 0.06824;
+rec: -0.514;
+kl: -55.89;
+log_p_y_by_z: 3.899;
+log_p_z_by_y: -114.0;
+
+loss: 0.0737;
+rec: -0.5171;
+kl: -55.9;
+log_p_y_by_z: 3.875;
+log_p_z_by_y: -114.1;
+
+loss: 0.06752;
+rec: -0.5151;
+kl: -56.21;
+log_p_y_by_z: 3.914;
+log_p_z_by_y: -114.3;
+
+loss: 0.07414;
+rec: -0.5185;
+kl: -56.32;
+log_p_y_by_z: 3.88;
+log_p_z_by_y: -114.3;
+
+loss: 0.06548;
+rec: -0.5128;
+kl: -55.83;
+log_p_y_by_z: 3.915;
+log_p_z_by_y: -114.3;
+
+loss: 0.05745;
+rec: -0.5073;
+kl: -56.11;
+log_p_y_by_z: 3.938;
+log_p_z_by_y: -114.6;
+
+loss: 0.0628;
+rec: -0.5095;
+kl: -56.13;
+log_p_y_by_z: 3.906;
+log_p_z_by_y: -114.8;
+
+loss: 0.06764;
+rec: -0.5141;
+kl: -56.47;
+log_p_y_by_z:  3.9;
+log_p_z_by_y: -114.8;
+
+loss: 0.06081;
+rec: -0.5088;
+kl: -56.42;
+log_p_y_by_z: 3.915;
+log_p_z_by_y: -115.1;
+
+loss: 0.06737;
+rec: -0.5111;
+kl: -56.75;
+log_p_y_by_z: 3.87;
+log_p_z_by_y: -115.3;
+
+loss: 0.06844;
+rec: -0.5151;
+kl: -56.71;
+log_p_y_by_z:  3.9;
+log_p_z_by_y: -115.1;
+
+loss: 0.05974;
+rec: -0.5083;
+kl: -56.46;
+log_p_y_by_z: 3.921;
+log_p_z_by_y: -115.1;
+
+loss: 0.06765;
+rec: -0.5099;
+kl: -56.66;
+log_p_y_by_z: 3.856;
+log_p_z_by_y: -115.1;
+
+loss: 0.06228;
+rec: -0.5078;
+kl: -57.3;
+log_p_y_by_z: 3.882;
+log_p_z_by_y: -115.4;
+
+loss: 0.0598;
+rec: -0.5087;
+kl: -56.75;
+log_p_y_by_z: 3.921;
+log_p_z_by_y: -115.2;
+
+loss: 0.0586;
+rec: -0.508;
+kl: -57.27;
+log_p_y_by_z: 3.922;
+log_p_z_by_y: -115.5;
+
+loss: 0.05725;
+rec: -0.5058;
+kl: -56.95;
+log_p_y_by_z: 3.916;
+log_p_z_by_y: -115.6;
+
+loss: 0.05074;
+rec: -0.5025;
+kl: -57.35;
+log_p_y_by_z: 3.944;
+log_p_z_by_y: -115.8;
+
+loss: 0.05791;
+rec: -0.5064;
+kl: -56.84;
+log_p_y_by_z: 3.917;
+log_p_z_by_y: -115.8;
+
+loss: 0.05487;
+rec: -0.5029;
+kl: -56.92;
+log_p_y_by_z: 3.911;
+log_p_z_by_y: -116.3;
+
+loss: 0.05853;
+rec: -0.5071;
+kl: -56.95;
+log_p_y_by_z: 3.917;
+log_p_z_by_y: -116.1;
+
+loss: 0.06309;
+rec: -0.5107;
+kl: -57.19;
+log_p_y_by_z: 3.904;
+log_p_z_by_y: -116.2;
+
+loss: 0.04924;
+rec: -0.4994;
+kl: -57.5;
+log_p_y_by_z: 3.926;
+log_p_z_by_y: -116.4;
+
+loss: 0.05742;
+rec: -0.5069;
+kl: -57.51;
+log_p_y_by_z: 3.92;
+log_p_z_by_y: -116.2;
+
+loss: 0.04708;
+rec: -0.4977;
+kl: -57.49;
+log_p_y_by_z: 3.932;
+log_p_z_by_y: -116.5;
+
+loss: 0.04734;
+rec: -0.5002;
+kl: -57.45;
+log_p_y_by_z: 3.954;
+log_p_z_by_y: -116.5;
+
+loss: 0.04937;
+rec: -0.5019;
+kl: -57.44;
+log_p_y_by_z: 3.951;
+log_p_z_by_y: -116.7;
+
+loss: 0.04968;
+rec: -0.4997;
+kl: -58.04;
+log_p_y_by_z: 3.92;
+log_p_z_by_y: -116.7;
+
+loss: 0.04933;
+rec: -0.5026;
+kl: -57.77;
+log_p_y_by_z: 3.955;
+log_p_z_by_y: -116.4;
+
+loss: 0.0509;
+rec: -0.5011;
+kl: -57.87;
+log_p_y_by_z: 3.924;
+log_p_z_by_y: -117.0;
+
+loss: 0.04698;
+rec: -0.5002;
+kl: -58.12;
+log_p_y_by_z: 3.951;
+log_p_z_by_y: -117.4;
+
+loss: 0.04746;
+rec: -0.4983;
+kl: -58.43;
+log_p_y_by_z: 3.924;
+log_p_z_by_y: -117.2;
+
+loss: 0.04945;
+rec: -0.4993;
+kl: -58.08;
+log_p_y_by_z: 3.918;
+log_p_z_by_y: -117.3;
+
+loss: 0.05088;
+rec: -0.5031;
+kl: -58.2;
+log_p_y_by_z: 3.941;
+log_p_z_by_y: -117.1;
+
+loss: 0.06654;
+rec: -0.4998;
+kl: -57.77;
+log_p_y_by_z: 3.755;
+log_p_z_by_y: -117.6;
+
+loss: 0.06591;
+rec: -0.505;
+kl: -58.03;
+log_p_y_by_z: 3.811;
+log_p_z_by_y: -117.7;
+
+loss: 0.04538;
+rec: -0.4972;
+kl: -58.38;
+log_p_y_by_z: 3.934;
+log_p_z_by_y: -117.6;
+
+loss: 0.05111;
+rec: -0.5047;
+kl: -57.82;
+log_p_y_by_z: 3.958;
+log_p_z_by_y: -117.7;
+
+loss: 0.04005;
+rec: -0.4942;
+kl: -58.32;
+log_p_y_by_z: 3.958;
+log_p_z_by_y: -117.6;
+
+loss: 0.04517;
+rec: -0.4999;
+kl: -58.59;
+log_p_y_by_z: 3.961;
+log_p_z_by_y: -117.6;
+
+loss: 0.0401;
+rec: -0.4948;
+kl: -58.59;
+log_p_y_by_z: 3.961;
+log_p_z_by_y: -118.1;
+
+loss: 0.04206;
+rec: -0.4951;
+kl: -58.94;
+log_p_y_by_z: 3.941;
+log_p_z_by_y: -118.1;
+
+loss: 0.03551;
+rec: -0.4918;
+kl: -58.71;
+log_p_y_by_z: 3.976;
+log_p_z_by_y: -118.1;
+
+loss: 0.04314;
+rec: -0.4937;
+kl: -58.78;
+log_p_y_by_z: 3.918;
+log_p_z_by_y: -118.3;
+
+loss: 0.04088;
+rec: -0.4939;
+kl: -58.94;
+log_p_y_by_z: 3.941;
+log_p_z_by_y: -118.6;
+
+loss: 0.04472;
+rec: -0.4956;
+kl: -58.87;
+log_p_y_by_z: 3.92;
+log_p_z_by_y: -118.2;
+
+loss: 0.03995;
+rec: -0.4922;
+kl: -58.91;
+log_p_y_by_z: 3.934;
+log_p_z_by_y: -118.6;
+
+loss: 0.03846;
+rec: -0.4923;
+kl: -59.14;
+log_p_y_by_z: 3.947;
+log_p_z_by_y: -118.7;
+
+loss: 0.03098;
+rec: -0.4866;
+kl: -59.14;
+log_p_y_by_z: 3.964;
+log_p_z_by_y: -118.8;
+
+loss: 0.04323;
+rec: -0.4963;
+kl: -58.89;
+log_p_y_by_z: 3.942;
+log_p_z_by_y: -118.7;
+
+loss: 0.0383;
+rec: -0.493;
+kl: -59.41;
+log_p_y_by_z: 3.953;
+log_p_z_by_y: -118.8;
+
+loss: 0.03714;
+rec: -0.4908;
+kl: -59.17;
+log_p_y_by_z: 3.945;
+log_p_z_by_y: -119.1;
+
+loss: 0.03742;
+rec: -0.4895;
+kl: -58.98;
+log_p_y_by_z: 3.931;
+log_p_z_by_y: -119.2;
+
+loss: 0.03606;
+rec: -0.4885;
+kl: -59.16;
+log_p_y_by_z: 3.933;
+log_p_z_by_y: -119.2;
+
+loss: 0.04328;
+rec: -0.4947;
+kl: -59.31;
+log_p_y_by_z: 3.921;
+log_p_z_by_y: -119.3;
+
+loss: 0.03416;
+rec: -0.4893;
+kl: -59.8;
+log_p_y_by_z: 3.953;
+log_p_z_by_y: -119.3;
+
+loss: 0.03094;
+rec: -0.4852;
+kl: -59.91;
+log_p_y_by_z: 3.944;
+log_p_z_by_y: -119.6;
+
+loss: 0.02978;
+rec: -0.4856;
+kl: -59.45;
+log_p_y_by_z: 3.964;
+log_p_z_by_y: -119.8;
+
+loss: 0.0285;
+rec: -0.481;
+kl: -59.33;
+log_p_y_by_z: 3.932;
+log_p_z_by_y: -119.7;
+
+loss: 0.02854;
+rec: -0.4834;
+kl: -60.39;
+log_p_y_by_z: 3.945;
+log_p_z_by_y: -119.9;
+
+loss: 0.03976;
+rec: -0.4909;
+kl: -60.23;
+log_p_y_by_z: 3.91;
+log_p_z_by_y: -120.0;
+
+loss: 0.03875;
+rec: -0.4871;
+kl: -59.88;
+log_p_y_by_z: 3.884;
+log_p_z_by_y: -120.0;
+
+loss: 0.03566;
+rec: -0.4895;
+kl: -60.03;
+log_p_y_by_z: 3.938;
+log_p_z_by_y: -120.2;
+
+loss: 0.03307;
+rec: -0.4894;
+kl: -60.46;
+log_p_y_by_z: 3.959;
+log_p_z_by_y: -120.2;
+
+loss: 0.02752;
+rec: -0.4853;
+kl: -60.67;
+log_p_y_by_z: 3.971;
+log_p_z_by_y: -120.3;
+
+loss: 0.02729;
+rec: -0.4826;
+kl: -60.56;
+log_p_y_by_z: 3.947;
+log_p_z_by_y: -120.5;
+
+loss: 0.03359;
+rec: -0.4871;
+kl: -60.15;
+log_p_y_by_z: 3.934;
+log_p_z_by_y: -120.5;
+
+loss: 0.02661;
+rec: -0.4835;
+kl: -60.35;
+log_p_y_by_z: 3.965;
+log_p_z_by_y: -120.6;
+
+loss: 0.02745;
+rec: -0.4832;
+kl: -59.99;
+log_p_y_by_z: 3.958;
+log_p_z_by_y: -120.8;
+
+loss: 0.02864;
+rec: -0.4833;
+kl: -60.27;
+log_p_y_by_z: 3.944;
+log_p_z_by_y: -120.9;
+
+loss: 0.03062;
+rec: -0.4849;
+kl: -60.04;
+log_p_y_by_z: 3.942;
+log_p_z_by_y: -120.9;
+
+loss: 0.02446;
+rec: -0.4805;
+kl: -60.25;
+log_p_y_by_z: 3.958;
+log_p_z_by_y: -121.2;
+
+loss: 0.03001;
+rec: -0.4863;
+kl: -60.58;
+log_p_y_by_z: 3.957;
+log_p_z_by_y: -121.2;
+
+loss: 0.02862;
+rec: -0.4844;
+kl: -60.75;
+log_p_y_by_z: 3.951;
+log_p_z_by_y: -121.3;
+
+loss: 0.01988;
+rec: -0.4784;
+kl: -60.39;
+log_p_y_by_z: 3.981;
+log_p_z_by_y: -121.4;
+
+loss: 0.02414;
+rec: -0.4835;
+kl: -60.91;
+log_p_y_by_z: 3.984;
+log_p_z_by_y: -121.3;
+
+Epoch 3 :
+loss: 0.01529;
+rec: -0.474;
+kl: -60.91;
+log_p_y_by_z: 3.978;
+log_p_z_by_y: -121.5;
+
+loss: 0.02097;
+rec: -0.4771;
+kl: -60.97;
+log_p_y_by_z: 3.951;
+log_p_z_by_y: -121.8;
+
+loss: 0.02683;
+rec: -0.4792;
+kl: -60.75;
+log_p_y_by_z: 3.916;
+log_p_z_by_y: -121.7;
+
+loss: 0.02792;
+rec: -0.4799;
+kl: -60.8;
+log_p_y_by_z: 3.912;
+log_p_z_by_y: -121.9;
+
+loss: 0.0184;
+rec: -0.4755;
+kl: -61.08;
+log_p_y_by_z: 3.961;
+log_p_z_by_y: -121.7;
+
+loss: 0.02632;
+rec: -0.4797;
+kl: -61.18;
+log_p_y_by_z: 3.922;
+log_p_z_by_y: -122.2;
+
+loss: 0.02183;
+rec: -0.4785;
+kl: -61.64;
+log_p_y_by_z: 3.95;
+log_p_z_by_y: -122.4;
+
+loss: 0.02146;
+rec: -0.4779;
+kl: -61.33;
+log_p_y_by_z: 3.951;
+log_p_z_by_y: -122.2;
+
+loss: 0.01924;
+rec: -0.4771;
+kl: -61.34;
+log_p_y_by_z: 3.966;
+log_p_z_by_y: -122.3;
+
+loss: 0.01878;
+rec: -0.4773;
+kl: -61.51;
+log_p_y_by_z: 3.97;
+log_p_z_by_y: -122.4;
+
+loss: 0.02327;
+rec: -0.4741;
+kl: -61.2;
+log_p_y_by_z: 3.897;
+log_p_z_by_y: -123.0;
+
+loss: 0.01481;
+rec: -0.4715;
+kl: -61.38;
+log_p_y_by_z: 3.953;
+log_p_z_by_y: -122.7;
+
+loss: 0.02027;
+rec: -0.4754;
+kl: -61.66;
+log_p_y_by_z: 3.935;
+log_p_z_by_y: -122.6;
+
+loss: 0.01584;
+rec: -0.4747;
+kl: -61.53;
+log_p_y_by_z: 3.973;
+log_p_z_by_y: -122.9;
+
+loss: 0.01522;
+rec: -0.4735;
+kl: -61.81;
+log_p_y_by_z: 3.965;
+log_p_z_by_y: -123.1;
+
+loss: 0.01267;
+rec: -0.4723;
+kl: -61.87;
+log_p_y_by_z: 3.978;
+log_p_z_by_y: -122.9;
+
+loss: 0.01723;
+rec: -0.4755;
+kl: -61.71;
+log_p_y_by_z: 3.965;
+log_p_z_by_y: -123.1;
+
+loss: 0.01037;
+rec: -0.4694;
+kl: -61.63;
+log_p_y_by_z: 3.974;
+log_p_z_by_y: -123.3;
+
+loss: 0.03247;
+rec: -0.4755;
+kl: -61.83;
+log_p_y_by_z: 3.812;
+log_p_z_by_y: -123.5;
+
+loss: 0.01022;
+rec: -0.4689;
+kl: -62.28;
+log_p_y_by_z: 3.964;
+log_p_z_by_y: -123.5;
+
+loss: 0.0121;
+rec: -0.4721;
+kl: -62.24;
+log_p_y_by_z: 3.978;
+log_p_z_by_y: -123.7;
+
+loss: 0.00914;
+rec: -0.4708;
+kl: -62.57;
+log_p_y_by_z: 3.991;
+log_p_z_by_y: -123.5;
+
+loss: 0.008514;
+rec: -0.4699;
+kl: -62.25;
+log_p_y_by_z: 3.992;
+log_p_z_by_y: -123.8;
+
+loss: 0.01074;
+rec: -0.4691;
+kl: -62.18;
+log_p_y_by_z: 3.962;
+log_p_z_by_y: -123.9;
+
+loss: 0.007049;
+rec: -0.4688;
+kl: -62.55;
+log_p_y_by_z: 3.992;
+log_p_z_by_y: -124.1;
+
+loss: 0.01098;
+rec: -0.4722;
+kl: -62.37;
+log_p_y_by_z: 3.988;
+log_p_z_by_y: -124.1;
+
+loss: 0.01137;
+rec: -0.4711;
+kl: -62.55;
+log_p_y_by_z: 3.972;
+log_p_z_by_y: -124.1;
+
+loss: 0.01898;
+rec: -0.4734;
+kl: -62.55;
+log_p_y_by_z: 3.918;
+log_p_z_by_y: -124.4;
+
+loss: 0.004463;
+rec: -0.4656;
+kl: -62.74;
+log_p_y_by_z: 3.984;
+log_p_z_by_y: -124.6;
+
+loss: 0.004628;
+rec: -0.4658;
+kl: -62.9;
+log_p_y_by_z: 3.983;
+log_p_z_by_y: -124.5;
+
+loss: 0.009081;
+rec: -0.4691;
+kl: -62.94;
+log_p_y_by_z: 3.971;
+log_p_z_by_y: -124.6;
+
+loss: 0.001857;
+rec: -0.4622;
+kl: -63.14;
+log_p_y_by_z: 3.972;
+log_p_z_by_y: -124.6;
+
+loss: 0.009069;
+rec: -0.4685;
+kl: -63.05;
+log_p_y_by_z: 3.964;
+log_p_z_by_y: -124.8;
+
+loss: 0.01102;
+rec: -0.4693;
+kl: -62.91;
+log_p_y_by_z: 3.953;
+log_p_z_by_y: -124.8;
+
+loss: 0.007872;
+rec: -0.4671;
+kl: -62.98;
+log_p_y_by_z: 3.962;
+log_p_z_by_y: -125.0;
+
+loss: 0.004239;
+rec: -0.4644;
+kl: -63.31;
+log_p_y_by_z: 3.968;
+log_p_z_by_y: -125.2;
+
+loss: 0.002582;
+rec: -0.4651;
+kl: -63.52;
+log_p_y_by_z: 3.99;
+log_p_z_by_y: -125.2;
+
+loss: 0.01609;
+rec: -0.4703;
+kl: -62.81;
+log_p_y_by_z: 3.914;
+log_p_z_by_y: -125.4;
+
+loss: -0.004363;
+rec: -0.4611;
+kl: -63.32;
+log_p_y_by_z: 4.021;
+log_p_z_by_y: -125.4;
+
+loss: 0.007532;
+rec: -0.4654;
+kl: -63.78;
+log_p_y_by_z: 3.941;
+log_p_z_by_y: -125.6;
+
+loss: -0.005436;
+rec: -0.4574;
+kl: -63.6;
+log_p_y_by_z: 3.992;
+log_p_z_by_y: -125.6;
+
+loss: -0.004376;
+rec: -0.4573;
+kl: -63.32;
+log_p_y_by_z: 3.984;
+log_p_z_by_y: -125.8;
+
+loss: 0.00316;
+rec: -0.4663;
+kl: -63.29;
+log_p_y_by_z: 3.999;
+log_p_z_by_y: -125.6;
+
+loss: -0.001113;
+rec: -0.4629;
+kl: -63.68;
+log_p_y_by_z: 4.004;
+log_p_z_by_y: -125.8;
+
+loss: 0.00016;
+rec: -0.4624;
+kl: -63.69;
+log_p_y_by_z: 3.985;
+log_p_z_by_y: -126.2;
+
+loss: 0.009876;
+rec: -0.4618;
+kl: -63.84;
+log_p_y_by_z: 3.881;
+log_p_z_by_y: -126.3;
+
+loss: -0.002421;
+rec: -0.4603;
+kl: -64.18;
+log_p_y_by_z: 3.985;
+log_p_z_by_y: -126.3;
+
+loss: -0.004154;
+rec: -0.4587;
+kl: -64.25;
+log_p_y_by_z: 3.986;
+log_p_z_by_y: -126.2;
+
+loss: 0.002344;
+rec: -0.4607;
+kl: -64.13;
+log_p_y_by_z: 3.942;
+log_p_z_by_y: -126.6;
+
+loss: 0.001264;
+rec: -0.4634;
+kl: -64.04;
+log_p_y_by_z: 3.981;
+log_p_z_by_y: -126.6;
+
+loss: 0.001295;
+rec: -0.4641;
+kl: -64.31;
+log_p_y_by_z: 3.985;
+log_p_z_by_y: -126.6;
+
+loss: -0.00677;
+rec: -0.457;
+kl: -64.37;
+log_p_y_by_z: 3.994;
+log_p_z_by_y: -126.6;
+
+loss: 0.0002839;
+rec: -0.4616;
+kl: -64.48;
+log_p_y_by_z: 3.968;
+log_p_z_by_y: -127.1;
+
+loss: -0.0006013;
+rec: -0.4644;
+kl: -65.23;
+log_p_y_by_z: 3.998;
+log_p_z_by_y: -127.0;
+
+loss: -0.006216;
+rec: -0.4584;
+kl: -64.23;
+log_p_y_by_z: 4.003;
+log_p_z_by_y: -127.2;
+
+loss: -0.007072;
+rec: -0.4584;
+kl: -64.73;
+log_p_y_by_z: 4.007;
+log_p_z_by_y: -127.4;
+
+loss: -0.001683;
+rec: -0.4576;
+kl: -63.88;
+log_p_y_by_z: 3.954;
+log_p_z_by_y: -127.5;
+
+loss: -0.003244;
+rec: -0.4577;
+kl: -64.59;
+log_p_y_by_z: 3.963;
+log_p_z_by_y: -127.3;
+
+loss: -0.01208;
+rec: -0.4524;
+kl: -64.68;
+log_p_y_by_z: 3.998;
+log_p_z_by_y: -127.5;
+
+loss: 0.003217;
+rec: -0.4603;
+kl: -64.37;
+log_p_y_by_z: 3.927;
+log_p_z_by_y: -127.8;
+
+loss: -0.008605;
+rec: -0.457;
+kl: -64.95;
+log_p_y_by_z: 4.007;
+log_p_z_by_y: -127.8;
+
+loss: -0.00571;
+rec: -0.4601;
+kl: -65.1;
+log_p_y_by_z: 4.007;
+log_p_z_by_y: -128.1;
+
+loss: -0.004644;
+rec: -0.4566;
+kl: -65.04;
+log_p_y_by_z: 3.962;
+log_p_z_by_y: -128.1;
+
+loss: -0.01073;
+rec: -0.4536;
+kl: -65.02;
+log_p_y_by_z: 3.993;
+log_p_z_by_y: -128.0;
+
+loss: -0.005841;
+rec: -0.4571;
+kl: -64.89;
+log_p_y_by_z: 3.981;
+log_p_z_by_y: -128.0;
+
+loss: -0.008109;
+rec: -0.4577;
+kl: -65.22;
+log_p_y_by_z: 4.006;
+log_p_z_by_y: -128.2;
+
+loss: -0.008848;
+rec: -0.4544;
+kl: -65.39;
+log_p_y_by_z: 3.978;
+log_p_z_by_y: -128.3;
+
+loss: -0.001891;
+rec: -0.4556;
+kl: -65.39;
+log_p_y_by_z: 3.921;
+log_p_z_by_y: -128.6;
+
+loss: -0.009397;
+rec: -0.4515;
+kl: -65.46;
+log_p_y_by_z: 3.954;
+log_p_z_by_y: -128.6;
+
+loss: -0.00461;
+rec: -0.4558;
+kl: -65.54;
+log_p_y_by_z: 3.949;
+log_p_z_by_y: -128.6;
+
+loss: -0.01384;
+rec: -0.4499;
+kl: -65.91;
+log_p_y_by_z: 3.979;
+log_p_z_by_y: -128.9;
+
+loss: -0.01508;
+rec: -0.4506;
+kl: -65.97;
+log_p_y_by_z: 3.997;
+log_p_z_by_y: -128.9;
+
+loss: -0.01861;
+rec: -0.4482;
+kl: -65.65;
+log_p_y_by_z: 4.012;
+log_p_z_by_y: -128.8;
+
+loss: -0.01566;
+rec: -0.4506;
+kl: -65.59;
+log_p_y_by_z: 4.007;
+log_p_z_by_y: -129.0;
+
+loss: -0.0119;
+rec: -0.4504;
+kl: -65.8;
+log_p_y_by_z: 3.965;
+log_p_z_by_y: -129.0;
+
+loss: -0.01647;
+rec: -0.4496;
+kl: -65.86;
+log_p_y_by_z: 4.003;
+log_p_z_by_y: -129.4;
+
+loss: -0.01239;
+rec: -0.4538;
+kl: -66.26;
+log_p_y_by_z: 3.999;
+log_p_z_by_y: -129.4;
+
+loss: -0.01983;
+rec: -0.4449;
+kl: -66.12;
+log_p_y_by_z: 3.986;
+log_p_z_by_y: -129.6;
+
+loss: -0.01068;
+rec: -0.4551;
+kl: -66.05;
+log_p_y_by_z: 3.997;
+log_p_z_by_y: -129.6;
+
+loss: -0.01026;
+rec: -0.4511;
+kl: -66.19;
+log_p_y_by_z: 3.951;
+log_p_z_by_y: -129.9;
+
+loss: -0.006744;
+rec: -0.4558;
+kl: -66.2;
+log_p_y_by_z: 3.963;
+log_p_z_by_y: -129.7;
+
+loss: -0.01914;
+rec: -0.4479;
+kl: -66.65;
+log_p_y_by_z: 4.004;
+log_p_z_by_y: -129.6;
+
+loss: -0.008693;
+rec: -0.451;
+kl: -66.17;
+log_p_y_by_z: 3.935;
+log_p_z_by_y: -130.2;
+
+loss: -0.005075;
+rec: -0.4504;
+kl: -66.75;
+log_p_y_by_z: 3.888;
+log_p_z_by_y: -130.1;
+
+loss: -0.01557;
+rec: -0.4496;
+kl: -66.71;
+log_p_y_by_z: 3.985;
+log_p_z_by_y: -130.5;
+
+loss: -0.01913;
+rec: -0.4463;
+kl: -66.6;
+log_p_y_by_z: 3.988;
+log_p_z_by_y: -130.3;
+
+loss: -0.01347;
+rec: -0.4481;
+kl: -66.39;
+log_p_y_by_z: 3.952;
+log_p_z_by_y: -130.6;
+
+loss: -0.0149;
+rec: -0.4493;
+kl: -67.15;
+log_p_y_by_z: 3.97;
+log_p_z_by_y: -130.6;
+
+loss: -0.02298;
+rec: -0.4451;
+kl: -66.86;
+log_p_y_by_z: 4.012;
+log_p_z_by_y: -130.6;
+
+loss: -0.02506;
+rec: -0.4433;
+kl: -67.04;
+log_p_y_by_z: 4.013;
+log_p_z_by_y: -130.7;
+
+loss: -0.01765;
+rec: -0.4491;
+kl: -67.18;
+log_p_y_by_z: 3.995;
+log_p_z_by_y: -130.8;
+
+loss: -0.02198;
+rec: -0.4444;
+kl: -67.14;
+log_p_y_by_z: 3.992;
+log_p_z_by_y: -131.1;
+
+loss: -0.02113;
+rec: -0.4451;
+kl: -66.65;
+log_p_y_by_z: 3.996;
+log_p_z_by_y: -131.2;
+
+loss: -0.01275;
+rec: -0.4506;
+kl: -66.91;
+log_p_y_by_z: 3.964;
+log_p_z_by_y: -131.1;
+
+loss: -0.02081;
+rec: -0.4456;
+kl: -67.1;
+log_p_y_by_z: 3.993;
+log_p_z_by_y: -131.1;
+
+loss: -0.02656;
+rec: -0.4412;
+kl: -67.38;
+log_p_y_by_z: 4.003;
+log_p_z_by_y: -131.6;
+
+loss: -0.02551;
+rec: -0.4408;
+kl: -67.29;
+log_p_y_by_z: 3.991;
+log_p_z_by_y: -131.4;
+
+loss: -0.02237;
+rec: -0.4446;
+kl: -67.35;
+log_p_y_by_z: 3.996;
+log_p_z_by_y: -131.5;
+
+loss: -0.02726;
+rec: -0.4422;
+kl: -67.35;
+log_p_y_by_z: 4.021;
+log_p_z_by_y: -131.6;
+
+loss: -0.02594;
+rec: -0.4444;
+kl: -67.68;
+log_p_y_by_z: 4.027;
+log_p_z_by_y: -131.7;
+
+loss: -0.0213;
+rec: -0.4447;
+kl: -67.55;
+log_p_y_by_z: 3.984;
+log_p_z_by_y: -132.1;
+
+loss: -0.02525;
+rec: -0.4436;
+kl: -67.74;
+log_p_y_by_z: 4.011;
+log_p_z_by_y: -132.1;
+
+loss: -0.02382;
+rec: -0.4438;
+kl: -67.89;
+log_p_y_by_z: 3.998;
+log_p_z_by_y: -132.0;
+
+loss: -0.01957;
+rec: -0.4403;
+kl: -67.91;
+log_p_y_by_z: 3.919;
+log_p_z_by_y: -132.3;
+
+loss: -0.01847;
+rec: -0.4459;
+kl: -67.62;
+log_p_y_by_z: 3.967;
+log_p_z_by_y: -132.3;
+
+loss: -0.02167;
+rec: -0.4448;
+kl: -67.93;
+log_p_y_by_z: 3.985;
+log_p_z_by_y: -132.6;
+
+loss: -0.02606;
+rec: -0.4418;
+kl: -67.75;
+log_p_y_by_z: 4.001;
+log_p_z_by_y: -132.8;
+
+loss: -0.02278;
+rec: -0.4437;
+kl: -67.98;
+log_p_y_by_z: 3.985;
+log_p_z_by_y: -132.8;
+
+loss: -0.0125;
+rec: -0.4426;
+kl: -68.09;
+log_p_y_by_z: 3.871;
+log_p_z_by_y: -133.0;
+
+loss: -0.02064;
+rec: -0.4447;
+kl: -68.29;
+log_p_y_by_z: 3.971;
+log_p_z_by_y: -133.0;
+
+loss: -0.02769;
+rec: -0.441;
+kl: -68.59;
+log_p_y_by_z: 4.001;
+log_p_z_by_y: -133.0;
+
+loss: -0.02667;
+rec: -0.4414;
+kl: -68.26;
+log_p_y_by_z: 3.998;
+log_p_z_by_y: -133.2;
+
+loss: -0.02686;
+rec: -0.4409;
+kl: -68.65;
+log_p_y_by_z: 3.991;
+log_p_z_by_y: -133.5;
+
+loss: -0.02595;
+rec: -0.442;
+kl: -68.31;
+log_p_y_by_z: 3.997;
+log_p_z_by_y: -133.5;
+
+loss: -0.02792;
+rec: -0.4408;
+kl: -68.87;
+log_p_y_by_z: 3.998;
+log_p_z_by_y: -133.4;
+
+loss: -0.02689;
+rec: -0.4415;
+kl: -68.85;
+log_p_y_by_z: 3.996;
+log_p_z_by_y: -134.0;
+
+loss: -0.03084;
+rec: -0.4379;
+kl: -69.04;
+log_p_y_by_z: 3.997;
+log_p_z_by_y: -134.0;
+
+loss: -0.02775;
+rec: -0.4415;
+kl: -68.41;
+log_p_y_by_z: 4.008;
+log_p_z_by_y: -133.9;
+
+loss: -0.03821;
+rec: -0.4327;
+kl: -68.92;
+log_p_y_by_z: 4.02;
+log_p_z_by_y: -134.1;
+
+loss: -0.03354;
+rec: -0.436;
+kl: -69.11;
+log_p_y_by_z: 4.005;
+log_p_z_by_y: -134.1;
+
+loss: -0.03806;
+rec: -0.4341;
+kl: -69.04;
+log_p_y_by_z: 4.031;
+log_p_z_by_y: -134.0;
+
+loss: -0.02796;
+rec: -0.4382;
+kl: -69.22;
+log_p_y_by_z: 3.969;
+log_p_z_by_y: -134.5;
+
+loss: -0.03431;
+rec: -0.4366;
+kl: -69.04;
+log_p_y_by_z: 4.019;
+log_p_z_by_y: -134.4;
+
+loss: -0.03235;
+rec: -0.4359;
+kl: -69.29;
+log_p_y_by_z: 3.99;
+log_p_z_by_y: -134.6;
+
+loss: -0.03318;
+rec: -0.4339;
+kl: -69.43;
+log_p_y_by_z: 3.977;
+log_p_z_by_y: -134.7;
+
+loss: -0.02891;
+rec: -0.4374;
+kl: -69.17;
+log_p_y_by_z: 3.971;
+log_p_z_by_y: -134.9;
+
+loss: -0.02406;
+rec: -0.4419;
+kl: -69.85;
+log_p_y_by_z: 3.961;
+log_p_z_by_y: -134.9;
+
+loss: -0.03691;
+rec: -0.4359;
+kl: -69.99;
+log_p_y_by_z: 4.028;
+log_p_z_by_y: -135.1;
+
+loss: -0.032;
+rec: -0.4375;
+kl: -69.7;
+log_p_y_by_z: 3.998;
+log_p_z_by_y: -135.2;
+
+loss: -0.02963;
+rec: -0.4395;
+kl: -69.69;
+log_p_y_by_z: 3.995;
+log_p_z_by_y: -135.5;
+
+loss: -0.0377;
+rec: -0.4325;
+kl: -69.94;
+log_p_y_by_z: 4.002;
+log_p_z_by_y: -135.3;
+
+loss: -0.03627;
+rec: -0.435;
+kl: -69.88;
+log_p_y_by_z: 4.014;
+log_p_z_by_y: -135.4;
+
+loss: -0.03728;
+rec: -0.4352;
+kl: -70.13;
+log_p_y_by_z: 4.023;
+log_p_z_by_y: -135.7;
+
+loss: -0.03696;
+rec: -0.4325;
+kl: -69.85;
+log_p_y_by_z: 3.996;
+log_p_z_by_y: -135.7;
+
+loss: -0.0318;
+rec: -0.4388;
+kl: -70.09;
+log_p_y_by_z: 4.005;
+log_p_z_by_y: -135.9;
+
+loss: -0.035;
+rec: -0.4368;
+kl: -70.51;
+log_p_y_by_z: 4.013;
+log_p_z_by_y: -136.0;
+
+loss: -0.043;
+rec: -0.4305;
+kl: -70.65;
+log_p_y_by_z: 4.028;
+log_p_z_by_y: -136.1;
+
+loss: -0.03561;
+rec: -0.4339;
+kl: -70.39;
+log_p_y_by_z: 3.991;
+log_p_z_by_y: -136.2;
+
+loss: -0.03886;
+rec: -0.4292;
+kl: -70.42;
+log_p_y_by_z: 3.976;
+log_p_z_by_y: -136.0;
+
+loss: -0.04225;
+rec: -0.43;
+kl: -70.61;
+log_p_y_by_z: 4.017;
+log_p_z_by_y: -136.5;
+
+loss: -0.02827;
+rec: -0.4349;
+kl: -70.78;
+log_p_y_by_z: 3.924;
+log_p_z_by_y: -136.7;
+
+loss: -0.03746;
+rec: -0.4325;
+kl: -70.77;
+log_p_y_by_z: 3.992;
+log_p_z_by_y: -136.6;
+
+loss: -0.03682;
+rec: -0.433;
+kl: -70.82;
+log_p_y_by_z: 3.99;
+log_p_z_by_y: -137.0;
+
+loss: -0.04906;
+rec: -0.4246;
+kl: -71.17;
+log_p_y_by_z: 4.025;
+log_p_z_by_y: -136.7;
+
+loss: -0.04194;
+rec: -0.4282;
+kl: -71.18;
+log_p_y_by_z: 3.989;
+log_p_z_by_y: -137.0;
+
+loss: -0.02893;
+rec: -0.4383;
+kl: -70.98;
+log_p_y_by_z: 3.962;
+log_p_z_by_y: -137.1;
+
+loss: -0.04176;
+rec: -0.4284;
+kl: -71.61;
+log_p_y_by_z: 3.986;
+log_p_z_by_y: -137.2;
+
+loss: -0.04207;
+rec: -0.4304;
+kl: -71.52;
+log_p_y_by_z: 4.009;
+log_p_z_by_y: -137.6;
+
+loss: -0.04433;
+rec: -0.4305;
+kl: -71.61;
+log_p_y_by_z: 4.032;
+log_p_z_by_y: -137.2;
+
+loss: -0.05245;
+rec: -0.4221;
+kl: -71.9;
+log_p_y_by_z: 4.027;
+log_p_z_by_y: -137.5;
+
+loss: -0.04835;
+rec: -0.4238;
+kl: -71.58;
+log_p_y_by_z: 4.006;
+log_p_z_by_y: -137.7;
+
+loss: -0.04783;
+rec: -0.4274;
+kl: -71.78;
+log_p_y_by_z: 4.035;
+log_p_z_by_y: -137.7;
+
+loss: -0.04708;
+rec: -0.4286;
+kl: -72.02;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -137.9;
+
+loss: -0.04569;
+rec: -0.4282;
+kl: -72.09;
+log_p_y_by_z: 4.018;
+log_p_z_by_y: -138.1;
+
+loss: -0.04654;
+rec: -0.4269;
+kl: -71.71;
+log_p_y_by_z: 4.017;
+log_p_z_by_y: -138.3;
+
+loss: -0.05455;
+rec: -0.4207;
+kl: -72.31;
+log_p_y_by_z: 4.029;
+log_p_z_by_y: -138.4;
+
+loss: -0.04163;
+rec: -0.4292;
+kl: -72.32;
+log_p_y_by_z: 3.985;
+log_p_z_by_y: -138.4;
+
+loss: -0.05059;
+rec: -0.4242;
+kl: -72.19;
+log_p_y_by_z: 4.026;
+log_p_z_by_y: -138.5;
+
+loss: -0.0495;
+rec: -0.4253;
+kl: -72.14;
+log_p_y_by_z: 4.027;
+log_p_z_by_y: -138.5;
+
+loss: -0.05123;
+rec: -0.4216;
+kl: -72.3;
+log_p_y_by_z: 4.005;
+log_p_z_by_y: -139.0;
+
+loss: -0.04471;
+rec: -0.4286;
+kl: -72.3;
+log_p_y_by_z: 4.01;
+log_p_z_by_y: -138.9;
+
+loss: -0.04047;
+rec: -0.4327;
+kl: -72.49;
+log_p_y_by_z: 4.007;
+log_p_z_by_y: -138.8;
+
+loss: -0.0458;
+rec: -0.4283;
+kl: -72.76;
+log_p_y_by_z: 4.013;
+log_p_z_by_y: -138.9;
+
+loss: -0.04073;
+rec: -0.4293;
+kl: -73.12;
+log_p_y_by_z: 3.969;
+log_p_z_by_y: -139.2;
+
+loss: -0.04649;
+rec: -0.4247;
+kl: -72.25;
+log_p_y_by_z: 3.989;
+log_p_z_by_y: -139.0;
+
+loss: -0.04623;
+rec: -0.4286;
+kl: -72.98;
+log_p_y_by_z: 4.018;
+log_p_z_by_y: -139.3;
+
+loss: -0.04582;
+rec: -0.4248;
+kl: -73.34;
+log_p_y_by_z: 3.973;
+log_p_z_by_y: -139.7;
+
+loss: -0.04295;
+rec: -0.43;
+kl: -73.13;
+log_p_y_by_z: 3.999;
+log_p_z_by_y: -139.5;
+
+loss: -0.0484;
+rec: -0.4249;
+kl: -73.35;
+log_p_y_by_z: 3.999;
+log_p_z_by_y: -139.8;
+
+loss: -0.04823;
+rec: -0.4234;
+kl: -73.47;
+log_p_y_by_z: 3.982;
+log_p_z_by_y: -139.9;
+
+loss: -0.05221;
+rec: -0.4239;
+kl: -73.43;
+log_p_y_by_z: 4.027;
+log_p_z_by_y: -140.0;
+
+loss: -0.04871;
+rec: -0.4235;
+kl: -73.33;
+log_p_y_by_z: 3.989;
+log_p_z_by_y: -140.1;
+
+loss: -0.05244;
+rec: -0.4227;
+kl: -73.44;
+log_p_y_by_z: 4.017;
+log_p_z_by_y: -139.9;
+
+loss: -0.04373;
+rec: -0.4274;
+kl: -73.63;
+log_p_y_by_z: 3.975;
+log_p_z_by_y: -140.3;
+
+loss: -0.05073;
+rec: -0.4239;
+kl: -73.66;
+log_p_y_by_z: 4.01;
+log_p_z_by_y: -140.3;
+
+loss: -0.04123;
+rec: -0.4283;
+kl: -73.76;
+log_p_y_by_z: 3.957;
+log_p_z_by_y: -140.6;
+
+loss: -0.05875;
+rec: -0.4199;
+kl: -74.29;
+log_p_y_by_z: 4.044;
+log_p_z_by_y: -140.5;
+
+loss: -0.05375;
+rec: -0.4219;
+kl: -74.25;
+log_p_y_by_z: 4.014;
+log_p_z_by_y: -140.9;
+
+loss: -0.05598;
+rec: -0.418;
+kl: -74.07;
+log_p_y_by_z: 3.999;
+log_p_z_by_y: -141.1;
+
+loss: -0.05852;
+rec: -0.4183;
+kl: -74.43;
+log_p_y_by_z: 4.024;
+log_p_z_by_y: -141.0;
+
+loss: -0.0537;
+rec: -0.421;
+kl: -74.13;
+log_p_y_by_z: 4.005;
+log_p_z_by_y: -141.2;
+
+loss: -0.05621;
+rec: -0.4193;
+kl: -74.46;
+log_p_y_by_z: 4.01;
+log_p_z_by_y: -141.3;
+
+loss: -0.05809;
+rec: -0.4198;
+kl: -74.68;
+log_p_y_by_z: 4.032;
+log_p_z_by_y: -141.3;
+
+loss: -0.05945;
+rec: -0.4193;
+kl: -74.56;
+log_p_y_by_z: 4.042;
+log_p_z_by_y: -141.2;
+
+loss: -0.04839;
+rec: -0.4276;
+kl: -74.46;
+log_p_y_by_z: 4.015;
+log_p_z_by_y: -141.7;
+
+loss: -0.06245;
+rec: -0.4136;
+kl: -74.97;
+log_p_y_by_z: 4.011;
+log_p_z_by_y: -141.8;
+
+loss: -0.05098;
+rec: -0.4217;
+kl: -74.88;
+log_p_y_by_z: 3.978;
+log_p_z_by_y: -141.7;
+
+loss: -0.05554;
+rec: -0.417;
+kl: -74.8;
+log_p_y_by_z: 3.977;
+log_p_z_by_y: -142.1;
+
+loss: -0.05955;
+rec: -0.4192;
+kl: -75.15;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -142.1;
+
+loss: -0.05896;
+rec: -0.4187;
+kl: -75.21;
+log_p_y_by_z: 4.024;
+log_p_z_by_y: -142.2;
+
+loss: -0.06041;
+rec: -0.4184;
+kl: -75.38;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -142.2;
+
+loss: -0.05934;
+rec: -0.4202;
+kl: -75.2;
+log_p_y_by_z: 4.044;
+log_p_z_by_y: -142.4;
+
+loss: -0.05787;
+rec: -0.4207;
+kl: -75.73;
+log_p_y_by_z: 4.028;
+log_p_z_by_y: -142.5;
+
+loss: -0.05835;
+rec: -0.4199;
+kl: -75.58;
+log_p_y_by_z: 4.027;
+log_p_z_by_y: -142.5;
+
+loss: -0.05843;
+rec: -0.419;
+kl: -75.76;
+log_p_y_by_z: 4.017;
+log_p_z_by_y: -142.7;
+
+loss: -0.05471;
+rec: -0.4209;
+kl: -75.65;
+log_p_y_by_z:  4.0;
+log_p_z_by_y: -143.0;
+
+loss: -0.0601;
+rec: -0.4148;
+kl: -75.7;
+log_p_y_by_z: 3.993;
+log_p_z_by_y: -142.9;
+
+loss: -0.05891;
+rec: -0.4178;
+kl: -76.44;
+log_p_y_by_z: 4.003;
+log_p_z_by_y: -143.2;
+
+loss: -0.06763;
+rec: -0.4111;
+kl: -76.35;
+log_p_y_by_z: 4.024;
+log_p_z_by_y: -143.4;
+
+Epoch 4 :
+loss: -0.06382;
+rec: -0.4152;
+kl: -76.38;
+log_p_y_by_z: 4.027;
+log_p_z_by_y: -143.4;
+
+loss: -0.06485;
+rec: -0.415;
+kl: -75.8;
+log_p_y_by_z: 4.04;
+log_p_z_by_y: -143.1;
+
+loss: -0.06257;
+rec: -0.4132;
+kl: -76.04;
+log_p_y_by_z: 3.997;
+log_p_z_by_y: -143.8;
+
+loss: -0.06604;
+rec: -0.4114;
+kl: -76.28;
+log_p_y_by_z: 4.011;
+log_p_z_by_y: -143.6;
+
+loss: -0.06847;
+rec: -0.4107;
+kl: -76.13;
+log_p_y_by_z: 4.031;
+log_p_z_by_y: -143.7;
+
+loss: -0.06481;
+rec: -0.4131;
+kl: -76.66;
+log_p_y_by_z: 4.012;
+log_p_z_by_y: -143.8;
+
+loss: -0.0534;
+rec: -0.4156;
+kl: -76.73;
+log_p_y_by_z: 3.923;
+log_p_z_by_y: -144.0;
+
+loss: -0.06139;
+rec: -0.4164;
+kl: -77.11;
+log_p_y_by_z: 4.007;
+log_p_z_by_y: -144.0;
+
+loss: -0.05992;
+rec: -0.4174;
+kl: -76.64;
+log_p_y_by_z: 4.007;
+log_p_z_by_y: -144.3;
+
+loss: -0.06602;
+rec: -0.4128;
+kl: -77.25;
+log_p_y_by_z: 4.015;
+log_p_z_by_y: -144.4;
+
+loss: -0.06642;
+rec: -0.4133;
+kl: -77.13;
+log_p_y_by_z: 4.025;
+log_p_z_by_y: -144.4;
+
+loss: -0.07062;
+rec: -0.409;
+kl: -77.16;
+log_p_y_by_z: 4.024;
+log_p_z_by_y: -144.9;
+
+loss: -0.06706;
+rec: -0.4138;
+kl: -77.66;
+log_p_y_by_z: 4.032;
+log_p_z_by_y: -144.5;
+
+loss: -0.06661;
+rec: -0.4145;
+kl: -77.65;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -144.7;
+
+loss: -0.06805;
+rec: -0.4102;
+kl: -77.29;
+log_p_y_by_z: 4.01;
+log_p_z_by_y: -144.9;
+
+loss: -0.0663;
+rec: -0.411;
+kl: -77.51;
+log_p_y_by_z: 3.998;
+log_p_z_by_y: -145.1;
+
+loss: -0.06535;
+rec: -0.413;
+kl: -77.51;
+log_p_y_by_z: 4.008;
+log_p_z_by_y: -145.2;
+
+loss: -0.06431;
+rec: -0.413;
+kl: -77.94;
+log_p_y_by_z: 3.994;
+log_p_z_by_y: -145.3;
+
+loss: -0.07281;
+rec: -0.4093;
+kl: -77.79;
+log_p_y_by_z: 4.043;
+log_p_z_by_y: -145.4;
+
+loss: -0.07033;
+rec: -0.4103;
+kl: -78.47;
+log_p_y_by_z: 4.022;
+log_p_z_by_y: -145.5;
+
+loss: -0.06499;
+rec: -0.4142;
+kl: -77.95;
+log_p_y_by_z: 4.013;
+log_p_z_by_y: -145.4;
+
+loss: -0.05901;
+rec: -0.4174;
+kl: -78.19;
+log_p_y_by_z: 3.982;
+log_p_z_by_y: -145.6;
+
+loss: -0.07129;
+rec: -0.4078;
+kl: -78.12;
+log_p_y_by_z: 4.01;
+log_p_z_by_y: -145.9;
+
+loss: -0.07704;
+rec: -0.4046;
+kl: -78.39;
+log_p_y_by_z: 4.032;
+log_p_z_by_y: -146.2;
+
+loss: -0.07076;
+rec: -0.4101;
+kl: -78.57;
+log_p_y_by_z: 4.023;
+log_p_z_by_y: -146.3;
+
+loss: -0.0709;
+rec: -0.4133;
+kl: -78.75;
+log_p_y_by_z: 4.055;
+log_p_z_by_y: -145.9;
+
+loss: -0.07263;
+rec: -0.4088;
+kl: -78.6;
+log_p_y_by_z: 4.028;
+log_p_z_by_y: -146.5;
+
+loss: -0.07224;
+rec: -0.409;
+kl: -78.95;
+log_p_y_by_z: 4.023;
+log_p_z_by_y: -146.4;
+
+loss: -0.06992;
+rec: -0.4099;
+kl: -78.84;
+log_p_y_by_z: 4.009;
+log_p_z_by_y: -146.7;
+
+loss: -0.06642;
+rec: -0.4116;
+kl: -78.66;
+log_p_y_by_z: 3.994;
+log_p_z_by_y: -146.6;
+
+loss: -0.06662;
+rec: -0.4125;
+kl: -79.14;
+log_p_y_by_z:  4.0;
+log_p_z_by_y: -146.8;
+
+loss: -0.07484;
+rec: -0.4078;
+kl: -79.29;
+log_p_y_by_z: 4.033;
+log_p_z_by_y: -146.9;
+
+loss: -0.07378;
+rec: -0.4095;
+kl: -79.64;
+log_p_y_by_z: 4.037;
+log_p_z_by_y: -146.9;
+
+loss: -0.0685;
+rec: -0.4118;
+kl: -79.56;
+log_p_y_by_z: 4.007;
+log_p_z_by_y: -147.1;
+
+loss: -0.07724;
+rec: -0.4088;
+kl: -79.82;
+log_p_y_by_z: 4.062;
+log_p_z_by_y: -147.2;
+
+loss: -0.07427;
+rec: -0.4087;
+kl: -79.86;
+log_p_y_by_z: 4.031;
+log_p_z_by_y: -147.5;
+
+loss: -0.07491;
+rec: -0.4064;
+kl: -80.04;
+log_p_y_by_z: 4.013;
+log_p_z_by_y: -147.6;
+
+loss: -0.07416;
+rec: -0.408;
+kl: -79.54;
+log_p_y_by_z: 4.026;
+log_p_z_by_y: -147.6;
+
+loss: -0.07347;
+rec: -0.408;
+kl: -79.46;
+log_p_y_by_z: 4.02;
+log_p_z_by_y: -147.7;
+
+loss: -0.07955;
+rec: -0.4034;
+kl: -80.13;
+log_p_y_by_z: 4.028;
+log_p_z_by_y: -148.0;
+
+loss: -0.07249;
+rec: -0.4083;
+kl: -80.21;
+log_p_y_by_z: 4.006;
+log_p_z_by_y: -148.0;
+
+loss: -0.07983;
+rec: -0.4035;
+kl: -79.92;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -148.1;
+
+loss: -0.08151;
+rec: -0.4026;
+kl: -80.36;
+log_p_y_by_z: 4.037;
+log_p_z_by_y: -148.1;
+
+loss: -0.07285;
+rec: -0.4081;
+kl: -80.39;
+log_p_y_by_z: 4.006;
+log_p_z_by_y: -148.3;
+
+loss: -0.07316;
+rec: -0.4069;
+kl: -80.42;
+log_p_y_by_z: 3.996;
+log_p_z_by_y: -148.4;
+
+loss: -0.08244;
+rec: -0.4035;
+kl: -80.56;
+log_p_y_by_z: 4.053;
+log_p_z_by_y: -148.6;
+
+loss: -0.07605;
+rec: -0.4065;
+kl: -80.61;
+log_p_y_by_z: 4.019;
+log_p_z_by_y: -148.7;
+
+loss: -0.08193;
+rec: -0.4034;
+kl: -81.14;
+log_p_y_by_z: 4.042;
+log_p_z_by_y: -148.9;
+
+loss: -0.07949;
+rec: -0.4046;
+kl: -81.03;
+log_p_y_by_z: 4.031;
+log_p_z_by_y: -148.9;
+
+loss: -0.07749;
+rec: -0.4077;
+kl: -81.24;
+log_p_y_by_z: 4.04;
+log_p_z_by_y: -149.0;
+
+loss: -0.0733;
+rec: -0.4066;
+kl: -81.27;
+log_p_y_by_z: 3.987;
+log_p_z_by_y: -149.2;
+
+loss: -0.0781;
+rec: -0.4036;
+kl: -81.34;
+log_p_y_by_z: 4.004;
+log_p_z_by_y: -149.2;
+
+loss: -0.07989;
+rec: -0.4028;
+kl: -80.96;
+log_p_y_by_z: 4.017;
+log_p_z_by_y: -149.3;
+
+loss: -0.08382;
+rec: -0.3986;
+kl: -81.61;
+log_p_y_by_z: 4.008;
+log_p_z_by_y: -149.5;
+
+loss: -0.07619;
+rec: -0.4066;
+kl: -81.59;
+log_p_y_by_z: 4.012;
+log_p_z_by_y: -149.7;
+
+loss: -0.08212;
+rec: -0.4028;
+kl: -81.54;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -149.8;
+
+loss: -0.08305;
+rec: -0.4029;
+kl: -82.1;
+log_p_y_by_z: 4.039;
+log_p_z_by_y: -149.9;
+
+loss: -0.08285;
+rec: -0.4038;
+kl: -82.08;
+log_p_y_by_z: 4.046;
+log_p_z_by_y: -150.0;
+
+loss: -0.08552;
+rec: -0.3999;
+kl: -82.25;
+log_p_y_by_z: 4.032;
+log_p_z_by_y: -150.3;
+
+loss: -0.08037;
+rec: -0.4034;
+kl: -82.68;
+log_p_y_by_z: 4.011;
+log_p_z_by_y: -150.0;
+
+loss: -0.07361;
+rec: -0.4071;
+kl: -82.64;
+log_p_y_by_z: 3.981;
+log_p_z_by_y: -150.2;
+
+loss: -0.08809;
+rec: -0.4011;
+kl: -82.46;
+log_p_y_by_z: 4.067;
+log_p_z_by_y: -150.5;
+
+loss: -0.08202;
+rec: -0.4028;
+kl: -82.42;
+log_p_y_by_z: 4.024;
+log_p_z_by_y: -150.6;
+
+loss: -0.08798;
+rec: -0.3992;
+kl: -82.98;
+log_p_y_by_z: 4.042;
+log_p_z_by_y: -150.7;
+
+loss: -0.0837;
+rec: -0.4031;
+kl: -83.01;
+log_p_y_by_z: 4.038;
+log_p_z_by_y: -150.8;
+
+loss: -0.07789;
+rec: -0.4083;
+kl: -83.0;
+log_p_y_by_z: 4.032;
+log_p_z_by_y: -151.1;
+
+loss: -0.08784;
+rec: -0.4001;
+kl: -83.27;
+log_p_y_by_z: 4.047;
+log_p_z_by_y: -151.1;
+
+loss: -0.08164;
+rec: -0.4029;
+kl: -83.01;
+log_p_y_by_z: 4.015;
+log_p_z_by_y: -151.3;
+
+loss: -0.08421;
+rec: -0.4013;
+kl: -83.48;
+log_p_y_by_z: 4.021;
+log_p_z_by_y: -151.3;
+
+loss: -0.08123;
+rec: -0.4021;
+kl: -83.44;
+log_p_y_by_z: 3.999;
+log_p_z_by_y: -151.6;
+
+loss: -0.08426;
+rec: -0.4032;
+kl: -83.29;
+log_p_y_by_z: 4.042;
+log_p_z_by_y: -151.5;
+
+loss: -0.08756;
+rec: -0.3997;
+kl: -83.58;
+log_p_y_by_z: 4.037;
+log_p_z_by_y: -151.6;
+
+loss: -0.09012;
+rec: -0.3989;
+kl: -83.85;
+log_p_y_by_z: 4.052;
+log_p_z_by_y: -151.7;
+
+loss: -0.0857;
+rec: -0.3996;
+kl: -84.02;
+log_p_y_by_z: 4.013;
+log_p_z_by_y: -151.9;
+
+loss: -0.08798;
+rec: -0.3982;
+kl: -83.99;
+log_p_y_by_z: 4.022;
+log_p_z_by_y: -152.0;
+
+loss: -0.08278;
+rec: -0.4029;
+kl: -83.89;
+log_p_y_by_z: 4.017;
+log_p_z_by_y: -152.2;
+
+loss: -0.08759;
+rec: -0.3999;
+kl: -84.14;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -152.4;
+
+loss: -0.09005;
+rec: -0.3987;
+kl: -84.25;
+log_p_y_by_z: 4.045;
+log_p_z_by_y: -152.5;
+
+loss: -0.08765;
+rec: -0.4003;
+kl: -84.39;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -152.5;
+
+loss: -0.09432;
+rec: -0.3951;
+kl: -84.42;
+log_p_y_by_z: 4.05;
+log_p_z_by_y: -152.7;
+
+loss: -0.08806;
+rec: -0.3987;
+kl: -84.49;
+log_p_y_by_z: 4.023;
+log_p_z_by_y: -152.7;
+
+loss: -0.08889;
+rec: -0.3997;
+kl: -84.56;
+log_p_y_by_z: 4.04;
+log_p_z_by_y: -152.9;
+
+loss: -0.08688;
+rec: -0.4013;
+kl: -84.87;
+log_p_y_by_z: 4.033;
+log_p_z_by_y: -152.9;
+
+loss: -0.08631;
+rec: -0.4005;
+kl: -85.25;
+log_p_y_by_z: 4.016;
+log_p_z_by_y: -153.1;
+
+loss: -0.08818;
+rec: -0.3983;
+kl: -85.06;
+log_p_y_by_z: 4.015;
+log_p_z_by_y: -153.3;
+
+loss: -0.09509;
+rec: -0.395;
+kl: -85.21;
+log_p_y_by_z: 4.049;
+log_p_z_by_y: -153.4;
+
+loss: -0.08572;
+rec: -0.4013;
+kl: -85.41;
+log_p_y_by_z: 4.016;
+log_p_z_by_y: -153.3;
+
+loss: -0.08554;
+rec: -0.4031;
+kl: -85.24;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -153.5;
+
+loss: -0.09059;
+rec: -0.3973;
+kl: -85.64;
+log_p_y_by_z: 4.023;
+log_p_z_by_y: -153.8;
+
+loss: -0.0898;
+rec: -0.3995;
+kl: -85.73;
+log_p_y_by_z: 4.035;
+log_p_z_by_y: -153.9;
+
+loss: -0.0928;
+rec: -0.3969;
+kl: -85.52;
+log_p_y_by_z: 4.042;
+log_p_z_by_y: -153.9;
+
+loss: -0.09371;
+rec: -0.3979;
+kl: -86.29;
+log_p_y_by_z: 4.054;
+log_p_z_by_y: -154.2;
+
+loss: -0.08962;
+rec: -0.4;
+kl: -85.79;
+log_p_y_by_z: 4.038;
+log_p_z_by_y: -154.4;
+
+loss: -0.08968;
+rec: -0.401;
+kl: -85.88;
+log_p_y_by_z: 4.048;
+log_p_z_by_y: -154.3;
+
+loss: -0.0904;
+rec: -0.3942;
+kl: -86.03;
+log_p_y_by_z: 3.986;
+log_p_z_by_y: -154.6;
+
+loss: -0.09575;
+rec: -0.3939;
+kl: -86.3;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -154.8;
+
+loss: -0.09037;
+rec: -0.3987;
+kl: -86.54;
+log_p_y_by_z: 4.025;
+log_p_z_by_y: -154.7;
+
+loss: -0.09235;
+rec: -0.3968;
+kl: -86.34;
+log_p_y_by_z: 4.028;
+log_p_z_by_y: -154.9;
+
+loss: -0.09118;
+rec: -0.3974;
+kl: -86.44;
+log_p_y_by_z: 4.022;
+log_p_z_by_y: -155.1;
+
+loss: -0.0891;
+rec: -0.4004;
+kl: -86.88;
+log_p_y_by_z: 4.026;
+log_p_z_by_y: -155.0;
+
+loss: -0.09014;
+rec: -0.3983;
+kl: -87.19;
+log_p_y_by_z: 4.013;
+log_p_z_by_y: -155.4;
+
+loss: -0.09603;
+rec: -0.3953;
+kl: -87.27;
+log_p_y_by_z: 4.041;
+log_p_z_by_y: -155.4;
+
+loss: -0.09839;
+rec: -0.3929;
+kl: -87.29;
+log_p_y_by_z: 4.04;
+log_p_z_by_y: -155.5;
+
+loss: -0.1028;
+rec: -0.3907;
+kl: -87.25;
+log_p_y_by_z: 4.063;
+log_p_z_by_y: -155.7;
+
+loss: -0.09556;
+rec: -0.3962;
+kl: -87.45;
+log_p_y_by_z: 4.043;
+log_p_z_by_y: -155.5;
+
+loss: -0.09508;
+rec: -0.3951;
+kl: -87.81;
+log_p_y_by_z: 4.024;
+log_p_z_by_y: -155.9;
+
+loss: -0.09884;
+rec: -0.3919;
+kl: -87.71;
+log_p_y_by_z: 4.031;
+log_p_z_by_y: -156.1;
+
+loss: -0.08494;
+rec: -0.3985;
+kl: -87.38;
+log_p_y_by_z: 3.961;
+log_p_z_by_y: -156.3;
+
+loss: -0.09198;
+rec: -0.3983;
+kl: -87.72;
+log_p_y_by_z: 4.025;
+log_p_z_by_y: -156.2;
+
+loss: -0.09398;
+rec: -0.3974;
+kl: -87.94;
+log_p_y_by_z: 4.035;
+log_p_z_by_y: -156.3;
+
+loss: -0.09736;
+rec: -0.3942;
+kl: -88.2;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -156.4;
+
+loss: -0.1007;
+rec: -0.3904;
+kl: -88.25;
+log_p_y_by_z: 4.029;
+log_p_z_by_y: -156.7;
+
+loss: -0.09909;
+rec: -0.3931;
+kl: -88.34;
+log_p_y_by_z: 4.038;
+log_p_z_by_y: -156.9;
+
+loss: -0.09526;
+rec: -0.3959;
+kl: -88.41;
+log_p_y_by_z: 4.027;
+log_p_z_by_y: -156.8;
+
+loss: -0.09873;
+rec: -0.3929;
+kl: -88.83;
+log_p_y_by_z: 4.028;
+log_p_z_by_y: -157.1;
+
+loss: -0.1039;
+rec: -0.3905;
+kl: -88.57;
+log_p_y_by_z: 4.058;
+log_p_z_by_y: -157.1;
+
+loss: -0.09954;
+rec: -0.3926;
+kl: -89.09;
+log_p_y_by_z: 4.03;
+log_p_z_by_y: -157.2;
+
+loss: -0.09922;
+rec: -0.392;
+kl: -88.96;
+log_p_y_by_z: 4.023;
+log_p_z_by_y: -157.4;
+
+loss: -0.09008;
+rec: -0.3978;
+kl: -89.44;
+log_p_y_by_z: 3.985;
+log_p_z_by_y: -157.3;
+
+loss: -0.09351;
+rec: -0.3975;
+kl: -88.93;
+log_p_y_by_z: 4.021;
+log_p_z_by_y: -157.6;
+
+loss: -0.09488;
+rec: -0.3968;
+kl: -89.21;
+log_p_y_by_z: 4.025;
+log_p_z_by_y: -157.8;
+
+loss: -0.09326;
+rec: -0.3962;
+kl: -89.56;
+log_p_y_by_z: 3.999;
+log_p_z_by_y: -158.0;
+
+loss: -0.1021;
+rec: -0.3918;
+kl: -89.48;
+log_p_y_by_z: 4.044;
+log_p_z_by_y: -158.1;
+
+loss: -0.1007;
+rec: -0.3927;
+kl: -89.81;
+log_p_y_by_z: 4.035;
+log_p_z_by_y: -158.1;
+
+loss: -0.0936;
+rec: -0.3951;
+kl: -89.7;
+log_p_y_by_z: 3.99;
+log_p_z_by_y: -158.3;
+
+loss: -0.102;
+rec: -0.3922;
+kl: -89.92;
+log_p_y_by_z: 4.042;
+log_p_z_by_y: -158.3;
+
+loss: -0.1004;
+rec: -0.3909;
+kl: -89.78;
+log_p_y_by_z: 4.015;
+log_p_z_by_y: -158.7;
+
+loss: -0.1013;
+rec: -0.3924;
+kl: -90.45;
+log_p_y_by_z: 4.033;
+log_p_z_by_y: -158.6;
+
+loss: -0.1068;
+rec: -0.3898;
+kl: -90.44;
+log_p_y_by_z: 4.062;
+log_p_z_by_y: -158.7;
+
+loss: -0.101;
+rec: -0.3922;
+kl: -90.77;
+log_p_y_by_z: 4.024;
+log_p_z_by_y: -158.8;
+
+loss: -0.1087;
+rec: -0.3862;
+kl: -90.74;
+log_p_y_by_z: 4.042;
+log_p_z_by_y: -159.2;
+
+loss: -0.1099;
+rec: -0.3866;
+kl: -90.86;
+log_p_y_by_z: 4.057;
+log_p_z_by_y: -159.0;
+
+loss: -0.1044;
+rec: -0.3901;
+kl: -90.4;
+log_p_y_by_z: 4.04;
+log_p_z_by_y: -159.1;
+
+loss: -0.103;
+rec: -0.3921;
+kl: -90.83;
+log_p_y_by_z: 4.043;
+log_p_z_by_y: -159.2;
+
+loss: -0.1098;
+rec: -0.3879;
+kl: -91.03;
+log_p_y_by_z: 4.066;
+log_p_z_by_y: -159.6;
+
+loss: -0.1029;
+rec: -0.3908;
+kl: -90.98;
+log_p_y_by_z: 4.027;
+log_p_z_by_y: -159.6;
+
+loss: -0.1054;
+rec: -0.3893;
+kl: -90.91;
+log_p_y_by_z: 4.039;
+log_p_z_by_y: -159.6;
+
+loss: -0.1043;
+rec: -0.3874;
+kl: -91.12;
+log_p_y_by_z: 4.006;
+log_p_z_by_y: -159.8;
+
+loss: -0.1049;
+rec: -0.3897;
+kl: -91.45;
+log_p_y_by_z: 4.031;
+log_p_z_by_y: -159.8;
+
+loss: -0.1059;
+rec: -0.3869;
+kl: -91.66;
+log_p_y_by_z: 4.011;
+log_p_z_by_y: -160.4;
+
+loss: -0.1094;
+rec: -0.3876;
+kl: -91.84;
+log_p_y_by_z: 4.052;
+log_p_z_by_y: -160.1;
+
+loss: -0.1078;
+rec: -0.387;
+kl: -91.69;
+log_p_y_by_z: 4.032;
+log_p_z_by_y: -160.5;
+
+loss: -0.1019;
+rec: -0.3915;
+kl: -91.43;
+log_p_y_by_z: 4.02;
+log_p_z_by_y: -160.6;
+
+loss: -0.1018;
+rec: -0.393;
+kl: -91.93;
+log_p_y_by_z: 4.029;
+log_p_z_by_y: -160.8;
+
+loss: -0.103;
+rec: -0.3903;
+kl: -91.99;
+log_p_y_by_z: 4.013;
+log_p_z_by_y: -161.1;
+
+loss: -0.1094;
+rec: -0.388;
+kl: -92.55;
+log_p_y_by_z: 4.049;
+log_p_z_by_y: -160.9;
+
+loss: -0.1115;
+rec: -0.3873;
+kl: -92.85;
+log_p_y_by_z: 4.059;
+log_p_z_by_y: -161.1;
+
+loss: -0.1095;
+rec: -0.3874;
+kl: -92.37;
+log_p_y_by_z: 4.045;
+log_p_z_by_y: -161.2;
+
+loss: -0.1128;
+rec: -0.3857;
+kl: -92.74;
+log_p_y_by_z: 4.058;
+log_p_z_by_y: -161.3;
+
+loss: -0.1074;
+rec: -0.3875;
+kl: -92.9;
+log_p_y_by_z: 4.02;
+log_p_z_by_y: -161.3;
+
+loss: -0.1129;
+rec: -0.3864;
+kl: -92.92;
+log_p_y_by_z: 4.064;
+log_p_z_by_y: -161.5;
+
+loss: -0.1041;
+rec: -0.3911;
+kl: -93.09;
+log_p_y_by_z: 4.021;
+log_p_z_by_y: -161.8;
+
+loss: -0.1055;
+rec: -0.3895;
+kl: -92.88;
+log_p_y_by_z: 4.021;
+log_p_z_by_y: -161.9;
+
+loss: -0.1086;
+rec: -0.3878;
+kl: -92.97;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -162.2;
+
+loss: -0.1127;
+rec: -0.384;
+kl: -93.06;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -162.0;
+
+loss: -0.1115;
+rec: -0.3889;
+kl: -93.74;
+log_p_y_by_z: 4.066;
+log_p_z_by_y: -162.1;
+
+loss: -0.1104;
+rec: -0.3863;
+kl: -93.77;
+log_p_y_by_z: 4.029;
+log_p_z_by_y: -162.6;
+
+loss: -0.09782;
+rec: -0.3905;
+kl: -93.73;
+log_p_y_by_z: 3.946;
+log_p_z_by_y: -162.5;
+
+loss: -0.1104;
+rec: -0.3891;
+kl: -94.24;
+log_p_y_by_z: 4.052;
+log_p_z_by_y: -162.6;
+
+loss: -0.1107;
+rec: -0.3883;
+kl: -93.88;
+log_p_y_by_z: 4.051;
+log_p_z_by_y: -163.0;
+
+loss: -0.111;
+rec: -0.3882;
+kl: -94.46;
+log_p_y_by_z: 4.048;
+log_p_z_by_y: -162.7;
+
+loss: -0.1101;
+rec: -0.3899;
+kl: -93.84;
+log_p_y_by_z: 4.061;
+log_p_z_by_y: -162.9;
+
+loss: -0.1069;
+rec: -0.3894;
+kl: -94.78;
+log_p_y_by_z: 4.016;
+log_p_z_by_y: -163.4;
+
+loss: -0.1113;
+rec: -0.3844;
+kl: -94.45;
+log_p_y_by_z: 4.012;
+log_p_z_by_y: -163.5;
+
+loss: -0.1058;
+rec: -0.3886;
+kl: -94.52;
+log_p_y_by_z: 3.999;
+log_p_z_by_y: -163.5;
+
+loss: -0.1143;
+rec: -0.385;
+kl: -94.94;
+log_p_y_by_z: 4.043;
+log_p_z_by_y: -163.7;
+
+loss: -0.1143;
+rec: -0.3843;
+kl: -94.85;
+log_p_y_by_z: 4.037;
+log_p_z_by_y: -163.6;
+
+loss: -0.1134;
+rec: -0.3872;
+kl: -95.25;
+log_p_y_by_z: 4.053;
+log_p_z_by_y: -163.9;
+
+loss: -0.1134;
+rec: -0.3869;
+kl: -95.42;
+log_p_y_by_z: 4.049;
+log_p_z_by_y: -164.0;
+
+loss: -0.1163;
+rec: -0.3839;
+kl: -95.52;
+log_p_y_by_z: 4.047;
+log_p_z_by_y: -164.1;
+
+loss: -0.1151;
+rec: -0.3837;
+kl: -95.52;
+log_p_y_by_z: 4.033;
+log_p_z_by_y: -164.1;
+
+loss: -0.1199;
+rec: -0.3816;
+kl: -95.58;
+log_p_y_by_z: 4.059;
+log_p_z_by_y: -164.2;
+
+loss: -0.1134;
+rec: -0.3832;
+kl: -95.52;
+log_p_y_by_z: 4.01;
+log_p_z_by_y: -164.5;
+
+loss: -0.1108;
+rec: -0.387;
+kl: -95.79;
+log_p_y_by_z: 4.02;
+log_p_z_by_y: -164.7;
+
+loss: -0.1192;
+rec: -0.3813;
+kl: -95.97;
+log_p_y_by_z: 4.045;
+log_p_z_by_y: -164.8;
+
+loss: -0.1124;
+rec: -0.3879;
+kl: -96.28;
+log_p_y_by_z: 4.04;
+log_p_z_by_y: -164.9;
+
+loss: -0.1183;
+rec: -0.3818;
+kl: -96.56;
+log_p_y_by_z: 4.035;
+log_p_z_by_y: -165.1;
+
+loss: -0.1154;
+rec: -0.3857;
+kl: -96.31;
+log_p_y_by_z: 4.048;
+log_p_z_by_y: -165.1;
+
+loss: -0.1138;
+rec: -0.3844;
+kl: -96.6;
+log_p_y_by_z: 4.016;
+log_p_z_by_y: -165.3;
+
+loss: -0.1235;
+rec: -0.3798;
+kl: -96.67;
+log_p_y_by_z: 4.067;
+log_p_z_by_y: -165.3;
+
+loss: -0.1187;
+rec: -0.3824;
+kl: -96.92;
+log_p_y_by_z: 4.042;
+log_p_z_by_y: -165.9;
+
+loss: -0.1156;
+rec: -0.3846;
+kl: -96.92;
+log_p_y_by_z: 4.032;
+log_p_z_by_y: -165.8;
+
+loss: -0.1167;
+rec: -0.3836;
+kl: -97.1;
+log_p_y_by_z: 4.031;
+log_p_z_by_y: -165.8;
+
+loss: -0.1227;
+rec: -0.3784;
+kl: -97.42;
+log_p_y_by_z: 4.037;
+log_p_z_by_y: -166.3;
+
+loss: -0.121;
+rec: -0.3814;
+kl: -97.53;
+log_p_y_by_z: 4.049;
+log_p_z_by_y: -166.0;
+
+loss: -0.1239;
+rec: -0.379;
+kl: -97.57;
+log_p_y_by_z: 4.054;
+log_p_z_by_y: -166.2;
+
+loss: -0.1203;
+rec: -0.3828;
+kl: -97.66;
+log_p_y_by_z: 4.054;
+log_p_z_by_y: -166.2;
+
+loss: -0.1225;
+rec: -0.3812;
+kl: -97.6;
+log_p_y_by_z: 4.061;
+log_p_z_by_y: -166.5;
+
+loss: -0.1147;
+rec: -0.3829;
+kl: -97.64;
+log_p_y_by_z:  4.0;
+log_p_z_by_y: -166.7;
+
+loss: -0.1192;
+rec: -0.3828;
+kl: -97.89;
+log_p_y_by_z: 4.04;
+log_p_z_by_y: -166.9;
+
+loss: -0.1206;
+rec: -0.3825;
+kl: -97.8;
+log_p_y_by_z: 4.053;
+log_p_z_by_y: -166.9;
+
+loss: -0.1196;
+rec: -0.3815;
+kl: -97.84;
+log_p_y_by_z: 4.032;
+log_p_z_by_y: -167.3;
+
+loss: -0.1071;
+rec: -0.3886;
+kl: -98.75;
+log_p_y_by_z: 3.97;
+log_p_z_by_y: -167.1;
+
+loss: -0.1198;
+rec: -0.3824;
+kl: -98.32;
+log_p_y_by_z: 4.039;
+log_p_z_by_y: -167.2;
+
+loss: -0.1212;
+rec: -0.3828;
+kl: -98.62;
+log_p_y_by_z: 4.053;
+log_p_z_by_y: -167.4;
+
+loss: -0.1267;
+rec: -0.3769;
+kl: -98.84;
+log_p_y_by_z: 4.048;
+log_p_z_by_y: -167.5;
+
+loss: -0.1235;
+rec: -0.3802;
+kl: -98.74;
+log_p_y_by_z: 4.05;
+log_p_z_by_y: -167.7;
+
+loss: -0.1279;
+rec: -0.377;
+kl: -99.11;
+log_p_y_by_z: 4.058;
+log_p_z_by_y: -168.2;
+
+loss: -0.1255;
+rec: -0.3789;
+kl: -99.35;
+log_p_y_by_z: 4.05;
+log_p_z_by_y: -168.2;
+
+Epoch 5 :
+loss: -0.1258;
+rec: -0.3773;
+kl: -99.63;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -168.1;
+
+loss: -0.1241;
+rec: -0.3803;
+kl: -99.32;
+log_p_y_by_z: 4.051;
+log_p_z_by_y: -168.4;
+
+loss: -0.1186;
+rec: -0.3833;
+kl: -99.09;
+log_p_y_by_z: 4.028;
+log_p_z_by_y: -168.2;
+
+loss: -0.1223;
+rec: -0.3808;
+kl: -99.36;
+log_p_y_by_z: 4.037;
+log_p_z_by_y: -168.6;
+
+loss: -0.1239;
+rec: -0.3788;
+kl: -99.78;
+log_p_y_by_z: 4.029;
+log_p_z_by_y: -168.6;
+
+loss: -0.1248;
+rec: -0.3795;
+kl: -99.88;
+log_p_y_by_z: 4.045;
+log_p_z_by_y: -169.0;
+
+loss: -0.1238;
+rec: -0.3789;
+kl: -99.45;
+log_p_y_by_z: 4.033;
+log_p_z_by_y: -168.7;
+
+loss: -0.1232;
+rec: -0.3806;
+kl: -100.2;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -169.1;
+
+loss: -0.1273;
+rec: -0.3775;
+kl: -99.82;
+log_p_y_by_z: 4.05;
+log_p_z_by_y: -169.4;
+
+loss: -0.1236;
+rec: -0.3806;
+kl: -100.3;
+log_p_y_by_z: 4.039;
+log_p_z_by_y: -169.4;
+
+loss: -0.1214;
+rec: -0.3804;
+kl: -100.2;
+log_p_y_by_z: 4.016;
+log_p_z_by_y: -169.5;
+
+loss: -0.1187;
+rec: -0.3799;
+kl: -100.7;
+log_p_y_by_z: 3.979;
+log_p_z_by_y: -169.8;
+
+loss: -0.126;
+rec: -0.3798;
+kl: -100.9;
+log_p_y_by_z: 4.049;
+log_p_z_by_y: -169.7;
+
+loss: -0.1311;
+rec: -0.3756;
+kl: -101.3;
+log_p_y_by_z: 4.055;
+log_p_z_by_y: -170.1;
+
+loss: -0.1314;
+rec: -0.3742;
+kl: -101.1;
+log_p_y_by_z: 4.045;
+log_p_z_by_y: -170.3;
+
+loss: -0.1245;
+rec: -0.3799;
+kl: -101.0;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -170.2;
+
+loss: -0.1251;
+rec: -0.3819;
+kl: -101.4;
+log_p_y_by_z: 4.056;
+log_p_z_by_y: -170.4;
+
+loss: -0.1289;
+rec: -0.3785;
+kl: -101.3;
+log_p_y_by_z: 4.061;
+log_p_z_by_y: -170.4;
+
+loss: -0.1282;
+rec: -0.3792;
+kl: -101.7;
+log_p_y_by_z: 4.057;
+log_p_z_by_y: -170.8;
+
+loss: -0.1277;
+rec: -0.3804;
+kl: -101.8;
+log_p_y_by_z: 4.063;
+log_p_z_by_y: -170.7;
+
+loss: -0.1284;
+rec: -0.3753;
+kl: -101.7;
+log_p_y_by_z: 4.02;
+log_p_z_by_y: -171.0;
+
+loss: -0.1371;
+rec: -0.3717;
+kl: -102.1;
+log_p_y_by_z: 4.067;
+log_p_z_by_y: -171.2;
+
+loss: -0.1307;
+rec: -0.3756;
+kl: -102.3;
+log_p_y_by_z: 4.04;
+log_p_z_by_y: -171.3;
+
+loss: -0.1256;
+rec: -0.3809;
+kl: -102.4;
+log_p_y_by_z: 4.041;
+log_p_z_by_y: -171.1;
+
+loss: -0.1316;
+rec: -0.3764;
+kl: -102.2;
+log_p_y_by_z: 4.058;
+log_p_z_by_y: -171.4;
+
+loss: -0.126;
+rec: -0.3789;
+kl: -102.6;
+log_p_y_by_z: 4.023;
+log_p_z_by_y: -171.7;
+
+loss: -0.1261;
+rec: -0.3798;
+kl: -102.3;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -171.8;
+
+loss: -0.1324;
+rec: -0.3757;
+kl: -103.0;
+log_p_y_by_z: 4.052;
+log_p_z_by_y: -172.0;
+
+loss: -0.1338;
+rec: -0.3765;
+kl: -102.9;
+log_p_y_by_z: 4.074;
+log_p_z_by_y: -171.9;
+
+loss: -0.1295;
+rec: -0.3783;
+kl: -102.9;
+log_p_y_by_z: 4.049;
+log_p_z_by_y: -172.1;
+
+loss: -0.1343;
+rec: -0.3743;
+kl: -103.2;
+log_p_y_by_z: 4.054;
+log_p_z_by_y: -172.3;
+
+loss: -0.1276;
+rec: -0.3809;
+kl: -103.2;
+log_p_y_by_z: 4.054;
+log_p_z_by_y: -172.2;
+
+loss: -0.1365;
+rec: -0.3742;
+kl: -103.6;
+log_p_y_by_z: 4.07;
+log_p_z_by_y: -172.8;
+
+loss: -0.1353;
+rec: -0.3744;
+kl: -103.6;
+log_p_y_by_z: 4.061;
+log_p_z_by_y: -172.6;
+
+loss: -0.1299;
+rec: -0.378;
+kl: -104.0;
+log_p_y_by_z: 4.039;
+log_p_z_by_y: -172.9;
+
+loss: -0.1323;
+rec: -0.375;
+kl: -103.7;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -173.0;
+
+loss: -0.1333;
+rec: -0.3751;
+kl: -104.2;
+log_p_y_by_z: 4.041;
+log_p_z_by_y: -173.3;
+
+loss: -0.1325;
+rec: -0.376;
+kl: -104.4;
+log_p_y_by_z: 4.041;
+log_p_z_by_y: -173.2;
+
+loss: -0.1345;
+rec: -0.3744;
+kl: -104.5;
+log_p_y_by_z: 4.044;
+log_p_z_by_y: -173.5;
+
+loss: -0.1323;
+rec: -0.3739;
+kl: -104.1;
+log_p_y_by_z: 4.02;
+log_p_z_by_y: -173.5;
+
+loss: -0.1404;
+rec: -0.3719;
+kl: -104.8;
+log_p_y_by_z: 4.074;
+log_p_z_by_y: -173.9;
+
+loss: -0.1348;
+rec: -0.3724;
+kl: -104.8;
+log_p_y_by_z: 4.025;
+log_p_z_by_y: -174.2;
+
+loss: -0.1357;
+rec: -0.3726;
+kl: -104.8;
+log_p_y_by_z: 4.035;
+log_p_z_by_y: -174.0;
+
+loss: -0.1366;
+rec: -0.3731;
+kl: -105.0;
+log_p_y_by_z: 4.047;
+log_p_z_by_y: -174.1;
+
+loss: -0.1368;
+rec: -0.3727;
+kl: -104.9;
+log_p_y_by_z: 4.046;
+log_p_z_by_y: -174.0;
+
+loss: -0.1374;
+rec: -0.3719;
+kl: -105.2;
+log_p_y_by_z: 4.042;
+log_p_z_by_y: -174.6;
+
+loss: -0.1376;
+rec: -0.3737;
+kl: -105.4;
+log_p_y_by_z: 4.058;
+log_p_z_by_y: -174.6;
+
+loss: -0.1371;
+rec: -0.3736;
+kl: -105.4;
+log_p_y_by_z: 4.052;
+log_p_z_by_y: -174.7;
+
+loss: -0.1336;
+rec: -0.3759;
+kl: -105.7;
+log_p_y_by_z: 4.038;
+log_p_z_by_y: -174.8;
+
+loss: -0.1328;
+rec: -0.3766;
+kl: -106.0;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -175.0;
+
+loss: -0.1377;
+rec: -0.3735;
+kl: -106.5;
+log_p_y_by_z: 4.047;
+log_p_z_by_y: -175.4;
+
+loss: -0.1367;
+rec: -0.3736;
+kl: -106.4;
+log_p_y_by_z: 4.039;
+log_p_z_by_y: -175.4;
+
+loss: -0.1372;
+rec: -0.3725;
+kl: -106.5;
+log_p_y_by_z: 4.032;
+log_p_z_by_y: -175.5;
+
+loss: -0.1332;
+rec: -0.3775;
+kl: -106.6;
+log_p_y_by_z: 4.042;
+log_p_z_by_y: -175.7;
+
+loss: -0.1314;
+rec: -0.3766;
+kl: -106.6;
+log_p_y_by_z: 4.014;
+log_p_z_by_y: -175.7;
+
+loss: -0.1413;
+rec: -0.3703;
+kl: -106.6;
+log_p_y_by_z: 4.049;
+log_p_z_by_y: -175.8;
+
+loss: -0.141;
+rec: -0.3704;
+kl: -106.8;
+log_p_y_by_z: 4.047;
+log_p_z_by_y: -176.0;
+
+loss: -0.1385;
+rec: -0.3727;
+kl: -107.1;
+log_p_y_by_z: 4.041;
+log_p_z_by_y: -176.2;
+
+loss: -0.1431;
+rec: -0.3697;
+kl: -107.4;
+log_p_y_by_z: 4.054;
+log_p_z_by_y: -176.3;
+
+loss: -0.1382;
+rec: -0.374;
+kl: -107.0;
+log_p_y_by_z: 4.051;
+log_p_z_by_y: -176.1;
+
+loss: -0.1375;
+rec: -0.3735;
+kl: -107.3;
+log_p_y_by_z: 4.037;
+log_p_z_by_y: -176.6;
+
+loss: -0.1379;
+rec: -0.3733;
+kl: -107.5;
+log_p_y_by_z: 4.037;
+log_p_z_by_y: -176.9;
+
+loss: -0.1436;
+rec: -0.3702;
+kl: -107.9;
+log_p_y_by_z: 4.059;
+log_p_z_by_y: -176.8;
+
+loss: -0.1457;
+rec: -0.3662;
+kl: -108.0;
+log_p_y_by_z: 4.039;
+log_p_z_by_y: -177.1;
+
+loss: -0.1393;
+rec: -0.3721;
+kl: -107.8;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -177.1;
+
+loss: -0.1419;
+rec: -0.3725;
+kl: -108.4;
+log_p_y_by_z: 4.06;
+log_p_z_by_y: -177.2;
+
+loss: -0.1388;
+rec: -0.3717;
+kl: -108.2;
+log_p_y_by_z: 4.023;
+log_p_z_by_y: -177.5;
+
+loss: -0.1389;
+rec: -0.3743;
+kl: -108.4;
+log_p_y_by_z: 4.048;
+log_p_z_by_y: -177.4;
+
+loss: -0.143;
+rec: -0.3729;
+kl: -108.7;
+log_p_y_by_z: 4.073;
+log_p_z_by_y: -177.8;
+
+loss: -0.1419;
+rec: -0.372;
+kl: -108.9;
+log_p_y_by_z: 4.05;
+log_p_z_by_y: -177.7;
+
+loss: -0.142;
+rec: -0.3711;
+kl: -108.6;
+log_p_y_by_z: 4.045;
+log_p_z_by_y: -178.2;
+
+loss: -0.1433;
+rec: -0.3702;
+kl: -108.8;
+log_p_y_by_z: 4.047;
+log_p_z_by_y: -178.1;
+
+loss: -0.1367;
+rec: -0.377;
+kl: -109.4;
+log_p_y_by_z: 4.044;
+log_p_z_by_y: -178.1;
+
+loss: -0.1449;
+rec: -0.3691;
+kl: -109.2;
+log_p_y_by_z: 4.047;
+log_p_z_by_y: -178.2;
+
+loss: -0.1402;
+rec: -0.372;
+kl: -109.1;
+log_p_y_by_z: 4.031;
+log_p_z_by_y: -178.4;
+
+loss: -0.1457;
+rec: -0.3691;
+kl: -109.4;
+log_p_y_by_z: 4.055;
+log_p_z_by_y: -178.8;
+
+loss: -0.143;
+rec: -0.372;
+kl: -109.4;
+log_p_y_by_z: 4.055;
+log_p_z_by_y: -178.9;
+
+loss: -0.1368;
+rec: -0.3745;
+kl: -109.5;
+log_p_y_by_z: 4.018;
+log_p_z_by_y: -178.9;
+
+loss: -0.1387;
+rec: -0.3732;
+kl: -109.9;
+log_p_y_by_z: 4.02;
+log_p_z_by_y: -179.0;
+
+loss: -0.1501;
+rec: -0.3673;
+kl: -110.1;
+log_p_y_by_z: 4.073;
+log_p_z_by_y: -179.2;
+
+loss: -0.1392;
+rec: -0.3732;
+kl: -110.3;
+log_p_y_by_z: 4.021;
+log_p_z_by_y: -179.5;
+
+loss: -0.1432;
+rec: -0.3729;
+kl: -110.1;
+log_p_y_by_z: 4.06;
+log_p_z_by_y: -179.6;
+
+loss: -0.1469;
+rec: -0.3683;
+kl: -110.7;
+log_p_y_by_z: 4.045;
+log_p_z_by_y: -179.6;
+
+loss: -0.142;
+rec: -0.3677;
+kl: -110.5;
+log_p_y_by_z: 3.992;
+log_p_z_by_y: -180.0;
+
+loss: -0.1423;
+rec: -0.3725;
+kl: -111.1;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -180.0;
+
+loss: -0.1471;
+rec: -0.368;
+kl: -110.7;
+log_p_y_by_z: 4.044;
+log_p_z_by_y: -180.4;
+
+loss: -0.1391;
+rec: -0.3749;
+kl: -110.9;
+log_p_y_by_z: 4.031;
+log_p_z_by_y: -180.3;
+
+loss: -0.1552;
+rec: -0.3625;
+kl: -111.0;
+log_p_y_by_z: 4.067;
+log_p_z_by_y: -180.4;
+
+loss: -0.1452;
+rec: -0.3688;
+kl: -111.3;
+log_p_y_by_z: 4.027;
+log_p_z_by_y: -180.8;
+
+loss: -0.1472;
+rec: -0.3694;
+kl: -111.6;
+log_p_y_by_z: 4.049;
+log_p_z_by_y: -181.2;
+
+loss: -0.1406;
+rec: -0.3745;
+kl: -111.6;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -180.7;
+
+loss: -0.1386;
+rec: -0.3736;
+kl: -111.4;
+log_p_y_by_z: 4.008;
+log_p_z_by_y: -181.2;
+
+loss: -0.1406;
+rec: -0.3738;
+kl: -111.8;
+log_p_y_by_z: 4.026;
+log_p_z_by_y: -180.8;
+
+loss: -0.1448;
+rec: -0.3734;
+kl: -112.3;
+log_p_y_by_z: 4.059;
+log_p_z_by_y: -181.2;
+
+loss: -0.1484;
+rec: -0.3699;
+kl: -111.9;
+log_p_y_by_z: 4.064;
+log_p_z_by_y: -181.6;
+
+loss: -0.1423;
+rec: -0.3725;
+kl: -112.1;
+log_p_y_by_z: 4.026;
+log_p_z_by_y: -181.6;
+
+loss: -0.1473;
+rec: -0.3683;
+kl: -112.8;
+log_p_y_by_z: 4.028;
+log_p_z_by_y: -181.8;
+
+loss: -0.1478;
+rec: -0.3697;
+kl: -112.6;
+log_p_y_by_z: 4.05;
+log_p_z_by_y: -181.8;
+
+loss: -0.1483;
+rec: -0.3692;
+kl: -113.0;
+log_p_y_by_z: 4.046;
+log_p_z_by_y: -182.1;
+
+loss: -0.1463;
+rec: -0.3716;
+kl: -112.9;
+log_p_y_by_z: 4.05;
+log_p_z_by_y: -182.1;
+
+loss: -0.1502;
+rec: -0.3681;
+kl: -113.3;
+log_p_y_by_z: 4.05;
+log_p_z_by_y: -182.3;
+
+loss: -0.1541;
+rec: -0.3649;
+kl: -113.1;
+log_p_y_by_z: 4.06;
+log_p_z_by_y: -182.2;
+
+loss: -0.1536;
+rec: -0.3665;
+kl: -113.4;
+log_p_y_by_z: 4.068;
+log_p_z_by_y: -182.3;
+
+loss: -0.1492;
+rec: -0.3683;
+kl: -113.5;
+log_p_y_by_z: 4.041;
+log_p_z_by_y: -182.8;
+
+loss: -0.1471;
+rec: -0.3704;
+kl: -113.7;
+log_p_y_by_z: 4.037;
+log_p_z_by_y: -182.8;
+
+loss: -0.1507;
+rec: -0.3672;
+kl: -113.6;
+log_p_y_by_z: 4.044;
+log_p_z_by_y: -182.9;
+
+loss: -0.1375;
+rec: -0.3706;
+kl: -113.8;
+log_p_y_by_z: 3.943;
+log_p_z_by_y: -182.8;
+
+loss: -0.1497;
+rec: -0.3697;
+kl: -114.1;
+log_p_y_by_z: 4.053;
+log_p_z_by_y: -183.4;
+
+loss: -0.1503;
+rec: -0.3664;
+kl: -114.2;
+log_p_y_by_z: 4.025;
+log_p_z_by_y: -183.5;
+
+loss: -0.1491;
+rec: -0.3697;
+kl: -114.3;
+log_p_y_by_z: 4.044;
+log_p_z_by_y: -183.5;
+
+loss: -0.1548;
+rec: -0.3664;
+kl: -114.7;
+log_p_y_by_z: 4.065;
+log_p_z_by_y: -183.7;
+
+loss: -0.1543;
+rec: -0.3649;
+kl: -114.5;
+log_p_y_by_z: 4.047;
+log_p_z_by_y: -184.0;
+
+loss: -0.1456;
+rec: -0.3725;
+kl: -114.5;
+log_p_y_by_z: 4.037;
+log_p_z_by_y: -183.9;
+
+loss: -0.1385;
+rec: -0.3738;
+kl: -115.0;
+log_p_y_by_z: 3.974;
+log_p_z_by_y: -184.1;
+
+loss: -0.15;
+rec: -0.3699;
+kl: -114.9;
+log_p_y_by_z: 4.05;
+log_p_z_by_y: -184.4;
+
+loss: -0.1544;
+rec: -0.3634;
+kl: -115.3;
+log_p_y_by_z: 4.025;
+log_p_z_by_y: -184.3;
+
+loss: -0.1479;
+rec: -0.372;
+kl: -115.2;
+log_p_y_by_z: 4.047;
+log_p_z_by_y: -184.7;
+
+loss: -0.1544;
+rec: -0.3643;
+kl: -116.1;
+log_p_y_by_z: 4.026;
+log_p_z_by_y: -184.8;
+
+loss: -0.1561;
+rec: -0.3648;
+kl: -115.7;
+log_p_y_by_z: 4.052;
+log_p_z_by_y: -184.9;
+
+loss: -0.1547;
+rec: -0.3644;
+kl: -115.8;
+log_p_y_by_z: 4.033;
+log_p_z_by_y: -185.2;
+
+loss: -0.1502;
+rec: -0.3711;
+kl: -116.3;
+log_p_y_by_z: 4.051;
+log_p_z_by_y: -185.2;
+
+loss: -0.156;
+rec: -0.3638;
+kl: -116.2;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -185.3;
+
+loss: -0.1503;
+rec: -0.3693;
+kl: -116.3;
+log_p_y_by_z: 4.033;
+log_p_z_by_y: -185.2;
+
+loss: -0.1556;
+rec: -0.3643;
+kl: -116.2;
+log_p_y_by_z: 4.037;
+log_p_z_by_y: -185.5;
+
+loss: -0.1532;
+rec: -0.3673;
+kl: -116.6;
+log_p_y_by_z: 4.039;
+log_p_z_by_y: -185.8;
+
+loss: -0.1475;
+rec: -0.3748;
+kl: -117.0;
+log_p_y_by_z: 4.053;
+log_p_z_by_y: -185.5;
+
+loss: -0.1562;
+rec: -0.3674;
+kl: -116.8;
+log_p_y_by_z: 4.069;
+log_p_z_by_y: -185.9;
+
+loss: -0.1616;
+rec: -0.3618;
+kl: -117.0;
+log_p_y_by_z: 4.064;
+log_p_z_by_y: -186.1;
+
+loss: -0.1546;
+rec: -0.3657;
+kl: -117.0;
+log_p_y_by_z: 4.033;
+log_p_z_by_y: -186.6;
+
+loss: -0.1525;
+rec: -0.37;
+kl: -117.9;
+log_p_y_by_z: 4.046;
+log_p_z_by_y: -186.6;
+
+loss: -0.1477;
+rec: -0.3709;
+kl: -117.5;
+log_p_y_by_z: 4.01;
+log_p_z_by_y: -186.6;
+
+loss: -0.147;
+rec: -0.3733;
+kl: -117.7;
+log_p_y_by_z: 4.026;
+log_p_z_by_y: -186.7;
+
+loss: -0.1534;
+rec: -0.3692;
+kl: -117.6;
+log_p_y_by_z: 4.05;
+log_p_z_by_y: -186.9;
+
+loss: -0.1582;
+rec: -0.3649;
+kl: -118.2;
+log_p_y_by_z: 4.05;
+log_p_z_by_y: -187.2;
+
+loss: -0.1582;
+rec: -0.3644;
+kl: -117.8;
+log_p_y_by_z: 4.048;
+log_p_z_by_y: -187.1;
+
+loss: -0.1553;
+rec: -0.3663;
+kl: -118.3;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -187.2;
+
+loss: -0.1516;
+rec: -0.3684;
+kl: -118.4;
+log_p_y_by_z: 4.017;
+log_p_z_by_y: -187.3;
+
+loss: -0.1613;
+rec: -0.3635;
+kl: -118.6;
+log_p_y_by_z: 4.062;
+log_p_z_by_y: -187.5;
+
+loss: -0.1556;
+rec: -0.3666;
+kl: -118.6;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -187.8;
+
+loss: -0.1466;
+rec: -0.3697;
+kl: -118.4;
+log_p_y_by_z: 3.978;
+log_p_z_by_y: -187.7;
+
+loss: -0.1555;
+rec: -0.3677;
+kl: -119.1;
+log_p_y_by_z: 4.041;
+log_p_z_by_y: -187.9;
+
+loss: -0.159;
+rec: -0.3648;
+kl: -119.1;
+log_p_y_by_z: 4.047;
+log_p_z_by_y: -188.1;
+
+loss: -0.1578;
+rec: -0.366;
+kl: -119.2;
+log_p_y_by_z: 4.046;
+log_p_z_by_y: -188.6;
+
+loss: -0.1678;
+rec: -0.3589;
+kl: -119.6;
+log_p_y_by_z: 4.071;
+log_p_z_by_y: -188.4;
+
+loss: -0.1654;
+rec: -0.3611;
+kl: -119.8;
+log_p_y_by_z: 4.068;
+log_p_z_by_y: -188.8;
+
+loss: -0.1603;
+rec: -0.3652;
+kl: -119.8;
+log_p_y_by_z: 4.058;
+log_p_z_by_y: -188.9;
+
+loss: -0.1619;
+rec: -0.3636;
+kl: -120.3;
+log_p_y_by_z: 4.052;
+log_p_z_by_y: -189.2;
+
+loss: -0.1589;
+rec: -0.3639;
+kl: -119.7;
+log_p_y_by_z: 4.03;
+log_p_z_by_y: -189.0;
+
+loss: -0.1618;
+rec: -0.3647;
+kl: -120.2;
+log_p_y_by_z: 4.063;
+log_p_z_by_y: -188.9;
+
+loss: -0.1638;
+rec: -0.3601;
+kl: -120.6;
+log_p_y_by_z: 4.033;
+log_p_z_by_y: -189.7;
+
+loss: -0.1603;
+rec: -0.3649;
+kl: -120.5;
+log_p_y_by_z: 4.047;
+log_p_z_by_y: -189.7;
+
+loss: -0.1594;
+rec: -0.364;
+kl: -120.4;
+log_p_y_by_z: 4.03;
+log_p_z_by_y: -190.0;
+
+loss: -0.1629;
+rec: -0.3637;
+kl: -120.5;
+log_p_y_by_z: 4.061;
+log_p_z_by_y: -189.7;
+
+loss: -0.159;
+rec: -0.3644;
+kl: -121.1;
+log_p_y_by_z: 4.023;
+log_p_z_by_y: -190.0;
+
+loss: -0.1606;
+rec: -0.366;
+kl: -121.0;
+log_p_y_by_z: 4.057;
+log_p_z_by_y: -189.8;
+
+loss: -0.1647;
+rec: -0.363;
+kl: -121.2;
+log_p_y_by_z: 4.066;
+log_p_z_by_y: -189.9;
+
+loss: -0.1632;
+rec: -0.3645;
+kl: -121.4;
+log_p_y_by_z: 4.063;
+log_p_z_by_y: -190.4;
+
+loss: -0.164;
+rec: -0.3599;
+kl: -121.5;
+log_p_y_by_z: 4.024;
+log_p_z_by_y: -190.5;
+
+loss: -0.1601;
+rec: -0.3635;
+kl: -121.5;
+log_p_y_by_z: 4.022;
+log_p_z_by_y: -190.8;
+
+loss: -0.1671;
+rec: -0.3596;
+kl: -121.6;
+log_p_y_by_z: 4.051;
+log_p_z_by_y: -190.7;
+
+loss: -0.1548;
+rec: -0.3661;
+kl: -121.8;
+log_p_y_by_z: 3.991;
+log_p_z_by_y: -190.8;
+
+loss: -0.16;
+rec: -0.3687;
+kl: -122.4;
+log_p_y_by_z: 4.063;
+log_p_z_by_y: -190.7;
+
+loss: -0.165;
+rec: -0.3634;
+kl: -122.6;
+log_p_y_by_z: 4.058;
+log_p_z_by_y: -191.0;
+
+loss: -0.1685;
+rec: -0.3591;
+kl: -122.4;
+log_p_y_by_z: 4.051;
+log_p_z_by_y: -191.4;
+
+loss: -0.163;
+rec: -0.3633;
+kl: -122.1;
+log_p_y_by_z: 4.042;
+log_p_z_by_y: -191.3;
+
+loss: -0.1566;
+rec: -0.3654;
+kl: -122.3;
+log_p_y_by_z: 3.996;
+log_p_z_by_y: -191.7;
+
+loss: -0.1652;
+rec: -0.3612;
+kl: -122.8;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -191.8;
+
+loss: -0.1694;
+rec: -0.3603;
+kl: -123.0;
+log_p_y_by_z: 4.066;
+log_p_z_by_y: -191.9;
+
+loss: -0.1692;
+rec: -0.3602;
+kl: -123.3;
+log_p_y_by_z: 4.061;
+log_p_z_by_y: -192.0;
+
+loss: -0.1695;
+rec: -0.3603;
+kl: -123.4;
+log_p_y_by_z: 4.064;
+log_p_z_by_y: -192.4;
+
+loss: -0.1659;
+rec: -0.3642;
+kl: -123.4;
+log_p_y_by_z: 4.066;
+log_p_z_by_y: -192.2;
+
+loss: -0.1706;
+rec: -0.3582;
+kl: -123.5;
+log_p_y_by_z: 4.053;
+log_p_z_by_y: -192.4;
+
+loss: -0.1666;
+rec: -0.3609;
+kl: -123.9;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -192.5;
+
+loss: -0.1692;
+rec: -0.3596;
+kl: -124.0;
+log_p_y_by_z: 4.048;
+log_p_z_by_y: -192.7;
+
+loss: -0.1713;
+rec: -0.3594;
+kl: -123.9;
+log_p_y_by_z: 4.068;
+log_p_z_by_y: -192.7;
+
+loss: -0.1664;
+rec: -0.3642;
+kl: -124.0;
+log_p_y_by_z: 4.065;
+log_p_z_by_y: -193.1;
+
+loss: -0.1709;
+rec: -0.3612;
+kl: -124.4;
+log_p_y_by_z: 4.077;
+log_p_z_by_y: -193.3;
+
+loss: -0.1656;
+rec: -0.3638;
+kl: -124.4;
+log_p_y_by_z: 4.049;
+log_p_z_by_y: -193.5;
+
+loss: -0.1617;
+rec: -0.3677;
+kl: -124.5;
+log_p_y_by_z: 4.049;
+log_p_z_by_y: -193.7;
+
+loss: -0.1728;
+rec: -0.3595;
+kl: -124.6;
+log_p_y_by_z: 4.076;
+log_p_z_by_y: -193.2;
+
+loss: -0.1735;
+rec: -0.3597;
+kl: -125.0;
+log_p_y_by_z: 4.082;
+log_p_z_by_y: -193.8;
+
+loss: -0.1679;
+rec: -0.3613;
+kl: -125.1;
+log_p_y_by_z: 4.041;
+log_p_z_by_y: -193.8;
+
+loss: -0.1709;
+rec: -0.3603;
+kl: -125.0;
+log_p_y_by_z: 4.062;
+log_p_z_by_y: -193.8;
+
+loss: -0.1694;
+rec: -0.3614;
+kl: -125.1;
+log_p_y_by_z: 4.057;
+log_p_z_by_y: -193.9;
+
+loss: -0.1698;
+rec: -0.3639;
+kl: -125.2;
+log_p_y_by_z: 4.085;
+log_p_z_by_y: -193.9;
+
+loss: -0.1699;
+rec: -0.3595;
+kl: -126.3;
+log_p_y_by_z: 4.031;
+log_p_z_by_y: -194.6;
+
+loss: -0.1694;
+rec: -0.3602;
+kl: -126.1;
+log_p_y_by_z: 4.035;
+log_p_z_by_y: -194.7;
+
+loss: -0.168;
+rec: -0.3624;
+kl: -126.3;
+log_p_y_by_z: 4.041;
+log_p_z_by_y: -194.9;
+
+loss: -0.1619;
+rec: -0.3675;
+kl: -125.5;
+log_p_y_by_z: 4.039;
+log_p_z_by_y: -194.5;
+
+loss: -0.1713;
+rec: -0.3613;
+kl: -126.4;
+log_p_y_by_z: 4.061;
+log_p_z_by_y: -195.0;
+
+loss: -0.1721;
+rec: -0.3609;
+kl: -126.5;
+log_p_y_by_z: 4.066;
+log_p_z_by_y: -195.0;
+
+loss: -0.1795;
+rec: -0.3543;
+kl: -126.5;
+log_p_y_by_z: 4.072;
+log_p_z_by_y: -195.4;
+
+loss: -0.1722;
+rec: -0.3583;
+kl: -126.7;
+log_p_y_by_z: 4.038;
+log_p_z_by_y: -195.7;
+
+loss: -0.1669;
+rec: -0.3628;
+kl: -126.6;
+log_p_y_by_z: 4.031;
+log_p_z_by_y: -195.5;
+
+loss: -0.164;
+rec: -0.3671;
+kl: -127.2;
+log_p_y_by_z: 4.039;
+log_p_z_by_y: -195.8;
+
+loss: -0.1706;
+rec: -0.3601;
+kl: -127.3;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -195.9;
+
+loss: -0.1699;
+rec: -0.3618;
+kl: -127.3;
+log_p_y_by_z: 4.044;
+log_p_z_by_y: -196.3;
+
+loss: -0.1698;
+rec: -0.3626;
+kl: -127.6;
+log_p_y_by_z: 4.047;
+log_p_z_by_y: -196.4;
+
+loss: -0.1729;
+rec: -0.36;
+kl: -127.9;
+log_p_y_by_z: 4.049;
+log_p_z_by_y: -196.3;
+
+Epoch 6 :
+loss: 0.09124;
+rec: -0.3536;
+kl: -124.6;
+log_p_y_by_z: 1.378;
+log_p_z_by_y: -203.9;
+
+loss: -0.07651;
+rec: -0.3678;
+kl: -135.9;
+log_p_y_by_z: 3.083;
+log_p_z_by_y: -207.4;
+
+loss: -0.1403;
+rec: -0.3681;
+kl: -136.5;
+log_p_y_by_z: 3.719;
+log_p_z_by_y: -206.9;
+
+loss: -0.1525;
+rec: -0.3611;
+kl: -137.8;
+log_p_y_by_z: 3.759;
+log_p_z_by_y: -207.4;
+
+loss: -0.1522;
+rec: -0.3632;
+kl: -138.3;
+log_p_y_by_z: 3.771;
+log_p_z_by_y: -207.2;
+
+loss: -0.1524;
+rec: -0.3644;
+kl: -138.4;
+log_p_y_by_z: 3.785;
+log_p_z_by_y: -207.6;
+
+loss: -0.1569;
+rec: -0.362;
+kl: -138.8;
+log_p_y_by_z: 3.801;
+log_p_z_by_y: -207.6;
+
+loss: -0.1561;
+rec: -0.3634;
+kl: -138.9;
+log_p_y_by_z: 3.807;
+log_p_z_by_y: -207.4;
+
+loss: -0.1531;
+rec: -0.3667;
+kl: -139.5;
+log_p_y_by_z: 3.803;
+log_p_z_by_y: -207.8;
+
+loss: -0.1518;
+rec: -0.367;
+kl: -139.8;
+log_p_y_by_z: 3.79;
+log_p_z_by_y: -208.2;
+
+loss: -0.1609;
+rec: -0.3604;
+kl: -140.2;
+log_p_y_by_z: 3.811;
+log_p_z_by_y: -208.4;
+
+loss: -0.1598;
+rec: -0.3627;
+kl: -140.3;
+log_p_y_by_z: 3.822;
+log_p_z_by_y: -208.3;
+
+loss: -0.1628;
+rec: -0.3607;
+kl: -140.6;
+log_p_y_by_z: 3.83;
+log_p_z_by_y: -208.2;
+
+loss: -0.1629;
+rec: -0.3601;
+kl: -141.1;
+log_p_y_by_z: 3.82;
+log_p_z_by_y: -208.8;
+
+loss: -0.1601;
+rec: -0.3629;
+kl: -141.1;
+log_p_y_by_z: 3.818;
+log_p_z_by_y: -208.9;
+
+loss: -0.1596;
+rec: -0.3649;
+kl: -141.0;
+log_p_y_by_z: 3.835;
+log_p_z_by_y: -208.8;
+
+loss: -0.1671;
+rec: -0.3585;
+kl: -140.9;
+log_p_y_by_z: 3.847;
+log_p_z_by_y: -209.0;
+
+loss: -0.1658;
+rec: -0.3591;
+kl: -141.6;
+log_p_y_by_z: 3.832;
+log_p_z_by_y: -209.4;
+
+loss: -0.1638;
+rec: -0.3633;
+kl: -141.9;
+log_p_y_by_z: 3.852;
+log_p_z_by_y: -209.4;
+
+loss: -0.1652;
+rec: -0.3602;
+kl: -141.2;
+log_p_y_by_z: 3.842;
+log_p_z_by_y: -209.5;
+
+loss: -0.1672;
+rec: -0.3608;
+kl: -141.4;
+log_p_y_by_z: 3.866;
+log_p_z_by_y: -209.4;
+
+loss: -0.1644;
+rec: -0.3631;
+kl: -141.7;
+log_p_y_by_z: 3.857;
+log_p_z_by_y: -209.5;
+
+loss: -0.163;
+rec: -0.3645;
+kl: -142.0;
+log_p_y_by_z: 3.855;
+log_p_z_by_y: -209.5;
+
+loss: -0.1644;
+rec: -0.3638;
+kl: -142.2;
+log_p_y_by_z: 3.86;
+log_p_z_by_y: -209.6;
+
+loss: -0.169;
+rec: -0.3612;
+kl: -142.7;
+log_p_y_by_z: 3.875;
+log_p_z_by_y: -210.1;
+
+loss: -0.166;
+rec: -0.3619;
+kl: -142.3;
+log_p_y_by_z: 3.856;
+log_p_z_by_y: -209.8;
+
+loss: -0.1627;
+rec: -0.3659;
+kl: -142.4;
+log_p_y_by_z: 3.861;
+log_p_z_by_y: -210.1;
+
+loss: -0.1695;
+rec: -0.3596;
+kl: -141.9;
+log_p_y_by_z: 3.872;
+log_p_z_by_y: -210.1;
+
+loss: -0.1717;
+rec: -0.3584;
+kl: -143.0;
+log_p_y_by_z: 3.871;
+log_p_z_by_y: -210.4;
+
+loss: -0.1709;
+rec: -0.3593;
+kl: -143.0;
+log_p_y_by_z: 3.872;
+log_p_z_by_y: -210.7;
+
+loss: -0.1693;
+rec: -0.3615;
+kl: -142.4;
+log_p_y_by_z: 3.883;
+log_p_z_by_y: -210.3;
+
+loss: -0.1669;
+rec: -0.3637;
+kl: -142.9;
+log_p_y_by_z: 3.876;
+log_p_z_by_y: -210.4;
+
+loss: -0.1708;
+rec: -0.3603;
+kl: -143.2;
+log_p_y_by_z: 3.879;
+log_p_z_by_y: -210.8;
+
+loss: -0.1702;
+rec: -0.3604;
+kl: -142.7;
+log_p_y_by_z: 3.879;
+log_p_z_by_y: -210.4;
+
+loss: -0.1757;
+rec: -0.3566;
+kl: -142.6;
+log_p_y_by_z: 3.897;
+log_p_z_by_y: -211.3;
+
+loss: -0.1764;
+rec: -0.3557;
+kl: -143.3;
+log_p_y_by_z: 3.888;
+log_p_z_by_y: -211.3;
+
+loss: -0.1745;
+rec: -0.3584;
+kl: -143.2;
+log_p_y_by_z: 3.898;
+log_p_z_by_y: -210.8;
+
+loss: -0.1697;
+rec: -0.3629;
+kl: -143.1;
+log_p_y_by_z: 3.896;
+log_p_z_by_y: -210.8;
+
+loss: -0.1738;
+rec: -0.3597;
+kl: -143.9;
+log_p_y_by_z: 3.896;
+log_p_z_by_y: -211.1;
+
+loss: -0.1748;
+rec: -0.3584;
+kl: -143.6;
+log_p_y_by_z: 3.896;
+log_p_z_by_y: -211.4;
+
+loss: -0.177;
+rec: -0.3574;
+kl: -143.6;
+log_p_y_by_z: 3.907;
+log_p_z_by_y: -211.3;
+
+loss: -0.1783;
+rec: -0.3564;
+kl: -143.5;
+log_p_y_by_z: 3.913;
+log_p_z_by_y: -211.1;
+
+loss: -0.1717;
+rec: -0.3625;
+kl: -143.5;
+log_p_y_by_z: 3.908;
+log_p_z_by_y: -211.4;
+
+loss: -0.1754;
+rec: -0.3599;
+kl: -143.7;
+log_p_y_by_z: 3.916;
+log_p_z_by_y: -211.7;
+
+loss: -0.1739;
+rec: -0.3594;
+kl: -143.8;
+log_p_y_by_z: 3.895;
+log_p_z_by_y: -211.3;
+
+loss: -0.1764;
+rec: -0.3591;
+kl: -143.8;
+log_p_y_by_z: 3.916;
+log_p_z_by_y: -211.5;
+
+loss: -0.1771;
+rec: -0.3592;
+kl: -144.1;
+log_p_y_by_z: 3.923;
+log_p_z_by_y: -211.8;
+
+loss: -0.1763;
+rec: -0.3588;
+kl: -144.3;
+log_p_y_by_z: 3.908;
+log_p_z_by_y: -211.9;
+
+loss: -0.1783;
+rec: -0.3567;
+kl: -144.3;
+log_p_y_by_z: 3.907;
+log_p_z_by_y: -211.8;
+
+loss: -0.1807;
+rec: -0.3553;
+kl: -144.1;
+log_p_y_by_z: 3.919;
+log_p_z_by_y: -211.7;
+
+loss: -0.1706;
+rec: -0.3659;
+kl: -144.4;
+log_p_y_by_z: 3.92;
+log_p_z_by_y: -211.6;
+
+loss: -0.1762;
+rec: -0.3599;
+kl: -144.6;
+log_p_y_by_z: 3.914;
+log_p_z_by_y: -212.0;
+
+loss: -0.1755;
+rec: -0.3602;
+kl: -144.3;
+log_p_y_by_z: 3.914;
+log_p_z_by_y: -212.1;
+
+loss: -0.1801;
+rec: -0.3561;
+kl: -144.9;
+log_p_y_by_z: 3.913;
+log_p_z_by_y: -212.5;
+
+loss: -0.1799;
+rec: -0.3567;
+kl: -144.6;
+log_p_y_by_z: 3.92;
+log_p_z_by_y: -212.5;
+
+loss: -0.1784;
+rec: -0.358;
+kl: -144.9;
+log_p_y_by_z: 3.915;
+log_p_z_by_y: -212.4;
+
+loss: -0.1761;
+rec: -0.3616;
+kl: -144.6;
+log_p_y_by_z: 3.932;
+log_p_z_by_y: -212.2;
+
+loss: -0.1788;
+rec: -0.358;
+kl: -144.9;
+log_p_y_by_z: 3.919;
+log_p_z_by_y: -212.5;
+
+loss: -0.1793;
+rec: -0.3565;
+kl: -145.0;
+log_p_y_by_z: 3.907;
+log_p_z_by_y: -212.7;
+
+loss: -0.1776;
+rec: -0.3596;
+kl: -144.9;
+log_p_y_by_z: 3.923;
+log_p_z_by_y: -212.4;
+
+loss: -0.1758;
+rec: -0.3608;
+kl: -144.6;
+log_p_y_by_z: 3.921;
+log_p_z_by_y: -212.5;
+
+loss: -0.1853;
+rec: -0.353;
+kl: -145.2;
+log_p_y_by_z: 3.931;
+log_p_z_by_y: -212.7;
+
+loss: -0.1756;
+rec: -0.3629;
+kl: -145.3;
+log_p_y_by_z: 3.932;
+log_p_z_by_y: -212.8;
+
+loss: -0.1774;
+rec: -0.3597;
+kl: -145.2;
+log_p_y_by_z: 3.919;
+log_p_z_by_y: -213.0;
+
+loss: -0.182;
+rec: -0.356;
+kl: -145.2;
+log_p_y_by_z: 3.929;
+log_p_z_by_y: -212.6;
+
+loss: -0.1772;
+rec: -0.362;
+kl: -145.5;
+log_p_y_by_z: 3.937;
+log_p_z_by_y: -212.7;
+
+loss: -0.1823;
+rec: -0.3565;
+kl: -145.2;
+log_p_y_by_z: 3.937;
+log_p_z_by_y: -213.0;
+
+loss: -0.1825;
+rec: -0.3568;
+kl: -145.6;
+log_p_y_by_z: 3.938;
+log_p_z_by_y: -212.9;
+
+loss: -0.1817;
+rec: -0.3582;
+kl: -145.9;
+log_p_y_by_z: 3.941;
+log_p_z_by_y: -213.1;
+
+loss: -0.1828;
+rec: -0.3569;
+kl: -145.9;
+log_p_y_by_z: 3.938;
+log_p_z_by_y: -213.4;
+
+loss: -0.1744;
+rec: -0.3635;
+kl: -145.5;
+log_p_y_by_z: 3.924;
+log_p_z_by_y: -213.0;
+
+loss: -0.1817;
+rec: -0.3575;
+kl: -145.4;
+log_p_y_by_z: 3.939;
+log_p_z_by_y: -213.2;
+
+loss: -0.1824;
+rec: -0.3581;
+kl: -145.9;
+log_p_y_by_z: 3.945;
+log_p_z_by_y: -213.2;
+
+loss: -0.1819;
+rec: -0.3568;
+kl: -145.7;
+log_p_y_by_z: 3.93;
+log_p_z_by_y: -213.4;
+
+loss: -0.1848;
+rec: -0.3559;
+kl: -145.0;
+log_p_y_by_z: 3.957;
+log_p_z_by_y: -213.0;
+
+loss: -0.185;
+rec: -0.356;
+kl: -145.6;
+log_p_y_by_z: 3.954;
+log_p_z_by_y: -213.4;
+
+loss: -0.1848;
+rec: -0.3562;
+kl: -145.7;
+log_p_y_by_z: 3.952;
+log_p_z_by_y: -213.4;
+
+loss: -0.1842;
+rec: -0.3558;
+kl: -146.0;
+log_p_y_by_z: 3.94;
+log_p_z_by_y: -213.8;
+
+loss: -0.1809;
+rec: -0.359;
+kl: -145.4;
+log_p_y_by_z: 3.944;
+log_p_z_by_y: -213.2;
+
+loss: -0.1836;
+rec: -0.3555;
+kl: -145.6;
+log_p_y_by_z: 3.936;
+log_p_z_by_y: -213.3;
+
+loss: -0.1846;
+rec: -0.3564;
+kl: -146.0;
+log_p_y_by_z: 3.949;
+log_p_z_by_y: -213.6;
+
+loss: -0.1865;
+rec: -0.3544;
+kl: -146.0;
+log_p_y_by_z: 3.949;
+log_p_z_by_y: -214.1;
+
+loss: -0.1825;
+rec: -0.359;
+kl: -146.2;
+log_p_y_by_z: 3.953;
+log_p_z_by_y: -213.9;
+
+loss: -0.1833;
+rec: -0.3578;
+kl: -145.7;
+log_p_y_by_z: 3.954;
+log_p_z_by_y: -213.7;
+
+loss: -0.1812;
+rec: -0.3595;
+kl: -146.3;
+log_p_y_by_z: 3.944;
+log_p_z_by_y: -214.1;
+
+loss: -0.1817;
+rec: -0.3594;
+kl: -146.2;
+log_p_y_by_z: 3.948;
+log_p_z_by_y: -213.7;
+
+loss: -0.1852;
+rec: -0.3572;
+kl: -146.2;
+log_p_y_by_z: 3.962;
+log_p_z_by_y: -213.9;
+
+loss: -0.1878;
+rec: -0.355;
+kl: -146.4;
+log_p_y_by_z: 3.964;
+log_p_z_by_y: -213.8;
+
+loss: -0.1842;
+rec: -0.3567;
+kl: -146.2;
+log_p_y_by_z: 3.947;
+log_p_z_by_y: -214.2;
+
+loss: -0.1893;
+rec: -0.3548;
+kl: -146.9;
+log_p_y_by_z: 3.972;
+log_p_z_by_y: -214.4;
+
+loss: -0.1831;
+rec: -0.3588;
+kl: -146.5;
+log_p_y_by_z: 3.954;
+log_p_z_by_y: -214.5;
+
+loss: -0.1908;
+rec: -0.3534;
+kl: -146.6;
+log_p_y_by_z: 3.976;
+log_p_z_by_y: -214.4;
+
+loss: -0.1878;
+rec: -0.356;
+kl: -146.8;
+log_p_y_by_z: 3.97;
+log_p_z_by_y: -214.4;
+
+loss: -0.1872;
+rec: -0.3546;
+kl: -146.6;
+log_p_y_by_z: 3.951;
+log_p_z_by_y: -214.7;
+
+loss: -0.1865;
+rec: -0.3549;
+kl: -146.7;
+log_p_y_by_z: 3.947;
+log_p_z_by_y: -214.7;
+
+loss: -0.1866;
+rec: -0.3558;
+kl: -146.0;
+log_p_y_by_z: 3.964;
+log_p_z_by_y: -214.0;
+
+loss: -0.1907;
+rec: -0.3505;
+kl: -146.7;
+log_p_y_by_z: 3.946;
+log_p_z_by_y: -214.8;
+
+loss: -0.1929;
+rec: -0.3504;
+kl: -146.5;
+log_p_y_by_z: 3.969;
+log_p_z_by_y: -214.5;
+
+loss: -0.1926;
+rec: -0.3515;
+kl: -147.2;
+log_p_y_by_z: 3.969;
+log_p_z_by_y: -214.9;
+
+loss: -0.1905;
+rec: -0.3533;
+kl: -146.7;
+log_p_y_by_z: 3.972;
+log_p_z_by_y: -215.1;
+
+loss: -0.1909;
+rec: -0.3518;
+kl: -146.9;
+log_p_y_by_z: 3.958;
+log_p_z_by_y: -215.2;
+
+loss: -0.1864;
+rec: -0.3579;
+kl: -147.4;
+log_p_y_by_z: 3.969;
+log_p_z_by_y: -214.8;
+
+loss: -0.1923;
+rec: -0.3528;
+kl: -147.1;
+log_p_y_by_z: 3.98;
+log_p_z_by_y: -214.9;
+
+loss: -0.1907;
+rec: -0.3533;
+kl: -147.2;
+log_p_y_by_z: 3.968;
+log_p_z_by_y: -214.7;
+
+loss: -0.1918;
+rec: -0.3523;
+kl: -146.8;
+log_p_y_by_z: 3.972;
+log_p_z_by_y: -214.9;
+
+loss: -0.1922;
+rec: -0.3534;
+kl: -147.1;
+log_p_y_by_z: 3.984;
+log_p_z_by_y: -215.1;
+
+loss: -0.1872;
+rec: -0.3558;
+kl: -147.0;
+log_p_y_by_z: 3.96;
+log_p_z_by_y: -215.5;
+
+loss: -0.1873;
+rec: -0.3555;
+kl: -147.2;
+log_p_y_by_z: 3.956;
+log_p_z_by_y: -215.0;
+
+loss: -0.1904;
+rec: -0.3538;
+kl: -147.2;
+log_p_y_by_z: 3.97;
+log_p_z_by_y: -215.1;
+
+loss: -0.1894;
+rec: -0.3558;
+kl: -147.1;
+log_p_y_by_z: 3.981;
+log_p_z_by_y: -215.2;
+
+loss: -0.1933;
+rec: -0.3507;
+kl: -147.7;
+log_p_y_by_z: 3.964;
+log_p_z_by_y: -215.6;
+
+loss: -0.1934;
+rec: -0.3519;
+kl: -147.5;
+log_p_y_by_z: 3.979;
+log_p_z_by_y: -215.4;
+
+loss: -0.1895;
+rec: -0.356;
+kl: -147.3;
+log_p_y_by_z: 3.982;
+log_p_z_by_y: -215.4;
+
+loss: -0.1875;
+rec: -0.357;
+kl: -147.3;
+log_p_y_by_z: 3.972;
+log_p_z_by_y: -215.2;
+
+loss: -0.1923;
+rec: -0.3522;
+kl: -147.4;
+log_p_y_by_z: 3.971;
+log_p_z_by_y: -215.8;
+
+loss: -0.1924;
+rec: -0.3526;
+kl: -147.5;
+log_p_y_by_z: 3.976;
+log_p_z_by_y: -215.7;
+
+loss: -0.1922;
+rec: -0.3522;
+kl: -147.9;
+log_p_y_by_z: 3.965;
+log_p_z_by_y: -215.8;
+
+loss: -0.1962;
+rec: -0.3493;
+kl: -147.9;
+log_p_y_by_z: 3.976;
+log_p_z_by_y: -215.7;
+
+loss: -0.1979;
+rec: -0.3489;
+kl: -147.8;
+log_p_y_by_z: 3.99;
+log_p_z_by_y: -215.9;
+
+loss: -0.1933;
+rec: -0.3533;
+kl: -147.8;
+log_p_y_by_z: 3.988;
+log_p_z_by_y: -215.8;
+
+loss: -0.1952;
+rec: -0.3529;
+kl: -147.5;
+log_p_y_by_z: 4.006;
+log_p_z_by_y: -215.9;
+
+loss: -0.1909;
+rec: -0.3554;
+kl: -147.8;
+log_p_y_by_z: 3.986;
+log_p_z_by_y: -216.0;
+
+loss: -0.193;
+rec: -0.3555;
+kl: -148.5;
+log_p_y_by_z:  4.0;
+log_p_z_by_y: -216.2;
+
+loss: -0.1906;
+rec: -0.3554;
+kl: -148.3;
+log_p_y_by_z: 3.978;
+log_p_z_by_y: -216.2;
+
+loss: -0.1956;
+rec: -0.351;
+kl: -148.3;
+log_p_y_by_z: 3.983;
+log_p_z_by_y: -216.4;
+
+loss: -0.1931;
+rec: -0.3521;
+kl: -147.8;
+log_p_y_by_z: 3.973;
+log_p_z_by_y: -216.2;
+
+loss: -0.1981;
+rec: -0.3497;
+kl: -148.6;
+log_p_y_by_z: 3.992;
+log_p_z_by_y: -216.7;
+
+loss: -0.2019;
+rec: -0.3454;
+kl: -147.9;
+log_p_y_by_z: 3.994;
+log_p_z_by_y: -216.3;
+
+loss: -0.1962;
+rec: -0.3503;
+kl: -148.5;
+log_p_y_by_z: 3.98;
+log_p_z_by_y: -216.3;
+
+loss: -0.1949;
+rec: -0.3517;
+kl: -148.3;
+log_p_y_by_z: 3.982;
+log_p_z_by_y: -216.5;
+
+loss: -0.1925;
+rec: -0.3545;
+kl: -148.4;
+log_p_y_by_z: 3.985;
+log_p_z_by_y: -216.6;
+
+loss: -0.1863;
+rec: -0.3592;
+kl: -148.0;
+log_p_y_by_z: 3.975;
+log_p_z_by_y: -216.3;
+
+loss: -0.19;
+rec: -0.3541;
+kl: -148.4;
+log_p_y_by_z: 3.957;
+log_p_z_by_y: -216.7;
+
+loss: -0.1927;
+rec: -0.3526;
+kl: -148.7;
+log_p_y_by_z: 3.966;
+log_p_z_by_y: -216.9;
+
+loss: -0.1973;
+rec: -0.3513;
+kl: -149.2;
+log_p_y_by_z: 3.994;
+log_p_z_by_y: -216.7;
+
+loss: -0.1916;
+rec: -0.3543;
+kl: -148.8;
+log_p_y_by_z: 3.97;
+log_p_z_by_y: -216.9;
+
+loss: -0.1857;
+rec: -0.3593;
+kl: -148.7;
+log_p_y_by_z: 3.962;
+log_p_z_by_y: -216.8;
+
+loss: -0.1927;
+rec: -0.3553;
+kl: -148.4;
+log_p_y_by_z: 3.996;
+log_p_z_by_y: -216.6;
+
+loss: -0.193;
+rec: -0.3536;
+kl: -148.5;
+log_p_y_by_z: 3.981;
+log_p_z_by_y: -216.8;
+
+loss: -0.1934;
+rec: -0.3547;
+kl: -148.7;
+log_p_y_by_z: 3.994;
+log_p_z_by_y: -217.1;
+
+loss: -0.196;
+rec: -0.3535;
+kl: -149.0;
+log_p_y_by_z: 4.005;
+log_p_z_by_y: -217.0;
+
+loss: -0.1933;
+rec: -0.353;
+kl: -148.5;
+log_p_y_by_z: 3.978;
+log_p_z_by_y: -217.2;
+
+loss: -0.1955;
+rec: -0.3527;
+kl: -148.8;
+log_p_y_by_z: 3.994;
+log_p_z_by_y: -217.2;
+
+loss: -0.1979;
+rec: -0.3506;
+kl: -149.1;
+log_p_y_by_z: 3.994;
+log_p_z_by_y: -217.4;
+
+loss: -0.1901;
+rec: -0.3588;
+kl: -149.3;
+log_p_y_by_z: 3.996;
+log_p_z_by_y: -217.3;
+
+loss: -0.1972;
+rec: -0.3498;
+kl: -149.9;
+log_p_y_by_z: 3.971;
+log_p_z_by_y: -217.8;
+
+loss: -0.1974;
+rec: -0.3516;
+kl: -149.3;
+log_p_y_by_z: 3.998;
+log_p_z_by_y: -217.4;
+
+loss: -0.1989;
+rec: -0.3488;
+kl: -148.7;
+log_p_y_by_z: 3.99;
+log_p_z_by_y: -217.3;
+
+loss: -0.2028;
+rec: -0.3453;
+kl: -148.9;
+log_p_y_by_z: 3.992;
+log_p_z_by_y: -217.8;
+
+loss: -0.2005;
+rec: -0.3485;
+kl: -149.3;
+log_p_y_by_z: 3.997;
+log_p_z_by_y: -217.6;
+
+loss: -0.1987;
+rec: -0.3486;
+kl: -149.1;
+log_p_y_by_z: 3.983;
+log_p_z_by_y: -217.8;
+
+loss: -0.1997;
+rec: -0.3496;
+kl: -149.6;
+log_p_y_by_z: 3.998;
+log_p_z_by_y: -217.7;
+
+loss: -0.1986;
+rec: -0.3514;
+kl: -149.3;
+log_p_y_by_z: 4.007;
+log_p_z_by_y: -218.2;
+
+loss: -0.1956;
+rec: -0.3527;
+kl: -149.3;
+log_p_y_by_z: 3.99;
+log_p_z_by_y: -217.8;
+
+loss: -0.1967;
+rec: -0.3546;
+kl: -149.7;
+log_p_y_by_z: 4.016;
+log_p_z_by_y: -217.8;
+
+loss: -0.1995;
+rec: -0.3515;
+kl: -149.1;
+log_p_y_by_z: 4.018;
+log_p_z_by_y: -218.1;
+
+loss: -0.1962;
+rec: -0.3529;
+kl: -149.6;
+log_p_y_by_z: 3.995;
+log_p_z_by_y: -218.1;
+
+loss: -0.2006;
+rec: -0.3487;
+kl: -149.8;
+log_p_y_by_z: 3.995;
+log_p_z_by_y: -218.4;
+
+loss: -0.2043;
+rec: -0.3479;
+kl: -150.0;
+log_p_y_by_z: 4.022;
+log_p_z_by_y: -218.0;
+
+loss: -0.2019;
+rec: -0.3507;
+kl: -150.0;
+log_p_y_by_z: 4.025;
+log_p_z_by_y: -218.3;
+
+loss: -0.1969;
+rec: -0.3526;
+kl: -149.7;
+log_p_y_by_z: 3.997;
+log_p_z_by_y: -218.8;
+
+loss: -0.2037;
+rec: -0.3454;
+kl: -149.8;
+log_p_y_by_z: 3.994;
+log_p_z_by_y: -218.2;
+
+loss: -0.2008;
+rec: -0.3493;
+kl: -149.8;
+log_p_y_by_z: 4.004;
+log_p_z_by_y: -218.4;
+
+loss: -0.1981;
+rec: -0.3537;
+kl: -149.9;
+log_p_y_by_z: 4.019;
+log_p_z_by_y: -218.2;
+
+loss: -0.2038;
+rec: -0.3498;
+kl: -149.9;
+log_p_y_by_z: 4.037;
+log_p_z_by_y: -218.5;
+
+loss: -0.1967;
+rec: -0.3533;
+kl: -149.8;
+log_p_y_by_z: 4.002;
+log_p_z_by_y: -218.7;
+
+loss: -0.2042;
+rec: -0.3476;
+kl: -150.2;
+log_p_y_by_z: 4.016;
+log_p_z_by_y: -219.1;
+
+loss: -0.206;
+rec: -0.3464;
+kl: -150.1;
+log_p_y_by_z: 4.022;
+log_p_z_by_y: -219.0;
+
+loss: -0.2037;
+rec: -0.3479;
+kl: -150.3;
+log_p_y_by_z: 4.012;
+log_p_z_by_y: -219.0;
+
+loss: -0.1997;
+rec: -0.3521;
+kl: -150.5;
+log_p_y_by_z: 4.013;
+log_p_z_by_y: -219.0;
+
+loss: -0.2032;
+rec: -0.3476;
+kl: -150.2;
+log_p_y_by_z: 4.006;
+log_p_z_by_y: -219.1;
+
+loss: -0.1953;
+rec: -0.3553;
+kl: -150.3;
+log_p_y_by_z: 4.004;
+log_p_z_by_y: -219.1;
+
+loss: -0.1999;
+rec: -0.3524;
+kl: -150.2;
+log_p_y_by_z: 4.021;
+log_p_z_by_y: -219.2;
+
+loss: -0.2034;
+rec: -0.3483;
+kl: -150.7;
+log_p_y_by_z: 4.01;
+log_p_z_by_y: -219.7;
+
+loss: -0.2034;
+rec: -0.3506;
+kl: -151.1;
+log_p_y_by_z: 4.029;
+log_p_z_by_y: -219.7;
+
+loss: -0.1996;
+rec: -0.3482;
+kl: -150.4;
+log_p_y_by_z: 3.974;
+log_p_z_by_y: -219.6;
+
+loss: -0.2058;
+rec: -0.3457;
+kl: -150.7;
+log_p_y_by_z: 4.008;
+log_p_z_by_y: -219.7;
+
+loss: -0.2064;
+rec: -0.3456;
+kl: -150.6;
+log_p_y_by_z: 4.013;
+log_p_z_by_y: -219.7;
+
+loss: -0.2072;
+rec: -0.3459;
+kl: -150.4;
+log_p_y_by_z: 4.026;
+log_p_z_by_y: -219.5;
+
+loss: -0.2028;
+rec: -0.3501;
+kl: -150.7;
+log_p_y_by_z: 4.022;
+log_p_z_by_y: -219.8;
+
+loss: -0.2073;
+rec: -0.3472;
+kl: -150.4;
+log_p_y_by_z: 4.041;
+log_p_z_by_y: -219.5;
+
+loss: -0.2097;
+rec: -0.3447;
+kl: -151.1;
+log_p_y_by_z: 4.033;
+log_p_z_by_y: -219.7;
+
+loss: -0.2044;
+rec: -0.3483;
+kl: -150.5;
+log_p_y_by_z: 4.022;
+log_p_z_by_y: -219.9;
+
+loss: -0.2104;
+rec: -0.3441;
+kl: -150.9;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -219.7;
+
+loss: -0.2083;
+rec: -0.3446;
+kl: -151.1;
+log_p_y_by_z: 4.019;
+log_p_z_by_y: -220.2;
+
+loss: -0.2039;
+rec: -0.3494;
+kl: -151.1;
+log_p_y_by_z: 4.022;
+log_p_z_by_y: -220.5;
+
+loss: -0.2055;
+rec: -0.3488;
+kl: -150.9;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -220.2;
+
+loss: -0.2008;
+rec: -0.3535;
+kl: -150.9;
+log_p_y_by_z: 4.034;
+log_p_z_by_y: -220.0;
+
+loss: -0.2025;
+rec: -0.3489;
+kl: -150.5;
+log_p_y_by_z: 4.01;
+log_p_z_by_y: -220.4;
+
+loss: -0.2067;
+rec: -0.3472;
+kl: -151.2;
+log_p_y_by_z: 4.027;
+log_p_z_by_y: -220.3;
+
+loss: -0.2101;
+rec: -0.3455;
+kl: -151.1;
+log_p_y_by_z: 4.045;
+log_p_z_by_y: -220.3;
+
+loss: -0.2069;
+rec: -0.3464;
+kl: -151.1;
+log_p_y_by_z: 4.022;
+log_p_z_by_y: -220.9;
+
+loss: -0.2074;
+rec: -0.348;
+kl: -151.5;
+log_p_y_by_z: 4.039;
+log_p_z_by_y: -220.6;
+
+loss: -0.2058;
+rec: -0.3502;
+kl: -151.6;
+log_p_y_by_z: 4.043;
+log_p_z_by_y: -220.5;
+
+loss: -0.1997;
+rec: -0.3542;
+kl: -150.9;
+log_p_y_by_z: 4.03;
+log_p_z_by_y: -220.5;
+
+loss: -0.2057;
+rec: -0.3501;
+kl: -151.1;
+log_p_y_by_z: 4.047;
+log_p_z_by_y: -220.1;
+
+loss: -0.2119;
+rec: -0.3453;
+kl: -151.7;
+log_p_y_by_z: 4.055;
+log_p_z_by_y: -220.8;
+
+loss: -0.2045;
+rec: -0.3497;
+kl: -151.4;
+log_p_y_by_z: 4.028;
+log_p_z_by_y: -220.5;
+
+loss: -0.2074;
+rec: -0.3484;
+kl: -151.8;
+log_p_y_by_z: 4.04;
+log_p_z_by_y: -220.8;
+
+Epoch 7 :
+loss: -0.2048;
+rec: -0.349;
+kl: -151.4;
+log_p_y_by_z: 4.024;
+log_p_z_by_y: -220.8;
+
+loss: -0.2058;
+rec: -0.3486;
+kl: -151.5;
+log_p_y_by_z: 4.029;
+log_p_z_by_y: -221.0;
+
+loss: -0.2093;
+rec: -0.3468;
+kl: -151.7;
+log_p_y_by_z: 4.044;
+log_p_z_by_y: -221.0;
+
+loss: -0.206;
+rec: -0.3494;
+kl: -151.7;
+log_p_y_by_z: 4.037;
+log_p_z_by_y: -220.9;
+
+loss: -0.2135;
+rec: -0.3443;
+kl: -152.4;
+log_p_y_by_z: 4.054;
+log_p_z_by_y: -221.2;
+
+loss: -0.2146;
+rec: -0.3436;
+kl: -152.0;
+log_p_y_by_z: 4.062;
+log_p_z_by_y: -221.2;
+
+loss: -0.2148;
+rec: -0.3433;
+kl: -152.0;
+log_p_y_by_z: 4.061;
+log_p_z_by_y: -221.2;
+
+loss: -0.2092;
+rec: -0.3469;
+kl: -151.6;
+log_p_y_by_z: 4.046;
+log_p_z_by_y: -221.0;
+
+loss: -0.2155;
+rec: -0.3427;
+kl: -151.5;
+log_p_y_by_z: 4.067;
+log_p_z_by_y: -221.1;
+
+loss: -0.211;
+rec: -0.3462;
+kl: -152.0;
+log_p_y_by_z: 4.053;
+log_p_z_by_y: -221.4;
+
+loss: -0.2154;
+rec: -0.3433;
+kl: -152.2;
+log_p_y_by_z: 4.066;
+log_p_z_by_y: -221.1;
+
+loss: -0.2076;
+rec: -0.3479;
+kl: -151.7;
+log_p_y_by_z: 4.038;
+log_p_z_by_y: -221.2;
+
+loss: -0.2062;
+rec: -0.3496;
+kl: -152.1;
+log_p_y_by_z: 4.038;
+log_p_z_by_y: -221.3;
+
+loss: -0.2134;
+rec: -0.3438;
+kl: -152.3;
+log_p_y_by_z: 4.049;
+log_p_z_by_y: -221.3;
+
+loss: -0.2102;
+rec: -0.3481;
+kl: -152.6;
+log_p_y_by_z: 4.057;
+log_p_z_by_y: -221.7;
+
+loss: -0.2148;
+rec: -0.3433;
+kl: -152.8;
+log_p_y_by_z: 4.053;
+log_p_z_by_y: -221.7;
+
+loss: -0.2136;
+rec: -0.3432;
+kl: -152.2;
+log_p_y_by_z: 4.046;
+log_p_z_by_y: -221.6;
+
+loss: -0.2162;
+rec: -0.3428;
+kl: -152.7;
+log_p_y_by_z: 4.064;
+log_p_z_by_y: -221.8;
+
+loss: -0.2169;
+rec: -0.3425;
+kl: -152.7;
+log_p_y_by_z: 4.067;
+log_p_z_by_y: -221.8;
+
+loss: -0.2131;
+rec: -0.3458;
+kl: -152.6;
+log_p_y_by_z: 4.063;
+log_p_z_by_y: -221.9;
+
+loss: -0.2048;
+rec: -0.3477;
+kl: -152.6;
+log_p_y_by_z:  4.0;
+log_p_z_by_y: -221.7;
+
+loss: -0.2066;
+rec: -0.3511;
+kl: -152.6;
+log_p_y_by_z: 4.051;
+log_p_z_by_y: -221.8;
+
+loss: -0.2129;
+rec: -0.3472;
+kl: -152.9;
+log_p_y_by_z: 4.071;
+log_p_z_by_y: -222.3;
+
+loss: -0.2194;
+rec: -0.342;
+kl: -153.0;
+log_p_y_by_z: 4.084;
+log_p_z_by_y: -222.2;
+
+loss: -0.2131;
+rec: -0.3465;
+kl: -152.8;
+log_p_y_by_z: 4.067;
+log_p_z_by_y: -222.4;
+
+loss: -0.2144;
+rec: -0.3436;
+kl: -152.7;
+log_p_y_by_z: 4.053;
+log_p_z_by_y: -222.2;
+
+loss: -0.2079;
+rec: -0.3502;
+kl: -152.8;
+log_p_y_by_z: 4.053;
+log_p_z_by_y: -222.5;
+
+loss: -0.2216;
+rec: -0.3367;
+kl: -153.2;
+log_p_y_by_z: 4.051;
+log_p_z_by_y: -222.3;
+
+loss: -0.2154;
+rec: -0.3422;
+kl: -152.6;
+log_p_y_by_z: 4.05;
+log_p_z_by_y: -222.1;
+
+loss: -0.2038;
+rec: -0.3506;
+kl: -153.0;
+log_p_y_by_z: 4.014;
+log_p_z_by_y: -222.1;
+
+loss: -0.2143;
+rec: -0.3457;
+kl: -153.0;
+log_p_y_by_z: 4.069;
+log_p_z_by_y: -222.7;
+
+loss: -0.212;
+rec: -0.3465;
+kl: -153.0;
+log_p_y_by_z: 4.055;
+log_p_z_by_y: -222.5;
+
+loss: -0.2154;
+rec: -0.3445;
+kl: -153.6;
+log_p_y_by_z: 4.062;
+log_p_z_by_y: -222.7;
+
+loss: -0.2203;
+rec: -0.3411;
+kl: -153.5;
+log_p_y_by_z: 4.079;
+log_p_z_by_y: -222.8;
+
+loss: -0.2193;
+rec: -0.3422;
+kl: -153.5;
+log_p_y_by_z: 4.08;
+log_p_z_by_y: -222.8;
+
+loss: -0.2178;
+rec: -0.3413;
+kl: -154.1;
+log_p_y_by_z: 4.05;
+log_p_z_by_y: -223.4;
+
+loss: -0.2177;
+rec: -0.3431;
+kl: -153.6;
+log_p_y_by_z: 4.072;
+log_p_z_by_y: -222.8;
+
+loss: -0.2149;
+rec: -0.3447;
+kl: -153.5;
+log_p_y_by_z: 4.061;
+log_p_z_by_y: -223.1;
+
+loss: -0.2178;
+rec: -0.3441;
+kl: -153.9;
+log_p_y_by_z: 4.08;
+log_p_z_by_y: -223.0;
+
+loss: -0.2215;
+rec: -0.3403;
+kl: -153.9;
+log_p_y_by_z: 4.079;
+log_p_z_by_y: -223.1;
+
+loss: -0.2196;
+rec: -0.3429;
+kl: -153.7;
+log_p_y_by_z: 4.088;
+log_p_z_by_y: -223.0;
+
+loss: -0.2178;
+rec: -0.3432;
+kl: -153.8;
+log_p_y_by_z: 4.072;
+log_p_z_by_y: -222.7;
+
+loss: -0.217;
+rec: -0.3435;
+kl: -153.8;
+log_p_y_by_z: 4.067;
+log_p_z_by_y: -223.7;
+
+loss: -0.2255;
+rec: -0.3367;
+kl: -154.0;
+log_p_y_by_z: 4.082;
+log_p_z_by_y: -223.5;
+
+loss: -0.2227;
+rec: -0.338;
+kl: -154.4;
+log_p_y_by_z: 4.062;
+log_p_z_by_y: -223.9;
+
+loss: -0.2191;
+rec: -0.3434;
+kl: -154.1;
+log_p_y_by_z: 4.084;
+log_p_z_by_y: -223.6;
+
+loss: -0.2244;
+rec: -0.3386;
+kl: -154.4;
+log_p_y_by_z: 4.086;
+log_p_z_by_y: -223.7;
+
+loss: -0.217;
+rec: -0.3441;
+kl: -154.2;
+log_p_y_by_z: 4.069;
+log_p_z_by_y: -223.5;
+
+loss: -0.2192;
+rec: -0.3428;
+kl: -154.3;
+log_p_y_by_z: 4.077;
+log_p_z_by_y: -223.6;
+
+loss: -0.2138;
+rec: -0.3469;
+kl: -154.3;
+log_p_y_by_z: 4.064;
+log_p_z_by_y: -223.6;
+
+loss: -0.2171;
+rec: -0.345;
+kl: -154.3;
+log_p_y_by_z: 4.079;
+log_p_z_by_y: -223.7;
+
+loss: -0.2137;
+rec: -0.3456;
+kl: -154.5;
+log_p_y_by_z: 4.049;
+log_p_z_by_y: -223.9;
+
+loss: -0.2206;
+rec: -0.3411;
+kl: -154.4;
+log_p_y_by_z: 4.073;
+log_p_z_by_y: -223.5;
+
+loss: -0.2181;
+rec: -0.341;
+kl: -154.4;
+log_p_y_by_z: 4.048;
+log_p_z_by_y: -223.8;
+
+loss: -0.2196;
+rec: -0.3435;
+kl: -154.8;
+log_p_y_by_z: 4.083;
+log_p_z_by_y: -224.2;
+
+loss: -0.2218;
+rec: -0.3408;
+kl: -154.7;
+log_p_y_by_z: 4.079;
+log_p_z_by_y: -224.1;
+
+loss: -0.2218;
+rec: -0.3405;
+kl: -155.0;
+log_p_y_by_z: 4.073;
+log_p_z_by_y: -224.3;
+
+loss: -0.2175;
+rec: -0.3428;
+kl: -154.9;
+log_p_y_by_z: 4.055;
+log_p_z_by_y: -224.4;
+
+loss: -0.2245;
+rec: -0.339;
+kl: -154.9;
+log_p_y_by_z: 4.085;
+log_p_z_by_y: -224.2;
+
+loss: -0.2216;
+rec: -0.3409;
+kl: -154.6;
+log_p_y_by_z: 4.079;
+log_p_z_by_y: -224.1;
+
+loss: -0.2176;
+rec: -0.344;
+kl: -154.6;
+log_p_y_by_z: 4.071;
+log_p_z_by_y: -224.0;
+
+loss: -0.2214;
+rec: -0.341;
+kl: -154.9;
+log_p_y_by_z: 4.076;
+log_p_z_by_y: -224.6;
+
+loss: -0.2201;
+rec: -0.342;
+kl: -155.3;
+log_p_y_by_z: 4.068;
+log_p_z_by_y: -224.7;
+
+loss: -0.2251;
+rec: -0.3394;
+kl: -155.2;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -224.7;
+
+loss: -0.2264;
+rec: -0.3376;
+kl: -155.2;
+log_p_y_by_z: 4.088;
+log_p_z_by_y: -224.4;
+
+loss: -0.2142;
+rec: -0.3452;
+kl: -155.0;
+log_p_y_by_z: 4.045;
+log_p_z_by_y: -224.5;
+
+loss: -0.2172;
+rec: -0.3461;
+kl: -155.6;
+log_p_y_by_z: 4.077;
+log_p_z_by_y: -225.0;
+
+loss: -0.2162;
+rec: -0.3458;
+kl: -155.4;
+log_p_y_by_z: 4.066;
+log_p_z_by_y: -224.7;
+
+loss: -0.2134;
+rec: -0.3482;
+kl: -155.1;
+log_p_y_by_z: 4.064;
+log_p_z_by_y: -224.8;
+
+loss: -0.2202;
+rec: -0.3431;
+kl: -155.5;
+log_p_y_by_z: 4.078;
+log_p_z_by_y: -225.2;
+
+loss: -0.224;
+rec: -0.34;
+kl: -155.4;
+log_p_y_by_z: 4.086;
+log_p_z_by_y: -225.0;
+
+loss: -0.215;
+rec: -0.3449;
+kl: -155.5;
+log_p_y_by_z: 4.044;
+log_p_z_by_y: -225.0;
+
+loss: -0.2217;
+rec: -0.3421;
+kl: -155.7;
+log_p_y_by_z: 4.081;
+log_p_z_by_y: -225.1;
+
+loss: -0.2172;
+rec: -0.3451;
+kl: -155.4;
+log_p_y_by_z: 4.068;
+log_p_z_by_y: -225.3;
+
+loss: -0.2213;
+rec: -0.3425;
+kl: -155.8;
+log_p_y_by_z: 4.081;
+log_p_z_by_y: -225.5;
+
+loss: -0.2303;
+rec: -0.3369;
+kl: -156.0;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -225.6;
+
+loss: -0.2253;
+rec: -0.3408;
+kl: -156.2;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -225.7;
+
+loss: -0.2254;
+rec: -0.3376;
+kl: -155.9;
+log_p_y_by_z: 4.072;
+log_p_z_by_y: -225.5;
+
+loss: -0.228;
+rec: -0.3375;
+kl: -155.9;
+log_p_y_by_z: 4.096;
+log_p_z_by_y: -225.5;
+
+loss: -0.221;
+rec: -0.3407;
+kl: -155.9;
+log_p_y_by_z: 4.058;
+log_p_z_by_y: -225.7;
+
+loss: -0.223;
+rec: -0.3409;
+kl: -156.1;
+log_p_y_by_z: 4.077;
+log_p_z_by_y: -225.6;
+
+loss: -0.2225;
+rec: -0.3381;
+kl: -156.3;
+log_p_y_by_z: 4.042;
+log_p_z_by_y: -225.9;
+
+loss: -0.2251;
+rec: -0.3399;
+kl: -156.1;
+log_p_y_by_z: 4.089;
+log_p_z_by_y: -225.4;
+
+loss: -0.2251;
+rec: -0.3401;
+kl: -156.4;
+log_p_y_by_z: 4.088;
+log_p_z_by_y: -226.0;
+
+loss: -0.2252;
+rec: -0.3412;
+kl: -156.4;
+log_p_y_by_z:  4.1;
+log_p_z_by_y: -226.1;
+
+loss: -0.2259;
+rec: -0.3394;
+kl: -156.8;
+log_p_y_by_z: 4.085;
+log_p_z_by_y: -225.8;
+
+loss: -0.226;
+rec: -0.34;
+kl: -156.5;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -226.0;
+
+loss: -0.2281;
+rec: -0.3372;
+kl: -156.7;
+log_p_y_by_z: 4.087;
+log_p_z_by_y: -226.1;
+
+loss: -0.2191;
+rec: -0.3437;
+kl: -156.6;
+log_p_y_by_z: 4.062;
+log_p_z_by_y: -225.9;
+
+loss: -0.2178;
+rec: -0.3451;
+kl: -156.2;
+log_p_y_by_z: 4.067;
+log_p_z_by_y: -226.2;
+
+loss: -0.229;
+rec: -0.3354;
+kl: -156.5;
+log_p_y_by_z: 4.08;
+log_p_z_by_y: -226.0;
+
+loss: -0.2239;
+rec: -0.3408;
+kl: -156.9;
+log_p_y_by_z: 4.079;
+log_p_z_by_y: -226.6;
+
+loss: -0.2263;
+rec: -0.3402;
+kl: -157.1;
+log_p_y_by_z: 4.094;
+log_p_z_by_y: -226.5;
+
+loss: -0.2274;
+rec: -0.3392;
+kl: -157.2;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -226.4;
+
+loss: -0.2254;
+rec: -0.3388;
+kl: -157.1;
+log_p_y_by_z: 4.07;
+log_p_z_by_y: -227.0;
+
+loss: -0.2272;
+rec: -0.3404;
+kl: -157.3;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -226.7;
+
+loss: -0.2212;
+rec: -0.3456;
+kl: -156.6;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -226.6;
+
+loss: -0.2253;
+rec: -0.3408;
+kl: -156.7;
+log_p_y_by_z: 4.094;
+log_p_z_by_y: -226.1;
+
+loss: -0.2334;
+rec: -0.3338;
+kl: -157.5;
+log_p_y_by_z: 4.097;
+log_p_z_by_y: -226.9;
+
+loss: -0.2317;
+rec: -0.3363;
+kl: -157.5;
+log_p_y_by_z: 4.105;
+log_p_z_by_y: -226.8;
+
+loss: -0.2313;
+rec: -0.3358;
+kl: -157.4;
+log_p_y_by_z: 4.097;
+log_p_z_by_y: -226.9;
+
+loss: -0.2268;
+rec: -0.3382;
+kl: -157.8;
+log_p_y_by_z: 4.072;
+log_p_z_by_y: -227.0;
+
+loss: -0.2234;
+rec: -0.3415;
+kl: -157.2;
+log_p_y_by_z: 4.077;
+log_p_z_by_y: -226.9;
+
+loss: -0.2221;
+rec: -0.3431;
+kl: -157.6;
+log_p_y_by_z: 4.076;
+log_p_z_by_y: -227.1;
+
+loss: -0.2177;
+rec: -0.3462;
+kl: -157.8;
+log_p_y_by_z: 4.061;
+log_p_z_by_y: -227.0;
+
+loss: -0.2243;
+rec: -0.3413;
+kl: -157.3;
+log_p_y_by_z: 4.083;
+log_p_z_by_y: -226.9;
+
+loss: -0.2331;
+rec: -0.3335;
+kl: -157.8;
+log_p_y_by_z: 4.087;
+log_p_z_by_y: -227.4;
+
+loss: -0.2265;
+rec: -0.3389;
+kl: -157.9;
+log_p_y_by_z: 4.075;
+log_p_z_by_y: -227.6;
+
+loss: -0.2308;
+rec: -0.3365;
+kl: -158.1;
+log_p_y_by_z: 4.092;
+log_p_z_by_y: -227.5;
+
+loss: -0.2209;
+rec: -0.3434;
+kl: -156.8;
+log_p_y_by_z: 4.075;
+log_p_z_by_y: -227.4;
+
+loss: -0.2264;
+rec: -0.3414;
+kl: -158.5;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -227.7;
+
+loss: -0.2278;
+rec: -0.3381;
+kl: -158.1;
+log_p_y_by_z: 4.078;
+log_p_z_by_y: -227.6;
+
+loss: -0.2266;
+rec: -0.3393;
+kl: -157.9;
+log_p_y_by_z: 4.08;
+log_p_z_by_y: -227.7;
+
+loss: -0.2288;
+rec: -0.3398;
+kl: -158.3;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -227.6;
+
+loss: -0.2298;
+rec: -0.3382;
+kl: -158.5;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -227.7;
+
+loss: -0.226;
+rec: -0.3413;
+kl: -158.6;
+log_p_y_by_z: 4.087;
+log_p_z_by_y: -228.0;
+
+loss: -0.2279;
+rec: -0.3396;
+kl: -158.9;
+log_p_y_by_z: 4.086;
+log_p_z_by_y: -228.4;
+
+loss: -0.2222;
+rec: -0.343;
+kl: -158.3;
+log_p_y_by_z: 4.069;
+log_p_z_by_y: -228.0;
+
+loss: -0.2286;
+rec: -0.3404;
+kl: -158.3;
+log_p_y_by_z: 4.107;
+log_p_z_by_y: -228.2;
+
+loss: -0.2308;
+rec: -0.338;
+kl: -158.3;
+log_p_y_by_z: 4.106;
+log_p_z_by_y: -228.2;
+
+loss: -0.2271;
+rec: -0.339;
+kl: -158.8;
+log_p_y_by_z: 4.074;
+log_p_z_by_y: -228.4;
+
+loss: -0.2216;
+rec: -0.3449;
+kl: -158.3;
+log_p_y_by_z: 4.082;
+log_p_z_by_y: -228.4;
+
+loss: -0.2278;
+rec: -0.342;
+kl: -159.0;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -228.5;
+
+loss: -0.2326;
+rec: -0.3362;
+kl: -158.6;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -228.4;
+
+loss: -0.2294;
+rec: -0.3385;
+kl: -158.8;
+log_p_y_by_z: 4.091;
+log_p_z_by_y: -228.5;
+
+loss: -0.2314;
+rec: -0.3353;
+kl: -158.4;
+log_p_y_by_z: 4.083;
+log_p_z_by_y: -228.2;
+
+loss: -0.2313;
+rec: -0.3365;
+kl: -158.8;
+log_p_y_by_z: 4.09;
+log_p_z_by_y: -228.4;
+
+loss: -0.2252;
+rec: -0.3413;
+kl: -158.7;
+log_p_y_by_z: 4.077;
+log_p_z_by_y: -228.7;
+
+loss: -0.233;
+rec: -0.3344;
+kl: -159.2;
+log_p_y_by_z: 4.083;
+log_p_z_by_y: -228.7;
+
+loss: -0.2306;
+rec: -0.3363;
+kl: -159.2;
+log_p_y_by_z: 4.078;
+log_p_z_by_y: -229.2;
+
+loss: -0.2218;
+rec: -0.3434;
+kl: -159.5;
+log_p_y_by_z: 4.057;
+log_p_z_by_y: -229.0;
+
+loss: -0.2326;
+rec: -0.3376;
+kl: -159.1;
+log_p_y_by_z: 4.111;
+log_p_z_by_y: -228.4;
+
+loss: -0.2358;
+rec: -0.3349;
+kl: -159.4;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -228.9;
+
+loss: -0.2304;
+rec: -0.3344;
+kl: -159.2;
+log_p_y_by_z: 4.056;
+log_p_z_by_y: -228.9;
+
+loss: -0.2318;
+rec: -0.3386;
+kl: -159.2;
+log_p_y_by_z: 4.111;
+log_p_z_by_y: -228.9;
+
+loss: -0.236;
+rec: -0.3348;
+kl: -159.7;
+log_p_y_by_z: 4.111;
+log_p_z_by_y: -229.3;
+
+loss: -0.2313;
+rec: -0.3394;
+kl: -159.2;
+log_p_y_by_z: 4.115;
+log_p_z_by_y: -228.7;
+
+loss: -0.2373;
+rec: -0.3333;
+kl: -159.9;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -229.1;
+
+loss: -0.2357;
+rec: -0.3352;
+kl: -159.9;
+log_p_y_by_z: 4.11;
+log_p_z_by_y: -229.4;
+
+loss: -0.2363;
+rec: -0.3348;
+kl: -160.1;
+log_p_y_by_z: 4.11;
+log_p_z_by_y: -229.3;
+
+loss: -0.2297;
+rec: -0.3393;
+kl: -159.3;
+log_p_y_by_z: 4.096;
+log_p_z_by_y: -229.3;
+
+loss: -0.2265;
+rec: -0.3403;
+kl: -159.0;
+log_p_y_by_z: 4.077;
+log_p_z_by_y: -229.0;
+
+loss: -0.2334;
+rec: -0.3371;
+kl: -160.5;
+log_p_y_by_z:  4.1;
+log_p_z_by_y: -229.4;
+
+loss: -0.2346;
+rec: -0.3353;
+kl: -160.3;
+log_p_y_by_z: 4.096;
+log_p_z_by_y: -229.5;
+
+loss: -0.2345;
+rec: -0.3374;
+kl: -160.1;
+log_p_y_by_z: 4.119;
+log_p_z_by_y: -229.6;
+
+loss: -0.2298;
+rec: -0.3383;
+kl: -160.2;
+log_p_y_by_z: 4.079;
+log_p_z_by_y: -229.6;
+
+loss: -0.2318;
+rec: -0.3371;
+kl: -160.2;
+log_p_y_by_z: 4.087;
+log_p_z_by_y: -230.0;
+
+loss: -0.2299;
+rec: -0.3369;
+kl: -160.4;
+log_p_y_by_z: 4.064;
+log_p_z_by_y: -229.9;
+
+loss: -0.2346;
+rec: -0.3354;
+kl: -160.6;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -230.1;
+
+loss: -0.2318;
+rec: -0.3394;
+kl: -160.4;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -230.2;
+
+loss: -0.2359;
+rec: -0.3343;
+kl: -160.5;
+log_p_y_by_z: 4.097;
+log_p_z_by_y: -229.9;
+
+loss: -0.2377;
+rec: -0.3329;
+kl: -160.4;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -230.3;
+
+loss: -0.2394;
+rec: -0.3338;
+kl: -160.9;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -230.0;
+
+loss: -0.2365;
+rec: -0.3349;
+kl: -160.8;
+log_p_y_by_z: 4.107;
+log_p_z_by_y: -230.2;
+
+loss: -0.2334;
+rec: -0.3362;
+kl: -160.3;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -230.5;
+
+loss: -0.2356;
+rec: -0.3338;
+kl: -160.9;
+log_p_y_by_z: 4.085;
+log_p_z_by_y: -230.4;
+
+loss: -0.2234;
+rec: -0.3412;
+kl: -161.0;
+log_p_y_by_z: 4.036;
+log_p_z_by_y: -230.2;
+
+loss: -0.2313;
+rec: -0.3384;
+kl: -160.9;
+log_p_y_by_z: 4.088;
+log_p_z_by_y: -230.8;
+
+loss: -0.2392;
+rec: -0.3327;
+kl: -161.1;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -230.6;
+
+loss: -0.2328;
+rec: -0.3378;
+kl: -161.0;
+log_p_y_by_z: 4.096;
+log_p_z_by_y: -230.7;
+
+loss: -0.2375;
+rec: -0.3346;
+kl: -161.2;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -230.9;
+
+loss: -0.2319;
+rec: -0.3379;
+kl: -160.8;
+log_p_y_by_z: 4.09;
+log_p_z_by_y: -230.6;
+
+loss: -0.2352;
+rec: -0.3349;
+kl: -160.9;
+log_p_y_by_z: 4.092;
+log_p_z_by_y: -230.8;
+
+loss: -0.2305;
+rec: -0.3391;
+kl: -161.2;
+log_p_y_by_z: 4.084;
+log_p_z_by_y: -230.7;
+
+loss: -0.235;
+rec: -0.3352;
+kl: -161.5;
+log_p_y_by_z: 4.087;
+log_p_z_by_y: -231.1;
+
+loss: -0.2301;
+rec: -0.3386;
+kl: -161.3;
+log_p_y_by_z: 4.073;
+log_p_z_by_y: -231.0;
+
+loss: -0.2346;
+rec: -0.3349;
+kl: -161.1;
+log_p_y_by_z: 4.084;
+log_p_z_by_y: -230.9;
+
+loss: -0.2312;
+rec: -0.3394;
+kl: -161.5;
+log_p_y_by_z: 4.091;
+log_p_z_by_y: -231.2;
+
+loss: -0.2371;
+rec: -0.335;
+kl: -162.0;
+log_p_y_by_z: 4.101;
+log_p_z_by_y: -231.2;
+
+loss: -0.2366;
+rec: -0.3355;
+kl: -161.8;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -231.5;
+
+loss: -0.2361;
+rec: -0.3335;
+kl: -161.7;
+log_p_y_by_z: 4.08;
+log_p_z_by_y: -231.5;
+
+loss: -0.2384;
+rec: -0.3358;
+kl: -162.0;
+log_p_y_by_z: 4.121;
+log_p_z_by_y: -231.4;
+
+loss: -0.2383;
+rec: -0.3358;
+kl: -161.9;
+log_p_y_by_z: 4.123;
+log_p_z_by_y: -231.5;
+
+loss: -0.2264;
+rec: -0.3419;
+kl: -161.6;
+log_p_y_by_z: 4.068;
+log_p_z_by_y: -231.2;
+
+loss: -0.2374;
+rec: -0.3339;
+kl: -162.2;
+log_p_y_by_z: 4.091;
+log_p_z_by_y: -231.7;
+
+loss: -0.2368;
+rec: -0.3328;
+kl: -162.1;
+log_p_y_by_z: 4.075;
+log_p_z_by_y: -231.7;
+
+loss: -0.2382;
+rec: -0.3353;
+kl: -162.2;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -231.7;
+
+loss: -0.2376;
+rec: -0.3358;
+kl: -162.3;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -232.0;
+
+loss: -0.233;
+rec: -0.3384;
+kl: -162.4;
+log_p_y_by_z: 4.089;
+log_p_z_by_y: -232.1;
+
+loss: -0.2394;
+rec: -0.3327;
+kl: -162.6;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -232.1;
+
+loss: -0.2366;
+rec: -0.3345;
+kl: -162.3;
+log_p_y_by_z: 4.088;
+log_p_z_by_y: -232.4;
+
+loss: -0.2369;
+rec: -0.337;
+kl: -163.0;
+log_p_y_by_z: 4.11;
+log_p_z_by_y: -232.3;
+
+loss: -0.2312;
+rec: -0.3402;
+kl: -163.0;
+log_p_y_by_z: 4.085;
+log_p_z_by_y: -232.3;
+
+loss: -0.2362;
+rec: -0.3345;
+kl: -162.8;
+log_p_y_by_z: 4.079;
+log_p_z_by_y: -232.3;
+
+loss: -0.2388;
+rec: -0.3318;
+kl: -162.4;
+log_p_y_by_z: 4.083;
+log_p_z_by_y: -232.2;
+
+loss: -0.2362;
+rec: -0.3357;
+kl: -162.3;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -232.0;
+
+loss: -0.2381;
+rec: -0.3348;
+kl: -162.8;
+log_p_y_by_z: 4.101;
+log_p_z_by_y: -232.4;
+
+loss: -0.235;
+rec: -0.3392;
+kl: -162.8;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -232.5;
+
+loss: -0.236;
+rec: -0.3386;
+kl: -163.1;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -232.5;
+
+loss: -0.2343;
+rec: -0.3379;
+kl: -162.9;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -232.6;
+
+loss: -0.2324;
+rec: -0.3378;
+kl: -162.5;
+log_p_y_by_z: 4.076;
+log_p_z_by_y: -232.4;
+
+loss: -0.2329;
+rec: -0.3391;
+kl: -163.3;
+log_p_y_by_z: 4.087;
+log_p_z_by_y: -232.6;
+
+loss: -0.2436;
+rec: -0.3317;
+kl: -163.4;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -233.0;
+
+loss: -0.2451;
+rec: -0.3309;
+kl: -164.1;
+log_p_y_by_z: 4.119;
+log_p_z_by_y: -233.2;
+
+loss: -0.245;
+rec: -0.3289;
+kl: -163.1;
+log_p_y_by_z: 4.107;
+log_p_z_by_y: -233.1;
+
+loss: -0.2344;
+rec: -0.3381;
+kl: -163.4;
+log_p_y_by_z: 4.091;
+log_p_z_by_y: -233.1;
+
+loss: -0.2331;
+rec: -0.3391;
+kl: -163.2;
+log_p_y_by_z: 4.09;
+log_p_z_by_y: -233.2;
+
+loss: -0.2374;
+rec: -0.3341;
+kl: -163.6;
+log_p_y_by_z: 4.08;
+log_p_z_by_y: -233.4;
+
+loss: -0.2396;
+rec: -0.3337;
+kl: -163.4;
+log_p_y_by_z:  4.1;
+log_p_z_by_y: -233.1;
+
+Epoch 8 :
+loss: -0.2361;
+rec: -0.3373;
+kl: -163.4;
+log_p_y_by_z:  4.1;
+log_p_z_by_y: -233.2;
+
+loss: -0.2385;
+rec: -0.3333;
+kl: -163.4;
+log_p_y_by_z: 4.083;
+log_p_z_by_y: -233.3;
+
+loss: -0.2377;
+rec: -0.3347;
+kl: -163.5;
+log_p_y_by_z: 4.09;
+log_p_z_by_y: -233.4;
+
+loss: -0.247;
+rec: -0.3289;
+kl: -164.0;
+log_p_y_by_z: 4.119;
+log_p_z_by_y: -233.3;
+
+loss: -0.2438;
+rec: -0.3307;
+kl: -164.2;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -233.6;
+
+loss: -0.239;
+rec: -0.3331;
+kl: -164.0;
+log_p_y_by_z: 4.081;
+log_p_z_by_y: -233.7;
+
+loss: -0.2418;
+rec: -0.3329;
+kl: -164.7;
+log_p_y_by_z:  4.1;
+log_p_z_by_y: -233.7;
+
+loss: -0.2432;
+rec: -0.3318;
+kl: -164.2;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -233.8;
+
+loss: -0.2444;
+rec: -0.3304;
+kl: -164.3;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -233.8;
+
+loss: -0.2411;
+rec: -0.3327;
+kl: -163.9;
+log_p_y_by_z:  4.1;
+log_p_z_by_y: -233.8;
+
+loss: -0.2453;
+rec: -0.3296;
+kl: -164.7;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -234.0;
+
+loss: -0.2385;
+rec: -0.3323;
+kl: -164.3;
+log_p_y_by_z: 4.065;
+log_p_z_by_y: -234.1;
+
+loss: -0.2427;
+rec: -0.3308;
+kl: -164.3;
+log_p_y_by_z: 4.092;
+log_p_z_by_y: -233.8;
+
+loss: -0.2395;
+rec: -0.3326;
+kl: -164.5;
+log_p_y_by_z: 4.077;
+log_p_z_by_y: -234.0;
+
+loss: -0.242;
+rec: -0.3342;
+kl: -165.0;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -234.2;
+
+loss: -0.2431;
+rec: -0.3315;
+kl: -164.5;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -234.4;
+
+loss: -0.243;
+rec: -0.3318;
+kl: -164.6;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -234.4;
+
+loss: -0.2418;
+rec: -0.3331;
+kl: -164.7;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -234.3;
+
+loss: -0.2438;
+rec: -0.3314;
+kl: -164.7;
+log_p_y_by_z: 4.105;
+log_p_z_by_y: -234.3;
+
+loss: -0.2397;
+rec: -0.3361;
+kl: -164.8;
+log_p_y_by_z: 4.11;
+log_p_z_by_y: -234.4;
+
+loss: -0.2465;
+rec: -0.3285;
+kl: -165.6;
+log_p_y_by_z: 4.094;
+log_p_z_by_y: -234.6;
+
+loss: -0.2455;
+rec: -0.3289;
+kl: -165.1;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -234.5;
+
+loss: -0.2433;
+rec: -0.3325;
+kl: -164.9;
+log_p_y_by_z: 4.11;
+log_p_z_by_y: -234.8;
+
+loss: -0.247;
+rec: -0.3301;
+kl: -165.0;
+log_p_y_by_z: 4.12;
+log_p_z_by_y: -234.4;
+
+loss: -0.2443;
+rec: -0.3329;
+kl: -165.7;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -235.0;
+
+loss: -0.2402;
+rec: -0.3335;
+kl: -164.9;
+log_p_y_by_z: 4.089;
+log_p_z_by_y: -234.8;
+
+loss: -0.2397;
+rec: -0.3349;
+kl: -165.3;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -234.6;
+
+loss: -0.2434;
+rec: -0.3314;
+kl: -165.6;
+log_p_y_by_z: 4.092;
+log_p_z_by_y: -235.0;
+
+loss: -0.2439;
+rec: -0.332;
+kl: -165.6;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -235.1;
+
+loss: -0.2448;
+rec: -0.3317;
+kl: -165.6;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -235.5;
+
+loss: -0.246;
+rec: -0.3314;
+kl: -165.8;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -235.2;
+
+loss: -0.2418;
+rec: -0.3345;
+kl: -165.5;
+log_p_y_by_z: 4.107;
+log_p_z_by_y: -235.2;
+
+loss: -0.2403;
+rec: -0.3341;
+kl: -165.5;
+log_p_y_by_z: 4.09;
+log_p_z_by_y: -235.3;
+
+loss: -0.2427;
+rec: -0.3324;
+kl: -165.6;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -235.6;
+
+loss: -0.2404;
+rec: -0.3351;
+kl: -165.6;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -235.5;
+
+loss: -0.2443;
+rec: -0.3308;
+kl: -166.1;
+log_p_y_by_z: 4.091;
+log_p_z_by_y: -235.6;
+
+loss: -0.2458;
+rec: -0.3322;
+kl: -166.1;
+log_p_y_by_z: 4.12;
+log_p_z_by_y: -235.4;
+
+loss: -0.2449;
+rec: -0.3312;
+kl: -165.9;
+log_p_y_by_z: 4.101;
+log_p_z_by_y: -235.4;
+
+loss: -0.2498;
+rec: -0.328;
+kl: -166.0;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -235.5;
+
+loss: -0.2395;
+rec: -0.334;
+kl: -165.7;
+log_p_y_by_z: 4.077;
+log_p_z_by_y: -235.5;
+
+loss: -0.2417;
+rec: -0.3342;
+kl: -166.4;
+log_p_y_by_z: 4.096;
+log_p_z_by_y: -235.8;
+
+loss: -0.2415;
+rec: -0.3352;
+kl: -166.2;
+log_p_y_by_z: 4.105;
+log_p_z_by_y: -235.9;
+
+loss: -0.2508;
+rec: -0.3274;
+kl: -166.4;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -235.8;
+
+loss: -0.2427;
+rec: -0.3341;
+kl: -166.5;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -235.9;
+
+loss: -0.2469;
+rec: -0.3318;
+kl: -166.8;
+log_p_y_by_z: 4.12;
+log_p_z_by_y: -236.3;
+
+loss: -0.2474;
+rec: -0.329;
+kl: -166.6;
+log_p_y_by_z: 4.098;
+log_p_z_by_y: -236.2;
+
+loss: -0.2451;
+rec: -0.3307;
+kl: -166.0;
+log_p_y_by_z: 4.098;
+log_p_z_by_y: -235.9;
+
+loss: -0.2498;
+rec: -0.329;
+kl: -167.2;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -236.3;
+
+loss: -0.2439;
+rec: -0.3324;
+kl: -166.5;
+log_p_y_by_z: 4.098;
+log_p_z_by_y: -235.6;
+
+loss: -0.2427;
+rec: -0.3341;
+kl: -166.3;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -235.8;
+
+loss: -0.2421;
+rec: -0.3355;
+kl: -166.7;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -236.1;
+
+loss: -0.2528;
+rec: -0.3244;
+kl: -166.8;
+log_p_y_by_z: 4.105;
+log_p_z_by_y: -236.2;
+
+loss: -0.2487;
+rec: -0.33;
+kl: -167.0;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -236.4;
+
+loss: -0.2418;
+rec: -0.3334;
+kl: -166.5;
+log_p_y_by_z: 4.087;
+log_p_z_by_y: -236.3;
+
+loss: -0.2424;
+rec: -0.3339;
+kl: -166.4;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -236.4;
+
+loss: -0.2448;
+rec: -0.332;
+kl: -166.9;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -236.9;
+
+loss: -0.2453;
+rec: -0.3327;
+kl: -167.2;
+log_p_y_by_z: 4.107;
+log_p_z_by_y: -236.6;
+
+loss: -0.2423;
+rec: -0.3345;
+kl: -166.8;
+log_p_y_by_z:  4.1;
+log_p_z_by_y: -236.4;
+
+loss: -0.2447;
+rec: -0.3345;
+kl: -167.8;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -236.9;
+
+loss: -0.2479;
+rec: -0.3308;
+kl: -167.3;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -237.0;
+
+loss: -0.249;
+rec: -0.3285;
+kl: -167.1;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -236.8;
+
+loss: -0.2479;
+rec: -0.331;
+kl: -167.6;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -236.9;
+
+loss: -0.2472;
+rec: -0.3297;
+kl: -167.3;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -236.8;
+
+loss: -0.2474;
+rec: -0.3284;
+kl: -167.2;
+log_p_y_by_z: 4.086;
+log_p_z_by_y: -236.8;
+
+loss: -0.2349;
+rec: -0.3332;
+kl: -167.3;
+log_p_y_by_z: 4.007;
+log_p_z_by_y: -237.1;
+
+loss: -0.251;
+rec: -0.3283;
+kl: -167.6;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -236.9;
+
+loss: -0.2456;
+rec: -0.333;
+kl: -167.6;
+log_p_y_by_z: 4.11;
+log_p_z_by_y: -237.2;
+
+loss: -0.2447;
+rec: -0.3329;
+kl: -168.1;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -237.5;
+
+loss: -0.2447;
+rec: -0.3343;
+kl: -167.8;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -237.2;
+
+loss: -0.2486;
+rec: -0.33;
+kl: -168.4;
+log_p_y_by_z: 4.101;
+log_p_z_by_y: -237.7;
+
+loss: -0.2477;
+rec: -0.3316;
+kl: -168.3;
+log_p_y_by_z: 4.11;
+log_p_z_by_y: -237.5;
+
+loss: -0.2457;
+rec: -0.3327;
+kl: -168.2;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -237.4;
+
+loss: -0.2441;
+rec: -0.3332;
+kl: -168.0;
+log_p_y_by_z: 4.092;
+log_p_z_by_y: -237.7;
+
+loss: -0.2482;
+rec: -0.3311;
+kl: -168.1;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -237.6;
+
+loss: -0.2481;
+rec: -0.3325;
+kl: -168.2;
+log_p_y_by_z: 4.124;
+log_p_z_by_y: -237.7;
+
+loss: -0.2497;
+rec: -0.3289;
+kl: -168.1;
+log_p_y_by_z: 4.106;
+log_p_z_by_y: -237.6;
+
+loss: -0.2457;
+rec: -0.3334;
+kl: -168.5;
+log_p_y_by_z: 4.106;
+log_p_z_by_y: -238.4;
+
+loss: -0.2524;
+rec: -0.3273;
+kl: -168.7;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -238.2;
+
+loss: -0.2486;
+rec: -0.3306;
+kl: -168.4;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -237.8;
+
+loss: -0.249;
+rec: -0.3306;
+kl: -168.9;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -238.2;
+
+loss: -0.252;
+rec: -0.3283;
+kl: -168.9;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -238.1;
+
+loss: -0.2486;
+rec: -0.3323;
+kl: -168.5;
+log_p_y_by_z: 4.124;
+log_p_z_by_y: -237.8;
+
+loss: -0.2557;
+rec: -0.3256;
+kl: -169.0;
+log_p_y_by_z: 4.123;
+log_p_z_by_y: -238.1;
+
+loss: -0.2524;
+rec: -0.3287;
+kl: -169.0;
+log_p_y_by_z: 4.121;
+log_p_z_by_y: -238.2;
+
+loss: -0.2536;
+rec: -0.3274;
+kl: -169.3;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -238.4;
+
+loss: -0.2558;
+rec: -0.3253;
+kl: -169.6;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -238.7;
+
+loss: -0.2517;
+rec: -0.3277;
+kl: -169.3;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -238.7;
+
+loss: -0.2429;
+rec: -0.3337;
+kl: -168.6;
+log_p_y_by_z: 4.08;
+log_p_z_by_y: -238.1;
+
+loss: -0.2473;
+rec: -0.3302;
+kl: -168.5;
+log_p_y_by_z: 4.091;
+log_p_z_by_y: -238.2;
+
+loss: -0.248;
+rec: -0.3311;
+kl: -169.2;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -238.1;
+
+loss: -0.2446;
+rec: -0.3327;
+kl: -169.4;
+log_p_y_by_z: 4.078;
+log_p_z_by_y: -238.9;
+
+loss: -0.2517;
+rec: -0.3308;
+kl: -169.6;
+log_p_y_by_z: 4.128;
+log_p_z_by_y: -238.7;
+
+loss: -0.2464;
+rec: -0.3318;
+kl: -169.1;
+log_p_y_by_z: 4.09;
+log_p_z_by_y: -238.6;
+
+loss: -0.2513;
+rec: -0.3289;
+kl: -169.6;
+log_p_y_by_z: 4.107;
+log_p_z_by_y: -239.0;
+
+loss: -0.2511;
+rec: -0.3285;
+kl: -169.5;
+log_p_y_by_z: 4.101;
+log_p_z_by_y: -238.9;
+
+loss: -0.2551;
+rec: -0.3258;
+kl: -169.5;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -239.0;
+
+loss: -0.2481;
+rec: -0.3315;
+kl: -169.2;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -238.9;
+
+loss: -0.2486;
+rec: -0.3317;
+kl: -169.9;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -239.2;
+
+loss: -0.2437;
+rec: -0.3356;
+kl: -169.3;
+log_p_y_by_z:  4.1;
+log_p_z_by_y: -238.8;
+
+loss: -0.2512;
+rec: -0.3301;
+kl: -170.2;
+log_p_y_by_z: 4.111;
+log_p_z_by_y: -239.7;
+
+loss: -0.2555;
+rec: -0.3255;
+kl: -170.2;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -239.5;
+
+loss: -0.2564;
+rec: -0.3232;
+kl: -170.2;
+log_p_y_by_z: 4.094;
+log_p_z_by_y: -239.7;
+
+loss: -0.252;
+rec: -0.3289;
+kl: -170.3;
+log_p_y_by_z: 4.106;
+log_p_z_by_y: -239.9;
+
+loss: -0.2477;
+rec: -0.3291;
+kl: -169.8;
+log_p_y_by_z: 4.07;
+log_p_z_by_y: -239.8;
+
+loss: -0.2522;
+rec: -0.3279;
+kl: -169.9;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -239.3;
+
+loss: -0.2514;
+rec: -0.3269;
+kl: -169.8;
+log_p_y_by_z: 4.085;
+log_p_z_by_y: -239.3;
+
+loss: -0.2528;
+rec: -0.3286;
+kl: -169.6;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -239.4;
+
+loss: -0.2508;
+rec: -0.3294;
+kl: -170.1;
+log_p_y_by_z: 4.101;
+log_p_z_by_y: -239.5;
+
+loss: -0.2529;
+rec: -0.3288;
+kl: -170.8;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -239.9;
+
+loss: -0.2525;
+rec: -0.328;
+kl: -170.2;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -240.1;
+
+loss: -0.2482;
+rec: -0.3323;
+kl: -170.7;
+log_p_y_by_z: 4.098;
+log_p_z_by_y: -239.7;
+
+loss: -0.2562;
+rec: -0.3269;
+kl: -170.5;
+log_p_y_by_z: 4.126;
+log_p_z_by_y: -239.8;
+
+loss: -0.2497;
+rec: -0.3283;
+kl: -170.3;
+log_p_y_by_z: 4.077;
+log_p_z_by_y: -239.8;
+
+loss: -0.2461;
+rec: -0.3325;
+kl: -170.5;
+log_p_y_by_z: 4.081;
+log_p_z_by_y: -240.1;
+
+loss: -0.2494;
+rec: -0.3287;
+kl: -170.7;
+log_p_y_by_z: 4.074;
+log_p_z_by_y: -240.2;
+
+loss: -0.2509;
+rec: -0.3308;
+kl: -170.8;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -240.2;
+
+loss: -0.2521;
+rec: -0.3305;
+kl: -170.9;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -240.1;
+
+loss: -0.2459;
+rec: -0.3308;
+kl: -170.1;
+log_p_y_by_z: 4.065;
+log_p_z_by_y: -240.0;
+
+loss: -0.2535;
+rec: -0.3284;
+kl: -171.1;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -240.3;
+
+loss: -0.2562;
+rec: -0.3268;
+kl: -171.2;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -240.4;
+
+loss: -0.2529;
+rec: -0.3284;
+kl: -171.3;
+log_p_y_by_z:  4.1;
+log_p_z_by_y: -240.8;
+
+loss: -0.254;
+rec: -0.3282;
+kl: -171.2;
+log_p_y_by_z: 4.11;
+log_p_z_by_y: -240.5;
+
+loss: -0.2596;
+rec: -0.3244;
+kl: -171.7;
+log_p_y_by_z: 4.123;
+log_p_z_by_y: -241.0;
+
+loss: -0.2549;
+rec: -0.328;
+kl: -171.0;
+log_p_y_by_z: 4.119;
+log_p_z_by_y: -240.6;
+
+loss: -0.2535;
+rec: -0.3256;
+kl: -171.2;
+log_p_y_by_z: 4.079;
+log_p_z_by_y: -240.9;
+
+loss: -0.2549;
+rec: -0.3269;
+kl: -171.6;
+log_p_y_by_z: 4.101;
+log_p_z_by_y: -241.2;
+
+loss: -0.2532;
+rec: -0.3282;
+kl: -171.1;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -240.6;
+
+loss: -0.2486;
+rec: -0.3321;
+kl: -171.7;
+log_p_y_by_z: 4.091;
+log_p_z_by_y: -241.2;
+
+loss: -0.2511;
+rec: -0.3305;
+kl: -171.7;
+log_p_y_by_z:  4.1;
+log_p_z_by_y: -241.2;
+
+loss: -0.2551;
+rec: -0.3266;
+kl: -171.8;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -240.9;
+
+loss: -0.2498;
+rec: -0.3328;
+kl: -171.2;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -240.7;
+
+loss: -0.2531;
+rec: -0.3295;
+kl: -171.9;
+log_p_y_by_z: 4.107;
+log_p_z_by_y: -241.2;
+
+loss: -0.2556;
+rec: -0.3276;
+kl: -172.0;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -241.4;
+
+loss: -0.2517;
+rec: -0.3313;
+kl: -171.3;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -241.0;
+
+loss: -0.2572;
+rec: -0.3242;
+kl: -172.2;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -241.7;
+
+loss: -0.2539;
+rec: -0.3297;
+kl: -172.1;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -241.3;
+
+loss: -0.2515;
+rec: -0.3276;
+kl: -172.1;
+log_p_y_by_z: 4.07;
+log_p_z_by_y: -241.9;
+
+loss: -0.2543;
+rec: -0.3249;
+kl: -171.6;
+log_p_y_by_z: 4.075;
+log_p_z_by_y: -241.3;
+
+loss: -0.2577;
+rec: -0.3268;
+kl: -172.0;
+log_p_y_by_z: 4.124;
+log_p_z_by_y: -241.5;
+
+loss: -0.2607;
+rec: -0.3238;
+kl: -172.3;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -241.6;
+
+loss: -0.2534;
+rec: -0.3266;
+kl: -172.1;
+log_p_y_by_z: 4.078;
+log_p_z_by_y: -241.8;
+
+loss: -0.2548;
+rec: -0.3291;
+kl: -172.5;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -241.9;
+
+loss: -0.2603;
+rec: -0.3239;
+kl: -172.2;
+log_p_y_by_z: 4.119;
+log_p_z_by_y: -241.8;
+
+loss: -0.2549;
+rec: -0.3283;
+kl: -172.4;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -241.8;
+
+loss: -0.2527;
+rec: -0.33;
+kl: -172.6;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -241.9;
+
+loss: -0.2651;
+rec: -0.3222;
+kl: -173.3;
+log_p_y_by_z: 4.14;
+log_p_z_by_y: -242.2;
+
+loss: -0.2586;
+rec: -0.3264;
+kl: -172.9;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -242.1;
+
+loss: -0.2583;
+rec: -0.3255;
+kl: -172.2;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -242.0;
+
+loss: -0.255;
+rec: -0.3274;
+kl: -172.9;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -242.4;
+
+loss: -0.2616;
+rec: -0.3234;
+kl: -173.4;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -242.6;
+
+loss: -0.2581;
+rec: -0.3261;
+kl: -172.8;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -242.2;
+
+loss: -0.2522;
+rec: -0.3302;
+kl: -172.9;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -242.2;
+
+loss: -0.2551;
+rec: -0.3264;
+kl: -172.5;
+log_p_y_by_z: 4.09;
+log_p_z_by_y: -242.2;
+
+loss: -0.2551;
+rec: -0.3273;
+kl: -172.5;
+log_p_y_by_z: 4.098;
+log_p_z_by_y: -242.3;
+
+loss: -0.2564;
+rec: -0.3277;
+kl: -173.1;
+log_p_y_by_z: 4.111;
+log_p_z_by_y: -242.1;
+
+loss: -0.2552;
+rec: -0.3282;
+kl: -173.2;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -242.4;
+
+loss: -0.2544;
+rec: -0.3289;
+kl: -173.6;
+log_p_y_by_z: 4.096;
+log_p_z_by_y: -242.7;
+
+loss: -0.2568;
+rec: -0.3279;
+kl: -173.2;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -242.4;
+
+loss: -0.2486;
+rec: -0.3297;
+kl: -172.8;
+log_p_y_by_z: 4.055;
+log_p_z_by_y: -242.3;
+
+loss: -0.2564;
+rec: -0.3264;
+kl: -173.5;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -242.6;
+
+loss: -0.2612;
+rec: -0.3235;
+kl: -173.8;
+log_p_y_by_z: 4.11;
+log_p_z_by_y: -243.2;
+
+loss: -0.2587;
+rec: -0.3279;
+kl: -173.8;
+log_p_y_by_z: 4.128;
+log_p_z_by_y: -243.1;
+
+loss: -0.2563;
+rec: -0.3277;
+kl: -173.4;
+log_p_y_by_z: 4.106;
+log_p_z_by_y: -243.1;
+
+loss: -0.2537;
+rec: -0.3279;
+kl: -173.7;
+log_p_y_by_z: 4.079;
+log_p_z_by_y: -243.5;
+
+loss: -0.2604;
+rec: -0.3255;
+kl: -174.1;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -243.3;
+
+loss: -0.2562;
+rec: -0.3282;
+kl: -174.0;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -243.1;
+
+loss: -0.2586;
+rec: -0.3281;
+kl: -173.7;
+log_p_y_by_z: 4.131;
+log_p_z_by_y: -243.1;
+
+loss: -0.2577;
+rec: -0.3279;
+kl: -174.3;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -243.4;
+
+loss: -0.2555;
+rec: -0.3273;
+kl: -173.8;
+log_p_y_by_z: 4.09;
+log_p_z_by_y: -243.1;
+
+loss: -0.2605;
+rec: -0.3258;
+kl: -174.1;
+log_p_y_by_z: 4.123;
+log_p_z_by_y: -243.6;
+
+loss: -0.2605;
+rec: -0.3265;
+kl: -174.6;
+log_p_y_by_z: 4.124;
+log_p_z_by_y: -243.5;
+
+loss: -0.2596;
+rec: -0.3275;
+kl: -174.4;
+log_p_y_by_z: 4.128;
+log_p_z_by_y: -243.4;
+
+loss: -0.2538;
+rec: -0.3304;
+kl: -173.9;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -243.4;
+
+loss: -0.2565;
+rec: -0.3281;
+kl: -174.2;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -243.4;
+
+loss: -0.2591;
+rec: -0.3245;
+kl: -174.5;
+log_p_y_by_z: 4.091;
+log_p_z_by_y: -244.1;
+
+loss: -0.2538;
+rec: -0.327;
+kl: -174.4;
+log_p_y_by_z: 4.064;
+log_p_z_by_y: -244.1;
+
+loss: -0.2522;
+rec: -0.329;
+kl: -174.6;
+log_p_y_by_z: 4.067;
+log_p_z_by_y: -244.0;
+
+loss: -0.2542;
+rec: -0.3278;
+kl: -174.3;
+log_p_y_by_z: 4.077;
+log_p_z_by_y: -243.7;
+
+loss: -0.2609;
+rec: -0.3238;
+kl: -175.1;
+log_p_y_by_z: 4.097;
+log_p_z_by_y: -244.3;
+
+loss: -0.2589;
+rec: -0.3266;
+kl: -174.6;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -244.2;
+
+loss: -0.2607;
+rec: -0.3256;
+kl: -174.7;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -244.0;
+
+loss: -0.2589;
+rec: -0.3264;
+kl: -174.6;
+log_p_y_by_z: 4.106;
+log_p_z_by_y: -244.3;
+
+loss: -0.2583;
+rec: -0.3277;
+kl: -174.7;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -243.8;
+
+loss: -0.2543;
+rec: -0.331;
+kl: -174.8;
+log_p_y_by_z: 4.105;
+log_p_z_by_y: -244.3;
+
+loss: -0.2577;
+rec: -0.3279;
+kl: -175.1;
+log_p_y_by_z: 4.106;
+log_p_z_by_y: -244.2;
+
+loss: -0.2638;
+rec: -0.3239;
+kl: -175.3;
+log_p_y_by_z: 4.124;
+log_p_z_by_y: -244.2;
+
+loss: -0.2586;
+rec: -0.3258;
+kl: -174.9;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -244.3;
+
+loss: -0.2618;
+rec: -0.324;
+kl: -175.8;
+log_p_y_by_z:  4.1;
+log_p_z_by_y: -244.5;
+
+loss: -0.261;
+rec: -0.3257;
+kl: -175.2;
+log_p_y_by_z: 4.115;
+log_p_z_by_y: -244.6;
+
+loss: -0.2584;
+rec: -0.3214;
+kl: -175.2;
+log_p_y_by_z: 4.046;
+log_p_z_by_y: -244.5;
+
+loss: -0.2634;
+rec: -0.3231;
+kl: -175.5;
+log_p_y_by_z: 4.11;
+log_p_z_by_y: -244.8;
+
+loss: -0.2582;
+rec: -0.3269;
+kl: -175.6;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -244.9;
+
+loss: -0.2577;
+rec: -0.3312;
+kl: -175.2;
+log_p_y_by_z: 4.137;
+log_p_z_by_y: -244.5;
+
+loss: -0.2647;
+rec: -0.3234;
+kl: -176.1;
+log_p_y_by_z: 4.12;
+log_p_z_by_y: -245.0;
+
+loss: -0.2616;
+rec: -0.3256;
+kl: -175.5;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -244.8;
+
+loss: -0.2623;
+rec: -0.3258;
+kl: -175.4;
+log_p_y_by_z: 4.127;
+log_p_z_by_y: -244.4;
+
+loss: -0.26;
+rec: -0.3264;
+kl: -175.7;
+log_p_y_by_z: 4.107;
+log_p_z_by_y: -245.1;
+
+loss: -0.2611;
+rec: -0.3266;
+kl: -176.0;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -245.2;
+
+loss: -0.2613;
+rec: -0.3247;
+kl: -176.3;
+log_p_y_by_z: 4.098;
+log_p_z_by_y: -245.2;
+
+Epoch 9 :
+loss: -0.2614;
+rec: -0.3242;
+kl: -175.8;
+log_p_y_by_z: 4.098;
+log_p_z_by_y: -245.3;
+
+loss: -0.2622;
+rec: -0.3248;
+kl: -175.9;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -245.5;
+
+loss: -0.266;
+rec: -0.3216;
+kl: -176.0;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -245.3;
+
+loss: -0.2659;
+rec: -0.3233;
+kl: -176.6;
+log_p_y_by_z: 4.126;
+log_p_z_by_y: -245.7;
+
+loss: -0.2602;
+rec: -0.3252;
+kl: -175.4;
+log_p_y_by_z:  4.1;
+log_p_z_by_y: -245.1;
+
+loss: -0.2529;
+rec: -0.3285;
+kl: -176.0;
+log_p_y_by_z: 4.054;
+log_p_z_by_y: -245.3;
+
+loss: -0.268;
+rec: -0.3199;
+kl: -176.7;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -245.8;
+
+loss: -0.2667;
+rec: -0.3213;
+kl: -176.2;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -245.8;
+
+loss: -0.2656;
+rec: -0.3234;
+kl: -176.9;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -245.6;
+
+loss: -0.2613;
+rec: -0.3268;
+kl: -176.2;
+log_p_y_by_z: 4.119;
+log_p_z_by_y: -245.4;
+
+loss: -0.2695;
+rec: -0.3193;
+kl: -176.2;
+log_p_y_by_z: 4.126;
+log_p_z_by_y: -245.6;
+
+loss: -0.265;
+rec: -0.3236;
+kl: -176.3;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -245.8;
+
+loss: -0.263;
+rec: -0.3236;
+kl: -176.2;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -246.0;
+
+loss: -0.2571;
+rec: -0.3278;
+kl: -176.2;
+log_p_y_by_z: 4.086;
+log_p_z_by_y: -245.7;
+
+loss: -0.2633;
+rec: -0.322;
+kl: -176.7;
+log_p_y_by_z: 4.087;
+log_p_z_by_y: -246.0;
+
+loss: -0.2617;
+rec: -0.3249;
+kl: -176.5;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -245.8;
+
+loss: -0.2658;
+rec: -0.3232;
+kl: -177.1;
+log_p_y_by_z: 4.119;
+log_p_z_by_y: -246.2;
+
+loss: -0.2624;
+rec: -0.3232;
+kl: -176.3;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -245.7;
+
+loss: -0.2602;
+rec: -0.3267;
+kl: -177.0;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -246.3;
+
+loss: -0.2638;
+rec: -0.3248;
+kl: -176.7;
+log_p_y_by_z: 4.119;
+log_p_z_by_y: -246.2;
+
+loss: -0.2679;
+rec: -0.3229;
+kl: -177.6;
+log_p_y_by_z: 4.132;
+log_p_z_by_y: -246.5;
+
+loss: -0.2623;
+rec: -0.3246;
+kl: -177.0;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -246.3;
+
+loss: -0.2573;
+rec: -0.3289;
+kl: -176.8;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -246.6;
+
+loss: -0.266;
+rec: -0.3215;
+kl: -176.6;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -245.9;
+
+loss: -0.2665;
+rec: -0.3228;
+kl: -177.6;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -246.8;
+
+loss: -0.264;
+rec: -0.3257;
+kl: -176.8;
+log_p_y_by_z: 4.129;
+log_p_z_by_y: -246.5;
+
+loss: -0.2673;
+rec: -0.3226;
+kl: -177.6;
+log_p_y_by_z: 4.123;
+log_p_z_by_y: -246.7;
+
+loss: -0.2703;
+rec: -0.3205;
+kl: -177.3;
+log_p_y_by_z: 4.135;
+log_p_z_by_y: -246.3;
+
+loss: -0.2663;
+rec: -0.3234;
+kl: -177.4;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -246.4;
+
+loss: -0.2631;
+rec: -0.3226;
+kl: -177.4;
+log_p_y_by_z: 4.084;
+log_p_z_by_y: -247.0;
+
+loss: -0.2655;
+rec: -0.3236;
+kl: -177.7;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -246.8;
+
+loss: -0.2638;
+rec: -0.3261;
+kl: -177.7;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -246.6;
+
+loss: -0.2652;
+rec: -0.3253;
+kl: -178.1;
+log_p_y_by_z: 4.125;
+log_p_z_by_y: -247.0;
+
+loss: -0.2547;
+rec: -0.3262;
+kl: -177.1;
+log_p_y_by_z: 4.038;
+log_p_z_by_y: -246.7;
+
+loss: -0.268;
+rec: -0.3209;
+kl: -177.6;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -246.7;
+
+loss: -0.2712;
+rec: -0.3196;
+kl: -178.0;
+log_p_y_by_z: 4.127;
+log_p_z_by_y: -247.0;
+
+loss: -0.264;
+rec: -0.3246;
+kl: -177.5;
+log_p_y_by_z: 4.111;
+log_p_z_by_y: -246.9;
+
+loss: -0.2603;
+rec: -0.323;
+kl: -177.7;
+log_p_y_by_z: 4.057;
+log_p_z_by_y: -247.2;
+
+loss: -0.2663;
+rec: -0.3196;
+kl: -177.5;
+log_p_y_by_z: 4.084;
+log_p_z_by_y: -247.0;
+
+loss: -0.2714;
+rec: -0.3185;
+kl: -178.3;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -247.6;
+
+loss: -0.2679;
+rec: -0.3226;
+kl: -178.2;
+log_p_y_by_z: 4.123;
+log_p_z_by_y: -247.4;
+
+loss: -0.2677;
+rec: -0.3218;
+kl: -178.3;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -247.5;
+
+loss: -0.2702;
+rec: -0.3192;
+kl: -178.5;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -247.8;
+
+loss: -0.2643;
+rec: -0.3248;
+kl: -178.2;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -247.2;
+
+loss: -0.2699;
+rec: -0.321;
+kl: -178.8;
+log_p_y_by_z: 4.121;
+log_p_z_by_y: -247.7;
+
+loss: -0.2645;
+rec: -0.3235;
+kl: -178.5;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -247.7;
+
+loss: -0.2671;
+rec: -0.3242;
+kl: -178.6;
+log_p_y_by_z: 4.127;
+log_p_z_by_y: -247.5;
+
+loss: -0.2639;
+rec: -0.3246;
+kl: -178.7;
+log_p_y_by_z: 4.098;
+log_p_z_by_y: -247.6;
+
+loss: -0.266;
+rec: -0.3234;
+kl: -178.4;
+log_p_y_by_z: 4.11;
+log_p_z_by_y: -247.4;
+
+loss: -0.2612;
+rec: -0.3256;
+kl: -178.2;
+log_p_y_by_z: 4.086;
+log_p_z_by_y: -247.6;
+
+loss: -0.2681;
+rec: -0.3219;
+kl: -179.1;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -247.9;
+
+loss: -0.2678;
+rec: -0.322;
+kl: -179.3;
+log_p_y_by_z: 4.106;
+log_p_z_by_y: -248.1;
+
+loss: -0.2656;
+rec: -0.3222;
+kl: -178.4;
+log_p_y_by_z: 4.094;
+log_p_z_by_y: -248.0;
+
+loss: -0.2671;
+rec: -0.3232;
+kl: -178.9;
+log_p_y_by_z: 4.115;
+log_p_z_by_y: -247.8;
+
+loss: -0.2672;
+rec: -0.3217;
+kl: -179.0;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -247.8;
+
+loss: -0.2685;
+rec: -0.3226;
+kl: -179.0;
+log_p_y_by_z: 4.12;
+log_p_z_by_y: -248.3;
+
+loss: -0.2718;
+rec: -0.3207;
+kl: -179.2;
+log_p_y_by_z: 4.132;
+log_p_z_by_y: -248.1;
+
+loss: -0.2742;
+rec: -0.3187;
+kl: -179.3;
+log_p_y_by_z: 4.137;
+log_p_z_by_y: -248.1;
+
+loss: -0.2629;
+rec: -0.3267;
+kl: -178.7;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -248.2;
+
+loss: -0.2621;
+rec: -0.3235;
+kl: -178.6;
+log_p_y_by_z: 4.071;
+log_p_z_by_y: -248.2;
+
+loss: -0.2694;
+rec: -0.322;
+kl: -179.5;
+log_p_y_by_z: 4.119;
+log_p_z_by_y: -248.1;
+
+loss: -0.2646;
+rec: -0.3237;
+kl: -178.9;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -248.4;
+
+loss: -0.2641;
+rec: -0.3259;
+kl: -179.2;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -248.2;
+
+loss: -0.2721;
+rec: -0.3192;
+kl: -179.4;
+log_p_y_by_z: 4.119;
+log_p_z_by_y: -248.7;
+
+loss: -0.268;
+rec: -0.3232;
+kl: -179.6;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -248.8;
+
+loss: -0.2692;
+rec: -0.3216;
+kl: -179.0;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -248.3;
+
+loss: -0.2706;
+rec: -0.3223;
+kl: -179.8;
+log_p_y_by_z: 4.132;
+log_p_z_by_y: -248.8;
+
+loss: -0.2675;
+rec: -0.3223;
+kl: -179.0;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -248.4;
+
+loss: -0.2708;
+rec: -0.3182;
+kl: -179.4;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -248.7;
+
+loss: -0.2646;
+rec: -0.3208;
+kl: -179.3;
+log_p_y_by_z: 4.061;
+log_p_z_by_y: -248.7;
+
+loss: -0.2678;
+rec: -0.3227;
+kl: -179.7;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -248.8;
+
+loss: -0.2661;
+rec: -0.322;
+kl: -179.2;
+log_p_y_by_z: 4.089;
+log_p_z_by_y: -248.9;
+
+loss: -0.2711;
+rec: -0.3202;
+kl: -179.4;
+log_p_y_by_z: 4.119;
+log_p_z_by_y: -249.0;
+
+loss: -0.2695;
+rec: -0.3217;
+kl: -179.7;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -248.7;
+
+loss: -0.2747;
+rec: -0.3174;
+kl: -180.1;
+log_p_y_by_z: 4.12;
+log_p_z_by_y: -249.2;
+
+loss: -0.2687;
+rec: -0.3209;
+kl: -180.1;
+log_p_y_by_z: 4.096;
+log_p_z_by_y: -249.4;
+
+loss: -0.2747;
+rec: -0.3182;
+kl: -180.1;
+log_p_y_by_z: 4.128;
+log_p_z_by_y: -249.0;
+
+loss: -0.2697;
+rec: -0.3231;
+kl: -179.7;
+log_p_y_by_z: 4.132;
+log_p_z_by_y: -249.1;
+
+loss: -0.2687;
+rec: -0.3208;
+kl: -180.0;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -249.6;
+
+loss: -0.2627;
+rec: -0.3249;
+kl: -179.4;
+log_p_y_by_z: 4.082;
+log_p_z_by_y: -249.1;
+
+loss: -0.2629;
+rec: -0.3255;
+kl: -179.7;
+log_p_y_by_z: 4.087;
+log_p_z_by_y: -249.2;
+
+loss: -0.2702;
+rec: -0.322;
+kl: -180.4;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -249.5;
+
+loss: -0.2731;
+rec: -0.3183;
+kl: -180.6;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -249.8;
+
+loss: -0.2712;
+rec: -0.3201;
+kl: -180.2;
+log_p_y_by_z: 4.11;
+log_p_z_by_y: -249.7;
+
+loss: -0.2663;
+rec: -0.3231;
+kl: -180.6;
+log_p_y_by_z: 4.087;
+log_p_z_by_y: -250.0;
+
+loss: -0.2692;
+rec: -0.3204;
+kl: -180.3;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -249.7;
+
+loss: -0.2676;
+rec: -0.3203;
+kl: -180.7;
+log_p_y_by_z: 4.073;
+log_p_z_by_y: -249.8;
+
+loss: -0.2696;
+rec: -0.3216;
+kl: -180.9;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -250.1;
+
+loss: -0.2687;
+rec: -0.3243;
+kl: -180.8;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -249.9;
+
+loss: -0.2677;
+rec: -0.3219;
+kl: -180.4;
+log_p_y_by_z: 4.092;
+log_p_z_by_y: -250.0;
+
+loss: -0.2696;
+rec: -0.3211;
+kl: -180.4;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -249.8;
+
+loss: -0.2714;
+rec: -0.3213;
+kl: -180.9;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -250.1;
+
+loss: -0.2766;
+rec: -0.3161;
+kl: -180.9;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -250.4;
+
+loss: -0.2728;
+rec: -0.3199;
+kl: -181.0;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -250.4;
+
+loss: -0.2718;
+rec: -0.3208;
+kl: -181.0;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -250.3;
+
+loss: -0.2724;
+rec: -0.3216;
+kl: -181.3;
+log_p_y_by_z: 4.127;
+log_p_z_by_y: -250.5;
+
+loss: -0.268;
+rec: -0.3247;
+kl: -180.8;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -250.1;
+
+loss: -0.2739;
+rec: -0.3175;
+kl: -181.0;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -250.4;
+
+loss: -0.2748;
+rec: -0.3181;
+kl: -181.3;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -250.5;
+
+loss: -0.2719;
+rec: -0.3194;
+kl: -181.1;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -250.4;
+
+loss: -0.2719;
+rec: -0.3208;
+kl: -181.2;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -250.5;
+
+loss: -0.2681;
+rec: -0.3219;
+kl: -181.0;
+log_p_y_by_z: 4.09;
+log_p_z_by_y: -250.5;
+
+loss: -0.2669;
+rec: -0.325;
+kl: -181.3;
+log_p_y_by_z: 4.106;
+log_p_z_by_y: -250.5;
+
+loss: -0.2747;
+rec: -0.3191;
+kl: -181.7;
+log_p_y_by_z: 4.121;
+log_p_z_by_y: -250.6;
+
+loss: -0.2703;
+rec: -0.3224;
+kl: -181.3;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -250.6;
+
+loss: -0.2729;
+rec: -0.32;
+kl: -181.3;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -250.6;
+
+loss: -0.2632;
+rec: -0.3251;
+kl: -181.2;
+log_p_y_by_z: 4.071;
+log_p_z_by_y: -250.7;
+
+loss: -0.2692;
+rec: -0.3214;
+kl: -181.1;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -250.2;
+
+loss: -0.2747;
+rec: -0.3189;
+kl: -181.6;
+log_p_y_by_z: 4.12;
+log_p_z_by_y: -250.9;
+
+loss: -0.2738;
+rec: -0.3192;
+kl: -181.4;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -250.7;
+
+loss: -0.2677;
+rec: -0.3244;
+kl: -181.3;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -250.8;
+
+loss: -0.266;
+rec: -0.3254;
+kl: -181.9;
+log_p_y_by_z: 4.096;
+log_p_z_by_y: -251.0;
+
+loss: -0.2703;
+rec: -0.3189;
+kl: -181.6;
+log_p_y_by_z: 4.076;
+log_p_z_by_y: -251.0;
+
+loss: -0.2674;
+rec: -0.3225;
+kl: -181.5;
+log_p_y_by_z: 4.084;
+log_p_z_by_y: -251.1;
+
+loss: -0.2742;
+rec: -0.3189;
+kl: -181.8;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -251.1;
+
+loss: -0.272;
+rec: -0.3211;
+kl: -182.1;
+log_p_y_by_z: 4.111;
+log_p_z_by_y: -251.4;
+
+loss: -0.2761;
+rec: -0.3172;
+kl: -181.7;
+log_p_y_by_z: 4.115;
+log_p_z_by_y: -251.5;
+
+loss: -0.2686;
+rec: -0.3249;
+kl: -182.1;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -250.9;
+
+loss: -0.2815;
+rec: -0.315;
+kl: -182.5;
+log_p_y_by_z: 4.141;
+log_p_z_by_y: -251.5;
+
+loss: -0.2742;
+rec: -0.32;
+kl: -182.5;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -251.2;
+
+loss: -0.273;
+rec: -0.3207;
+kl: -182.3;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -251.5;
+
+loss: -0.2755;
+rec: -0.3181;
+kl: -182.0;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -251.3;
+
+loss: -0.2728;
+rec: -0.3195;
+kl: -181.7;
+log_p_y_by_z: 4.105;
+log_p_z_by_y: -251.6;
+
+loss: -0.2733;
+rec: -0.3182;
+kl: -182.2;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -251.4;
+
+loss: -0.2738;
+rec: -0.3184;
+kl: -182.6;
+log_p_y_by_z: 4.096;
+log_p_z_by_y: -251.7;
+
+loss: -0.273;
+rec: -0.3204;
+kl: -182.1;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -251.6;
+
+loss: -0.2732;
+rec: -0.3175;
+kl: -182.4;
+log_p_y_by_z: 4.083;
+log_p_z_by_y: -251.7;
+
+loss: -0.2654;
+rec: -0.3257;
+kl: -181.6;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -251.3;
+
+loss: -0.2649;
+rec: -0.3218;
+kl: -182.8;
+log_p_y_by_z: 4.039;
+log_p_z_by_y: -251.7;
+
+loss: -0.2731;
+rec: -0.322;
+kl: -182.5;
+log_p_y_by_z: 4.125;
+log_p_z_by_y: -251.6;
+
+loss: -0.276;
+rec: -0.3164;
+kl: -182.6;
+log_p_y_by_z: 4.098;
+log_p_z_by_y: -252.2;
+
+loss: -0.2776;
+rec: -0.3176;
+kl: -183.4;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -252.2;
+
+loss: -0.2788;
+rec: -0.3171;
+kl: -183.2;
+log_p_y_by_z: 4.127;
+log_p_z_by_y: -252.2;
+
+loss: -0.2767;
+rec: -0.3173;
+kl: -183.0;
+log_p_y_by_z: 4.11;
+log_p_z_by_y: -252.4;
+
+loss: -0.273;
+rec: -0.3212;
+kl: -182.9;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -252.4;
+
+loss: -0.2721;
+rec: -0.322;
+kl: -182.8;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -252.2;
+
+loss: -0.2734;
+rec: -0.3186;
+kl: -182.4;
+log_p_y_by_z: 4.096;
+log_p_z_by_y: -251.9;
+
+loss: -0.2736;
+rec: -0.3217;
+kl: -183.5;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -252.2;
+
+loss: -0.2702;
+rec: -0.3235;
+kl: -182.9;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -252.1;
+
+loss: -0.272;
+rec: -0.3206;
+kl: -182.9;
+log_p_y_by_z: 4.097;
+log_p_z_by_y: -252.4;
+
+loss: -0.2708;
+rec: -0.322;
+kl: -183.6;
+log_p_y_by_z: 4.092;
+log_p_z_by_y: -252.5;
+
+loss: -0.2774;
+rec: -0.3186;
+kl: -183.3;
+log_p_y_by_z: 4.126;
+log_p_z_by_y: -252.5;
+
+loss: -0.2796;
+rec: -0.3183;
+kl: -183.3;
+log_p_y_by_z: 4.146;
+log_p_z_by_y: -252.4;
+
+loss: -0.274;
+rec: -0.3205;
+kl: -183.7;
+log_p_y_by_z: 4.107;
+log_p_z_by_y: -252.7;
+
+loss: -0.2716;
+rec: -0.3225;
+kl: -183.7;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -253.1;
+
+loss: -0.2747;
+rec: -0.3206;
+kl: -183.6;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -252.8;
+
+loss: -0.2634;
+rec: -0.3198;
+kl: -182.8;
+log_p_y_by_z: 4.005;
+log_p_z_by_y: -252.4;
+
+loss: -0.2734;
+rec: -0.321;
+kl: -183.2;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -252.3;
+
+loss: -0.2789;
+rec: -0.3168;
+kl: -183.7;
+log_p_y_by_z: 4.12;
+log_p_z_by_y: -252.6;
+
+loss: -0.2784;
+rec: -0.3179;
+kl: -183.8;
+log_p_y_by_z: 4.124;
+log_p_z_by_y: -252.9;
+
+loss: -0.2742;
+rec: -0.3186;
+kl: -182.9;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -252.6;
+
+loss: -0.2739;
+rec: -0.3208;
+kl: -183.9;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -253.1;
+
+loss: -0.2572;
+rec: -0.3288;
+kl: -182.9;
+log_p_y_by_z: 4.031;
+log_p_z_by_y: -252.5;
+
+loss: -0.2689;
+rec: -0.3218;
+kl: -183.8;
+log_p_y_by_z: 4.068;
+log_p_z_by_y: -253.0;
+
+loss: -0.2729;
+rec: -0.3192;
+kl: -184.2;
+log_p_y_by_z: 4.079;
+log_p_z_by_y: -253.3;
+
+loss: -0.2791;
+rec: -0.3181;
+kl: -184.3;
+log_p_y_by_z: 4.128;
+log_p_z_by_y: -253.5;
+
+loss: -0.2763;
+rec: -0.319;
+kl: -183.9;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -253.1;
+
+loss: -0.2793;
+rec: -0.3165;
+kl: -184.1;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -253.3;
+
+loss: -0.278;
+rec: -0.3167;
+kl: -183.9;
+log_p_y_by_z: 4.107;
+log_p_z_by_y: -253.5;
+
+loss: -0.2807;
+rec: -0.3155;
+kl: -184.8;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -253.5;
+
+loss: -0.2737;
+rec: -0.3195;
+kl: -184.1;
+log_p_y_by_z: 4.092;
+log_p_z_by_y: -253.6;
+
+loss: -0.2836;
+rec: -0.3141;
+kl: -184.6;
+log_p_y_by_z: 4.131;
+log_p_z_by_y: -253.5;
+
+loss: -0.2746;
+rec: -0.3196;
+kl: -184.2;
+log_p_y_by_z:  4.1;
+log_p_z_by_y: -254.0;
+
+loss: -0.2777;
+rec: -0.3194;
+kl: -184.5;
+log_p_y_by_z: 4.126;
+log_p_z_by_y: -253.6;
+
+loss: -0.2701;
+rec: -0.3223;
+kl: -184.7;
+log_p_y_by_z: 4.077;
+log_p_z_by_y: -253.7;
+
+loss: -0.2768;
+rec: -0.3199;
+kl: -184.5;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -253.6;
+
+loss: -0.2782;
+rec: -0.3188;
+kl: -184.0;
+log_p_y_by_z: 4.129;
+log_p_z_by_y: -253.2;
+
+loss: -0.2774;
+rec: -0.3185;
+kl: -184.6;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -254.0;
+
+loss: -0.2744;
+rec: -0.3219;
+kl: -184.5;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -253.3;
+
+loss: -0.2758;
+rec: -0.3194;
+kl: -184.5;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -253.6;
+
+loss: -0.2738;
+rec: -0.3228;
+kl: -184.4;
+log_p_y_by_z: 4.121;
+log_p_z_by_y: -253.8;
+
+loss: -0.2774;
+rec: -0.3208;
+kl: -184.8;
+log_p_y_by_z: 4.134;
+log_p_z_by_y: -253.8;
+
+loss: -0.2755;
+rec: -0.3185;
+kl: -184.6;
+log_p_y_by_z: 4.094;
+log_p_z_by_y: -254.1;
+
+loss: -0.2759;
+rec: -0.3187;
+kl: -185.0;
+log_p_y_by_z: 4.097;
+log_p_z_by_y: -254.0;
+
+loss: -0.2795;
+rec: -0.316;
+kl: -184.7;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -253.7;
+
+loss: -0.277;
+rec: -0.3195;
+kl: -184.6;
+log_p_y_by_z: 4.12;
+log_p_z_by_y: -253.7;
+
+loss: -0.278;
+rec: -0.3155;
+kl: -184.7;
+log_p_y_by_z: 4.087;
+log_p_z_by_y: -254.0;
+
+loss: -0.2793;
+rec: -0.3174;
+kl: -184.9;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -253.9;
+
+loss: -0.2765;
+rec: -0.3167;
+kl: -185.0;
+log_p_y_by_z: 4.083;
+log_p_z_by_y: -254.2;
+
+loss: -0.2761;
+rec: -0.3176;
+kl: -184.8;
+log_p_y_by_z: 4.089;
+log_p_z_by_y: -254.0;
+
+loss: -0.2816;
+rec: -0.3169;
+kl: -184.8;
+log_p_y_by_z: 4.136;
+log_p_z_by_y: -253.9;
+
+loss: -0.2767;
+rec: -0.32;
+kl: -185.1;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -254.2;
+
+loss: -0.2836;
+rec: -0.3137;
+kl: -185.5;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -254.5;
+
+loss: -0.2792;
+rec: -0.3167;
+kl: -185.0;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -253.9;
+
+loss: -0.2858;
+rec: -0.3125;
+kl: -185.6;
+log_p_y_by_z: 4.126;
+log_p_z_by_y: -254.3;
+
+loss: -0.2765;
+rec: -0.3188;
+kl: -185.3;
+log_p_y_by_z: 4.101;
+log_p_z_by_y: -254.5;
+
+loss: -0.2818;
+rec: -0.3165;
+kl: -185.7;
+log_p_y_by_z: 4.126;
+log_p_z_by_y: -254.9;
+
+loss: -0.2808;
+rec: -0.3162;
+kl: -185.5;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -254.6;
+
+loss: -0.2748;
+rec: -0.3199;
+kl: -185.2;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -254.6;
+
+loss: -0.274;
+rec: -0.3217;
+kl: -185.2;
+log_p_y_by_z: 4.105;
+log_p_z_by_y: -254.6;
+
+loss: -0.2785;
+rec: -0.3163;
+kl: -185.6;
+log_p_y_by_z: 4.092;
+log_p_z_by_y: -254.5;
+
+loss: -0.2775;
+rec: -0.3193;
+kl: -185.5;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -254.9;
+
+loss: -0.2797;
+rec: -0.3189;
+kl: -185.8;
+log_p_y_by_z: 4.128;
+log_p_z_by_y: -254.8;
+
+loss: -0.2731;
+rec: -0.3215;
+kl: -185.5;
+log_p_y_by_z: 4.092;
+log_p_z_by_y: -254.6;
+
+loss: -0.2787;
+rec: -0.3164;
+kl: -185.7;
+log_p_y_by_z: 4.094;
+log_p_z_by_y: -254.9;
+
+loss: -0.2761;
+rec: -0.3219;
+kl: -185.6;
+log_p_y_by_z: 4.124;
+log_p_z_by_y: -254.8;
+
+loss: -0.2766;
+rec: -0.3193;
+kl: -185.3;
+log_p_y_by_z: 4.105;
+log_p_z_by_y: -255.1;
+
+loss: -0.2861;
+rec: -0.313;
+kl: -185.9;
+log_p_y_by_z: 4.133;
+log_p_z_by_y: -254.9;
+
+loss: -0.28;
+rec: -0.3177;
+kl: -185.8;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -255.4;
+
+Epoch 10 :
+loss: -0.2806;
+rec: -0.3166;
+kl: -185.4;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -255.3;
+
+loss: -0.2793;
+rec: -0.3158;
+kl: -186.3;
+log_p_y_by_z: 4.088;
+log_p_z_by_y: -255.2;
+
+loss: -0.2772;
+rec: -0.3175;
+kl: -186.1;
+log_p_y_by_z: 4.087;
+log_p_z_by_y: -255.5;
+
+loss: -0.2702;
+rec: -0.3179;
+kl: -185.6;
+log_p_y_by_z: 4.024;
+log_p_z_by_y: -255.0;
+
+loss: -0.2821;
+rec: -0.3179;
+kl: -186.2;
+log_p_y_by_z: 4.139;
+log_p_z_by_y: -255.4;
+
+loss: -0.2826;
+rec: -0.3175;
+kl: -186.5;
+log_p_y_by_z: 4.136;
+log_p_z_by_y: -255.3;
+
+loss: -0.2835;
+rec: -0.3133;
+kl: -186.0;
+log_p_y_by_z: 4.107;
+log_p_z_by_y: -255.1;
+
+loss: -0.2846;
+rec: -0.3159;
+kl: -186.3;
+log_p_y_by_z: 4.143;
+log_p_z_by_y: -255.3;
+
+loss: -0.2784;
+rec: -0.3203;
+kl: -186.5;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -255.6;
+
+loss: -0.2836;
+rec: -0.3151;
+kl: -186.4;
+log_p_y_by_z: 4.123;
+log_p_z_by_y: -255.6;
+
+loss: -0.2807;
+rec: -0.3151;
+kl: -186.3;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -255.5;
+
+loss: -0.2785;
+rec: -0.317;
+kl: -186.2;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -255.6;
+
+loss: -0.2793;
+rec: -0.3146;
+kl: -186.0;
+log_p_y_by_z: 4.079;
+log_p_z_by_y: -255.4;
+
+loss: -0.2808;
+rec: -0.3163;
+kl: -185.8;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -255.3;
+
+loss: -0.2782;
+rec: -0.3194;
+kl: -186.3;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -256.0;
+
+loss: -0.2816;
+rec: -0.3162;
+kl: -186.8;
+log_p_y_by_z: 4.111;
+log_p_z_by_y: -255.6;
+
+loss: -0.2879;
+rec: -0.3118;
+kl: -187.1;
+log_p_y_by_z: 4.127;
+log_p_z_by_y: -256.2;
+
+loss: -0.2819;
+rec: -0.3159;
+kl: -186.1;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -255.3;
+
+loss: -0.2781;
+rec: -0.3206;
+kl: -186.6;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -255.7;
+
+loss: -0.282;
+rec: -0.3172;
+kl: -186.8;
+log_p_y_by_z: 4.124;
+log_p_z_by_y: -256.1;
+
+loss: -0.283;
+rec: -0.3154;
+kl: -186.8;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -256.1;
+
+loss: -0.2797;
+rec: -0.3151;
+kl: -186.4;
+log_p_y_by_z: 4.084;
+log_p_z_by_y: -256.0;
+
+loss: -0.2829;
+rec: -0.3134;
+kl: -186.5;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -256.2;
+
+loss: -0.2795;
+rec: -0.3168;
+kl: -186.0;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -255.4;
+
+loss: -0.2852;
+rec: -0.3142;
+kl: -187.2;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -256.2;
+
+loss: -0.2809;
+rec: -0.3178;
+kl: -187.5;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -256.4;
+
+loss: -0.2824;
+rec: -0.3141;
+kl: -186.7;
+log_p_y_by_z: 4.098;
+log_p_z_by_y: -256.0;
+
+loss: -0.2803;
+rec: -0.3149;
+kl: -186.9;
+log_p_y_by_z: 4.083;
+log_p_z_by_y: -256.1;
+
+loss: -0.2811;
+rec: -0.3155;
+kl: -187.3;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -256.7;
+
+loss: -0.2863;
+rec: -0.314;
+kl: -186.9;
+log_p_y_by_z: 4.135;
+log_p_z_by_y: -256.1;
+
+loss: -0.2852;
+rec: -0.3126;
+kl: -187.6;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -256.7;
+
+loss: -0.2793;
+rec: -0.3169;
+kl: -187.0;
+log_p_y_by_z: 4.091;
+log_p_z_by_y: -256.3;
+
+loss: -0.2866;
+rec: -0.3159;
+kl: -187.3;
+log_p_y_by_z: 4.152;
+log_p_z_by_y: -256.2;
+
+loss: -0.2787;
+rec: -0.3172;
+kl: -187.1;
+log_p_y_by_z: 4.088;
+log_p_z_by_y: -256.5;
+
+loss: -0.2852;
+rec: -0.3148;
+kl: -187.3;
+log_p_y_by_z: 4.127;
+log_p_z_by_y: -256.8;
+
+loss: -0.2829;
+rec: -0.3145;
+kl: -187.3;
+log_p_y_by_z: 4.101;
+log_p_z_by_y: -256.8;
+
+loss: -0.2876;
+rec: -0.3139;
+kl: -187.8;
+log_p_y_by_z: 4.137;
+log_p_z_by_y: -256.9;
+
+loss: -0.2826;
+rec: -0.3153;
+kl: -187.4;
+log_p_y_by_z: 4.105;
+log_p_z_by_y: -256.7;
+
+loss: -0.2789;
+rec: -0.3193;
+kl: -187.0;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -256.6;
+
+loss: -0.2842;
+rec: -0.3159;
+kl: -187.4;
+log_p_y_by_z: 4.127;
+log_p_z_by_y: -256.5;
+
+loss: -0.2863;
+rec: -0.3146;
+kl: -187.6;
+log_p_y_by_z: 4.133;
+log_p_z_by_y: -257.0;
+
+loss: -0.2857;
+rec: -0.3147;
+kl: -188.0;
+log_p_y_by_z: 4.125;
+log_p_z_by_y: -256.9;
+
+loss: -0.2879;
+rec: -0.3117;
+kl: -187.5;
+log_p_y_by_z: 4.12;
+log_p_z_by_y: -256.7;
+
+loss: -0.2848;
+rec: -0.316;
+kl: -187.9;
+log_p_y_by_z: 4.129;
+log_p_z_by_y: -257.1;
+
+loss: -0.2849;
+rec: -0.3137;
+kl: -187.9;
+log_p_y_by_z: 4.107;
+log_p_z_by_y: -257.4;
+
+loss: -0.2781;
+rec: -0.3172;
+kl: -187.6;
+log_p_y_by_z: 4.077;
+log_p_z_by_y: -257.2;
+
+loss: -0.2849;
+rec: -0.315;
+kl: -187.6;
+log_p_y_by_z: 4.124;
+log_p_z_by_y: -256.6;
+
+loss: -0.2838;
+rec: -0.3154;
+kl: -187.4;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -256.8;
+
+loss: -0.282;
+rec: -0.3154;
+kl: -187.7;
+log_p_y_by_z: 4.096;
+log_p_z_by_y: -257.0;
+
+loss: -0.278;
+rec: -0.3195;
+kl: -187.5;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -257.3;
+
+loss: -0.2835;
+rec: -0.3166;
+kl: -188.3;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -257.5;
+
+loss: -0.2809;
+rec: -0.3185;
+kl: -187.8;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -257.6;
+
+loss: -0.285;
+rec: -0.3141;
+kl: -187.6;
+log_p_y_by_z: 4.115;
+log_p_z_by_y: -257.1;
+
+loss: -0.2814;
+rec: -0.3167;
+kl: -188.0;
+log_p_y_by_z: 4.101;
+log_p_z_by_y: -257.2;
+
+loss: -0.2861;
+rec: -0.3132;
+kl: -187.6;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -257.2;
+
+loss: -0.2845;
+rec: -0.3101;
+kl: -188.3;
+log_p_y_by_z: 4.064;
+log_p_z_by_y: -257.7;
+
+loss: -0.2757;
+rec: -0.3171;
+kl: -187.8;
+log_p_y_by_z: 4.051;
+log_p_z_by_y: -257.6;
+
+loss: -0.2836;
+rec: -0.3154;
+kl: -188.0;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -257.3;
+
+loss: -0.2867;
+rec: -0.3134;
+kl: -188.4;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -257.7;
+
+loss: -0.2898;
+rec: -0.3112;
+kl: -188.7;
+log_p_y_by_z: 4.123;
+log_p_z_by_y: -257.9;
+
+loss: -0.2874;
+rec: -0.3101;
+kl: -188.2;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -257.7;
+
+loss: -0.2787;
+rec: -0.3158;
+kl: -187.5;
+log_p_y_by_z: 4.069;
+log_p_z_by_y: -257.5;
+
+loss: -0.2845;
+rec: -0.3131;
+kl: -188.4;
+log_p_y_by_z: 4.091;
+log_p_z_by_y: -257.9;
+
+loss: -0.2782;
+rec: -0.3195;
+kl: -188.4;
+log_p_y_by_z: 4.093;
+log_p_z_by_y: -257.9;
+
+loss: -0.2838;
+rec: -0.3148;
+kl: -188.3;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -258.0;
+
+loss: -0.2857;
+rec: -0.3152;
+kl: -189.2;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -258.4;
+
+loss: -0.2828;
+rec: -0.315;
+kl: -188.2;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -257.6;
+
+loss: -0.2885;
+rec: -0.3124;
+kl: -188.8;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -257.7;
+
+loss: -0.2825;
+rec: -0.3167;
+kl: -188.8;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -258.1;
+
+loss: -0.2898;
+rec: -0.3125;
+kl: -189.4;
+log_p_y_by_z: 4.129;
+log_p_z_by_y: -258.5;
+
+loss: -0.2858;
+rec: -0.3158;
+kl: -188.8;
+log_p_y_by_z: 4.129;
+log_p_z_by_y: -257.8;
+
+loss: -0.2839;
+rec: -0.3174;
+kl: -189.1;
+log_p_y_by_z: 4.123;
+log_p_z_by_y: -258.2;
+
+loss: -0.2837;
+rec: -0.3165;
+kl: -188.5;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -257.8;
+
+loss: -0.2912;
+rec: -0.3117;
+kl: -189.2;
+log_p_y_by_z: 4.137;
+log_p_z_by_y: -258.1;
+
+loss: -0.2856;
+rec: -0.3158;
+kl: -188.4;
+log_p_y_by_z: 4.131;
+log_p_z_by_y: -257.9;
+
+loss: -0.2762;
+rec: -0.3176;
+kl: -188.8;
+log_p_y_by_z: 4.049;
+log_p_z_by_y: -258.2;
+
+loss: -0.2875;
+rec: -0.3123;
+kl: -189.3;
+log_p_y_by_z: 4.105;
+log_p_z_by_y: -258.6;
+
+loss: -0.2887;
+rec: -0.3124;
+kl: -189.8;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -258.4;
+
+loss: -0.2841;
+rec: -0.314;
+kl: -188.7;
+log_p_y_by_z: 4.094;
+log_p_z_by_y: -258.0;
+
+loss: -0.2838;
+rec: -0.3176;
+kl: -189.3;
+log_p_y_by_z: 4.121;
+log_p_z_by_y: -258.5;
+
+loss: -0.288;
+rec: -0.3119;
+kl: -189.1;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -258.3;
+
+loss: -0.2907;
+rec: -0.312;
+kl: -189.5;
+log_p_y_by_z: 4.132;
+log_p_z_by_y: -258.5;
+
+loss: -0.284;
+rec: -0.3164;
+kl: -189.1;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -258.5;
+
+loss: -0.2891;
+rec: -0.3113;
+kl: -189.0;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -258.4;
+
+loss: -0.2864;
+rec: -0.3151;
+kl: -189.0;
+log_p_y_by_z: 4.124;
+log_p_z_by_y: -258.3;
+
+loss: -0.267;
+rec: -0.3174;
+kl: -189.0;
+log_p_y_by_z: 3.955;
+log_p_z_by_y: -258.7;
+
+loss: -0.2771;
+rec: -0.3223;
+kl: -188.8;
+log_p_y_by_z: 4.107;
+log_p_z_by_y: -257.9;
+
+loss: -0.287;
+rec: -0.3136;
+kl: -189.8;
+log_p_y_by_z: 4.109;
+log_p_z_by_y: -258.9;
+
+loss: -0.292;
+rec: -0.3105;
+kl: -189.8;
+log_p_y_by_z: 4.127;
+log_p_z_by_y: -259.0;
+
+loss: -0.2902;
+rec: -0.3113;
+kl: -188.9;
+log_p_y_by_z: 4.126;
+log_p_z_by_y: -258.8;
+
+loss: -0.2837;
+rec: -0.3136;
+kl: -189.4;
+log_p_y_by_z: 4.079;
+log_p_z_by_y: -259.1;
+
+loss: -0.2857;
+rec: -0.3161;
+kl: -189.2;
+log_p_y_by_z: 4.126;
+log_p_z_by_y: -258.6;
+
+loss: -0.2879;
+rec: -0.3124;
+kl: -189.9;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -258.9;
+
+loss: -0.2899;
+rec: -0.3102;
+kl: -189.5;
+log_p_y_by_z: 4.106;
+log_p_z_by_y: -259.0;
+
+loss: -0.2896;
+rec: -0.3113;
+kl: -189.7;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -258.7;
+
+loss: -0.2882;
+rec: -0.3137;
+kl: -189.1;
+log_p_y_by_z: 4.127;
+log_p_z_by_y: -258.6;
+
+loss: -0.2917;
+rec: -0.3099;
+kl: -189.6;
+log_p_y_by_z: 4.12;
+log_p_z_by_y: -258.9;
+
+loss: -0.2837;
+rec: -0.3172;
+kl: -190.1;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -259.3;
+
+loss: -0.2846;
+rec: -0.3161;
+kl: -189.6;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -259.1;
+
+loss: -0.2913;
+rec: -0.3094;
+kl: -190.3;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -259.6;
+
+loss: -0.2886;
+rec: -0.3142;
+kl: -189.9;
+log_p_y_by_z: 4.129;
+log_p_z_by_y: -258.9;
+
+loss: -0.2853;
+rec: -0.3143;
+kl: -190.1;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -259.4;
+
+loss: -0.2835;
+rec: -0.3174;
+kl: -190.2;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -259.2;
+
+loss: -0.2879;
+rec: -0.3138;
+kl: -190.2;
+log_p_y_by_z: 4.115;
+log_p_z_by_y: -259.2;
+
+loss: -0.2886;
+rec: -0.3134;
+kl: -190.1;
+log_p_y_by_z: 4.119;
+log_p_z_by_y: -259.5;
+
+loss: -0.2848;
+rec: -0.3132;
+kl: -189.4;
+log_p_y_by_z: 4.085;
+log_p_z_by_y: -259.3;
+
+loss: -0.2941;
+rec: -0.3098;
+kl: -190.4;
+log_p_y_by_z: 4.134;
+log_p_z_by_y: -259.6;
+
+loss: -0.2928;
+rec: -0.3107;
+kl: -190.3;
+log_p_y_by_z: 4.132;
+log_p_z_by_y: -259.7;
+
+loss: -0.284;
+rec: -0.3154;
+kl: -190.2;
+log_p_y_by_z: 4.091;
+log_p_z_by_y: -259.4;
+
+loss: -0.2888;
+rec: -0.3111;
+kl: -189.6;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -259.4;
+
+loss: -0.2912;
+rec: -0.3104;
+kl: -190.3;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -259.5;
+
+loss: -0.2907;
+rec: -0.3094;
+kl: -190.5;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -259.7;
+
+loss: -0.2905;
+rec: -0.3113;
+kl: -190.7;
+log_p_y_by_z: 4.111;
+log_p_z_by_y: -259.8;
+
+loss: -0.2946;
+rec: -0.3096;
+kl: -191.2;
+log_p_y_by_z: 4.131;
+log_p_z_by_y: -260.0;
+
+loss: -0.2851;
+rec: -0.3153;
+kl: -190.7;
+log_p_y_by_z: 4.097;
+log_p_z_by_y: -260.2;
+
+loss: -0.2885;
+rec: -0.3118;
+kl: -190.0;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -259.3;
+
+loss: -0.2907;
+rec: -0.3131;
+kl: -190.4;
+log_p_y_by_z: 4.134;
+log_p_z_by_y: -259.9;
+
+loss: -0.2897;
+rec: -0.3116;
+kl: -190.0;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -259.6;
+
+loss: -0.2876;
+rec: -0.3111;
+kl: -190.4;
+log_p_y_by_z: 4.083;
+log_p_z_by_y: -259.6;
+
+loss: -0.293;
+rec: -0.3112;
+kl: -191.2;
+log_p_y_by_z: 4.131;
+log_p_z_by_y: -260.0;
+
+loss: -0.2905;
+rec: -0.3119;
+kl: -190.8;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -260.2;
+
+loss: -0.2889;
+rec: -0.3133;
+kl: -191.1;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -260.1;
+
+loss: -0.2865;
+rec: -0.3143;
+kl: -190.4;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -260.0;
+
+loss: -0.2771;
+rec: -0.3204;
+kl: -189.5;
+log_p_y_by_z: 4.081;
+log_p_z_by_y: -259.7;
+
+loss: -0.2835;
+rec: -0.3171;
+kl: -190.7;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -260.0;
+
+loss: -0.2946;
+rec: -0.3084;
+kl: -190.9;
+log_p_y_by_z: 4.121;
+log_p_z_by_y: -260.3;
+
+loss: -0.2871;
+rec: -0.3147;
+kl: -190.5;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -260.3;
+
+loss: -0.2915;
+rec: -0.3106;
+kl: -190.8;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -260.2;
+
+loss: -0.2895;
+rec: -0.3123;
+kl: -191.0;
+log_p_y_by_z: 4.108;
+log_p_z_by_y: -260.1;
+
+loss: -0.2838;
+rec: -0.3165;
+kl: -190.4;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -260.3;
+
+loss: -0.2862;
+rec: -0.3171;
+kl: -191.0;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -260.2;
+
+loss: -0.2865;
+rec: -0.312;
+kl: -191.1;
+log_p_y_by_z: 4.075;
+log_p_z_by_y: -260.2;
+
+loss: -0.2915;
+rec: -0.312;
+kl: -191.2;
+log_p_y_by_z: 4.123;
+log_p_z_by_y: -260.0;
+
+loss: -0.292;
+rec: -0.3136;
+kl: -191.0;
+log_p_y_by_z: 4.146;
+log_p_z_by_y: -260.6;
+
+loss: -0.2956;
+rec: -0.3074;
+kl: -191.4;
+log_p_y_by_z: 4.115;
+log_p_z_by_y: -260.7;
+
+loss: -0.2971;
+rec: -0.3068;
+kl: -191.1;
+log_p_y_by_z: 4.129;
+log_p_z_by_y: -260.3;
+
+loss: -0.294;
+rec: -0.3106;
+kl: -191.3;
+log_p_y_by_z: 4.133;
+log_p_z_by_y: -260.3;
+
+loss: -0.2888;
+rec: -0.3123;
+kl: -190.6;
+log_p_y_by_z: 4.105;
+log_p_z_by_y: -260.0;
+
+loss: -0.2913;
+rec: -0.3092;
+kl: -190.9;
+log_p_y_by_z: 4.096;
+log_p_z_by_y: -260.5;
+
+loss: -0.2772;
+rec: -0.3179;
+kl: -191.1;
+log_p_y_by_z: 4.04;
+log_p_z_by_y: -260.8;
+
+loss: -0.2897;
+rec: -0.3126;
+kl: -190.9;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -260.3;
+
+loss: -0.2921;
+rec: -0.3121;
+kl: -191.2;
+log_p_y_by_z: 4.131;
+log_p_z_by_y: -260.5;
+
+loss: -0.2914;
+rec: -0.3129;
+kl: -191.2;
+log_p_y_by_z: 4.131;
+log_p_z_by_y: -260.6;
+
+loss: -0.2937;
+rec: -0.3098;
+kl: -191.5;
+log_p_y_by_z: 4.119;
+log_p_z_by_y: -260.5;
+
+loss: -0.2934;
+rec: -0.3098;
+kl: -191.8;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -261.1;
+
+loss: -0.2944;
+rec: -0.3104;
+kl: -191.7;
+log_p_y_by_z: 4.132;
+log_p_z_by_y: -260.9;
+
+loss: -0.2842;
+rec: -0.3159;
+kl: -191.1;
+log_p_y_by_z: 4.09;
+log_p_z_by_y: -260.6;
+
+loss: -0.2866;
+rec: -0.3136;
+kl: -191.5;
+log_p_y_by_z: 4.087;
+log_p_z_by_y: -260.8;
+
+loss: -0.2881;
+rec: -0.3106;
+kl: -191.7;
+log_p_y_by_z: 4.071;
+log_p_z_by_y: -260.9;
+
+loss: -0.2884;
+rec: -0.3156;
+kl: -191.6;
+log_p_y_by_z: 4.124;
+log_p_z_by_y: -260.7;
+
+loss: -0.2896;
+rec: -0.3124;
+kl: -191.7;
+log_p_y_by_z: 4.103;
+log_p_z_by_y: -261.1;
+
+loss: -0.292;
+rec: -0.3109;
+kl: -191.5;
+log_p_y_by_z: 4.115;
+log_p_z_by_y: -261.0;
+
+loss: -0.288;
+rec: -0.3126;
+kl: -191.5;
+log_p_y_by_z: 4.091;
+log_p_z_by_y: -261.2;
+
+loss: -0.2936;
+rec: -0.3108;
+kl: -191.7;
+log_p_y_by_z: 4.128;
+log_p_z_by_y: -260.9;
+
+loss: -0.2971;
+rec: -0.3074;
+kl: -191.8;
+log_p_y_by_z: 4.127;
+log_p_z_by_y: -261.2;
+
+loss: -0.2885;
+rec: -0.3128;
+kl: -191.8;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -261.0;
+
+loss: -0.2914;
+rec: -0.3111;
+kl: -191.8;
+log_p_y_by_z: 4.106;
+log_p_z_by_y: -261.2;
+
+loss: -0.2974;
+rec: -0.3069;
+kl: -192.2;
+log_p_y_by_z: 4.121;
+log_p_z_by_y: -261.3;
+
+loss: -0.2916;
+rec: -0.3129;
+kl: -191.8;
+log_p_y_by_z: 4.127;
+log_p_z_by_y: -261.2;
+
+loss: -0.2965;
+rec: -0.3084;
+kl: -191.9;
+log_p_y_by_z: 4.13;
+log_p_z_by_y: -261.3;
+
+loss: -0.2884;
+rec: -0.3145;
+kl: -192.1;
+log_p_y_by_z: 4.107;
+log_p_z_by_y: -261.4;
+
+loss: -0.2961;
+rec: -0.308;
+kl: -192.4;
+log_p_y_by_z: 4.117;
+log_p_z_by_y: -261.6;
+
+loss: -0.2916;
+rec: -0.3103;
+kl: -191.5;
+log_p_y_by_z: 4.105;
+log_p_z_by_y: -261.3;
+
+loss: -0.2912;
+rec: -0.3136;
+kl: -191.6;
+log_p_y_by_z: 4.132;
+log_p_z_by_y: -261.1;
+
+loss: -0.2931;
+rec: -0.3093;
+kl: -192.2;
+log_p_y_by_z: 4.102;
+log_p_z_by_y: -261.7;
+
+loss: -0.2917;
+rec: -0.3115;
+kl: -191.8;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -261.4;
+
+loss: -0.3011;
+rec: -0.3067;
+kl: -191.7;
+log_p_y_by_z: 4.161;
+log_p_z_by_y: -261.4;
+
+loss: -0.2988;
+rec: -0.3058;
+kl: -191.9;
+log_p_y_by_z: 4.127;
+log_p_z_by_y: -261.3;
+
+loss: -0.2953;
+rec: -0.3096;
+kl: -192.4;
+log_p_y_by_z: 4.126;
+log_p_z_by_y: -261.6;
+
+loss: -0.2986;
+rec: -0.3055;
+kl: -191.6;
+log_p_y_by_z: 4.125;
+log_p_z_by_y: -261.9;
+
+loss: -0.292;
+rec: -0.3105;
+kl: -191.5;
+log_p_y_by_z: 4.11;
+log_p_z_by_y: -261.3;
+
+loss: -0.2938;
+rec: -0.3087;
+kl: -192.1;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -261.6;
+
+loss: -0.2919;
+rec: -0.3115;
+kl: -192.0;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -261.6;
+
+loss: -0.2927;
+rec: -0.3136;
+kl: -192.4;
+log_p_y_by_z: 4.138;
+log_p_z_by_y: -261.4;
+
+loss: -0.2922;
+rec: -0.3101;
+kl: -192.4;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -261.8;
+
+loss: -0.2936;
+rec: -0.3107;
+kl: -192.8;
+log_p_y_by_z: 4.115;
+log_p_z_by_y: -262.1;
+
+loss: -0.2953;
+rec: -0.3105;
+kl: -192.1;
+log_p_y_by_z: 4.137;
+log_p_z_by_y: -261.6;
+
+loss: -0.2945;
+rec: -0.3093;
+kl: -192.5;
+log_p_y_by_z: 4.112;
+log_p_z_by_y: -261.9;
+
+loss: -0.2944;
+rec: -0.3095;
+kl: -192.3;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -262.0;
+
+loss: -0.2956;
+rec: -0.3088;
+kl: -192.3;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -262.0;
+
+loss: -0.2946;
+rec: -0.3099;
+kl: -192.9;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -262.0;
+
+loss: -0.2921;
+rec: -0.3133;
+kl: -191.9;
+log_p_y_by_z: 4.135;
+log_p_z_by_y: -261.6;
+
+loss: -0.2976;
+rec: -0.3068;
+kl: -192.3;
+log_p_y_by_z: 4.121;
+log_p_z_by_y: -261.8;
+
+loss: -0.2903;
+rec: -0.3131;
+kl: -192.3;
+log_p_y_by_z: 4.111;
+log_p_z_by_y: -262.0;
+
+loss: -0.2894;
+rec: -0.313;
+kl: -192.3;
+log_p_y_by_z: 4.101;
+log_p_z_by_y: -262.1;
+
+loss: -0.2927;
+rec: -0.3116;
+kl: -192.7;
+log_p_y_by_z: 4.116;
+log_p_z_by_y: -262.2;
+
+loss: -0.2957;
+rec: -0.3075;
+kl: -193.3;
+log_p_y_by_z: 4.099;
+log_p_z_by_y: -262.6;
+
+loss: -0.2906;
+rec: -0.3114;
+kl: -192.5;
+log_p_y_by_z: 4.095;
+log_p_z_by_y: -262.3;
+
+loss: -0.294;
+rec: -0.3114;
+kl: -193.2;
+log_p_y_by_z: 4.122;
+log_p_z_by_y: -262.4;
+
+loss: -0.2962;
+rec: -0.3084;
+kl: -192.8;
+log_p_y_by_z: 4.118;
+log_p_z_by_y: -261.8;
+
+loss: -0.2935;
+rec: -0.3114;
+kl: -193.5;
+log_p_y_by_z: 4.114;
+log_p_z_by_y: -262.3;
+
+loss: -0.292;
+rec: -0.3117;
+kl: -193.2;
+log_p_y_by_z: 4.104;
+log_p_z_by_y: -262.4;
+
+loss: -0.2938;
+rec: -0.3114;
+kl: -192.6;
+log_p_y_by_z: 4.126;
+log_p_z_by_y: -262.3;
+
+loss: -0.2934;
+rec: -0.3106;
+kl: -192.7;
+log_p_y_by_z: 4.113;
+log_p_z_by_y: -262.1;
+
+loss: -0.297;
+rec: -0.3062;
+kl: -193.1;
+log_p_y_by_z: 4.101;
+log_p_z_by_y: -262.9;
+
+loss: -0.2874;
+rec: -0.314;
+kl: -192.4;
+log_p_y_by_z: 4.09;
+log_p_z_by_y: -262.4;
+
+loss: -0.2838;
+rec: -0.3134;
+kl: -192.2;
+log_p_y_by_z: 4.05;
+log_p_z_by_y: -262.0;
+
+loss: -0.2939;
+rec: -0.3102;
+kl: -193.0;
+log_p_y_by_z: 4.111;
+log_p_z_by_y: -262.4;
+
+loss: -0.3003;
+rec: -0.3061;
+kl: -193.5;
+log_p_y_by_z: 4.129;
+log_p_z_by_y: -262.7;
+
